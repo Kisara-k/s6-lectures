@@ -3,123 +3,123 @@
 ## Questions
 
 #### 1. Which of the following best describes the primary focus of ethics as a philosophical discipline?  
-A) Enforcing laws and regulations in society  
-B) Defining legal consequences for unethical behavior  
-C) Teaching practical skills for professional work  
-D) Systematically analyzing right and wrong in relation to well-being  
+A) Defining legal consequences for unethical behavior  
+B) Enforcing laws and regulations in society  
+C) Systematically analyzing right and wrong in relation to well-being  
+D) Teaching practical skills for professional work  
 
 #### 2. What distinguishes a profession from a regular job?  
 A) It is usually unpaid or volunteer work  
 B) It involves routine and mechanized tasks  
-C) It demands advanced education and adherence to ethical standards  
-D) It requires only practical training or apprenticeship  
+C) It requires only practical training or apprenticeship  
+D) It demands advanced education and adherence to ethical standards  
 
 #### 3. Which of the following are attributes of a profession?  
-A) Work that can be easily automated  
-B) Work requiring intellectual judgment and discretion  
-C) Membership based on formal education and recognized standards  
-D) Significant public-good outcomes from professional practice  
+A) Work requiring intellectual judgment and discretion  
+B) Membership based on formal education and recognized standards  
+C) Significant public-good outcomes from professional practice  
+D) Work that can be easily automated  
 
 #### 4. A professional is expected to:  
-A) Follow the profession’s ethical code  
-B) Exercise judgment in occupational tasks  
-C) Work independently without regard for peers  
+A) Work independently without regard for peers  
+B) Follow the profession’s ethical code  
+C) Exercise judgment in occupational tasks  
 D) Avoid accountability for team actions  
 
 #### 5. Professional ethics primarily serve to:  
-A) Provide a set of rules for personal behavior outside work  
-B) Ensure all members of a profession follow the same code  
-C) Replace legal requirements for professionals  
+A) Ensure all members of a profession follow the same code  
+B) Replace legal requirements for professionals  
+C) Provide a set of rules for personal behavior outside work  
 D) Guide behavior within a professional environment  
 
 #### 6. Which of the following best explains the difference between accountability and responsibility?  
 A) Both terms mean the same and can be used interchangeably  
-B) Responsibility is about performing tasks; accountability is about outcomes  
+B) Accountability applies only to leaders, responsibility only to employees  
 C) Accountability is about performing tasks; responsibility is about outcomes  
-D) Accountability applies only to leaders, responsibility only to employees  
+D) Responsibility is about performing tasks; accountability is about outcomes  
 
 #### 7. Integrity in a professional context means:  
-A) Taking credit for others’ work if it benefits the team  
-B) Avoiding difficult tasks to prevent mistakes  
-C) Using company resources for personal gain if unnoticed  
-D) Being honest and accepting both good and bad outcomes of your work  
+A) Using company resources for personal gain if unnoticed  
+B) Being honest and accepting both good and bad outcomes of your work  
+C) Avoiding difficult tasks to prevent mistakes  
+D) Taking credit for others’ work if it benefits the team  
 
 #### 8. Continuous learning is important because:  
-A) It ensures career growth and adaptation to new knowledge  
-B) It replaces the need for formal education  
-C) It is only necessary for entry-level professionals  
-D) It allows employees to avoid responsibility for mistakes  
+A) It is only necessary for entry-level professionals  
+B) It allows employees to avoid responsibility for mistakes  
+C) It replaces the need for formal education  
+D) It ensures career growth and adaptation to new knowledge  
 
 #### 9. Engineering ethics is best described as:  
-A) A field that sets standards for engineers’ obligations to society and profession  
-B) A set of laws engineers must follow to avoid legal penalties  
-C) A theoretical study with no practical application  
-D) Guidelines only relevant to technical aspects of engineering  
+A) A set of laws engineers must follow to avoid legal penalties  
+B) A theoretical study with no practical application  
+C) Guidelines only relevant to technical aspects of engineering  
+D) A field that sets standards for engineers’ obligations to society and profession  
 
 #### 10. Which of the following are common ethical issues engineers face?  
 A) Conflict of interest  
-B) Bribery and kickbacks  
+B) Ensuring legal compliance by clients and contractors  
 C) Choosing the cheapest materials regardless of safety  
-D) Ensuring legal compliance by clients and contractors  
+D) Bribery and kickbacks  
 
 #### 11. Why is it critical for engineers to adhere to ethical standards?  
 A) Because mistakes can cost lives and harm public safety  
-B) Because it ensures engineers never face dilemmas  
-C) Because unethical behavior can lead to financial loss only  
-D) Because it improves the company’s marketing strategy  
+B) Because it improves the company’s marketing strategy  
+C) Because it ensures engineers never face dilemmas  
+D) Because unethical behavior can lead to financial loss only  
 
 #### 12. Which of the following statements about ethical dilemmas in engineering is true?  
-A) Egoistic behavior helps resolve ethical dilemmas quickly  
-B) Ethical dilemmas require balancing competing interests and constraints  
-C) Practical solutions must never compromise ethical principles  
-D) Engineers should always prioritize company profits over ethical concerns  
+A) Engineers should always prioritize company profits over ethical concerns  
+B) Practical solutions must never compromise ethical principles  
+C) Ethical dilemmas require balancing competing interests and constraints  
+D) Egoistic behavior helps resolve ethical dilemmas quickly  
 
 #### 13. Respect for law, public good, and life means:  
-A) Engineers can ignore resource scarcity if deadlines are tight  
-B) Engineers should focus solely on technical accuracy, ignoring social impact  
-C) Engineers should only follow laws if convenient  
-D) Engineers must prioritize public welfare and practice within legal boundaries  
+A) Engineers should focus solely on technical accuracy, ignoring social impact  
+B) Engineers should only follow laws if convenient  
+C) Engineers must prioritize public welfare and practice within legal boundaries  
+D) Engineers can ignore resource scarcity if deadlines are tight  
 
 #### 14. Accuracy and rigor in engineering ethics require:  
-A) Misleading others if it benefits the project  
-B) Using knowledge competently and updating skills regularly  
-C) Avoiding responsibility for errors by blaming others  
-D) Performing duties carelessly to save time  
+A) Avoiding responsibility for errors by blaming others  
+B) Performing duties carelessly to save time  
+C) Misleading others if it benefits the project  
+D) Using knowledge competently and updating skills regularly  
 
 #### 15. Responsible leadership in engineering involves:  
-A) Being aware of new technologies and ethical responsibilities  
+A) Ignoring societal concerns to focus on technology  
 B) Promoting engineering achievements truthfully  
-C) Making exaggerated claims to attract clients  
-D) Ignoring societal concerns to focus on technology  
+C) Being aware of new technologies and ethical responsibilities  
+D) Making exaggerated claims to attract clients  
 
 #### 16. Which of the following best explains the relationship between professional ethics and law?  
-A) Ethics guide behavior beyond legal compliance, focusing on moral duties  
-B) Following the law is sufficient to ensure ethical conduct  
-C) Professional ethics always override legal requirements  
-D) Ethics and law are unrelated and independent  
+A) Following the law is sufficient to ensure ethical conduct  
+B) Professional ethics always override legal requirements  
+C) Ethics and law are unrelated and independent  
+D) Ethics guide behavior beyond legal compliance, focusing on moral duties  
 
 #### 17. Which of the following are considered professional values?  
 A) Continuous learning and teamwork  
-B) Avoiding feedback and working alone  
-C) Accountability and integrity  
-D) Responsibility and professional attitude  
+B) Accountability and integrity  
+C) Responsibility and professional attitude  
+D) Avoiding feedback and working alone  
 
 #### 18. An engineer receiving gifts from a contractor should:  
 A) Reject gifts that could be seen as bribery or kickbacks  
 B) Accept them without question to maintain good relations  
-C) Consider if the gifts could influence impartiality or create conflicts of interest  
-D) Use the gifts for personal benefit regardless of company policy  
+C) Use the gifts for personal benefit regardless of company policy  
+D) Consider if the gifts could influence impartiality or create conflicts of interest  
 
 #### 19. What is the role of professional bodies and regulatory organizations in a profession?  
 A) To enforce ethical codes and discipline members who violate them  
-B) To promote competition among professionals  
-C) To set admission and conduct standards for members  
-D) To provide technical training only, without ethical oversight  
+B) To provide technical training only, without ethical oversight  
+C) To promote competition among professionals  
+D) To set admission and conduct standards for members  
 
 #### 20. Why might some misuse the definitions of engineering ethics?  
-A) To avoid making practical decisions under constraints  
-B) To ensure strict adherence to ethical principles  
-C) To promote cooperative and rational problem-solving  
+A) To promote cooperative and rational problem-solving  
+B) To avoid making practical decisions under constraints  
+C) To ensure strict adherence to ethical principles  
 D) To sabotage or misrepresent facts due to ego or inability to reason  
 
 
@@ -129,180 +129,180 @@ D) To sabotage or misrepresent facts due to ego or inability to reason
 ## Answers
 
 #### 1. Which of the following best describes the primary focus of ethics as a philosophical discipline?  
-A) ✗ Ethics is broader than just enforcing laws.  
-B) ✗ Ethics is not about defining legal consequences only.  
-C) ✗ Teaching practical skills is not the focus of ethics.  
-D) ✓ Ethics systematically analyzes right and wrong related to well-being.  
+A) ✗ Ethics is not about defining legal consequences only.  
+B) ✗ Ethics is broader than just enforcing laws.  
+C) ✓ Ethics systematically analyzes right and wrong related to well-being.  
+D) ✗ Teaching practical skills is not the focus of ethics.  
 
-**Correct:** D
+**Correct:** C
 
 
 #### 2. What distinguishes a profession from a regular job?  
 A) ✗ Professions are typically paid and recognized occupations.  
 B) ✗ Professions involve non-routine, intellectual work, not mechanized tasks.  
-C) ✓ Professions require advanced education and ethical standards.  
-D) ✗ Professions require formal education, not just practical training.  
-
-**Correct:** C
-
-
-#### 3. Which of the following are attributes of a profession?  
-A) ✗ Routine and automated work is not characteristic of a profession.  
-B) ✓ Intellectual judgment and discretion are key attributes.  
-C) ✓ Formal education and standards for membership are required.  
-D) ✓ Professions produce significant public-good outcomes.  
-
-**Correct:** B, C, D
-
-
-#### 4. A professional is expected to:  
-A) ✓ Follow the profession’s ethical code.  
-B) ✓ Exercise judgment in tasks.  
-C) ✗ Professionals work collaboratively, not ignoring peers.  
-D) ✗ Professionals are accountable for their own and team actions if leaders.  
-
-**Correct:** A, B
-
-
-#### 5. Professional ethics primarily serve to:  
-A) ✗ They guide behavior specifically in professional settings, not personal life.  
-B) ✓ They ensure all members follow the same code.  
-C) ✗ Ethics complement but do not replace legal requirements.  
-D) ✓ They guide behavior within professional environments.  
-
-**Correct:** B, D
-
-
-#### 6. Which of the following best explains the difference between accountability and responsibility?  
-A) ✗ They are different concepts, not interchangeable.  
-B) ✓ Responsibility is about performing tasks; accountability is about outcomes.  
-C) ✗ This reverses the correct definitions.  
-D) ✗ Both employees and leaders have responsibilities and accountabilities.  
-
-**Correct:** B
-
-
-#### 7. Integrity in a professional context means:  
-A) ✗ Taking credit for others’ work is dishonest.  
-B) ✗ Avoiding difficult tasks is not integrity.  
-C) ✗ Using resources for personal gain is unethical.  
-D) ✓ Being honest and accepting all outcomes is integrity.  
+C) ✗ Professions require formal education, not just practical training.  
+D) ✓ Professions require advanced education and ethical standards.  
 
 **Correct:** D
 
 
-#### 8. Continuous learning is important because:  
-A) ✓ It ensures career growth and adaptation.  
-B) ✗ It supplements, not replaces, formal education.  
-C) ✗ It is necessary at all career stages.  
-D) ✗ It does not excuse avoiding responsibility.  
+#### 3. Which of the following are attributes of a profession?  
+A) ✓ Intellectual judgment and discretion are key attributes.  
+B) ✓ Formal education and standards for membership are required.  
+C) ✓ Professions produce significant public-good outcomes.  
+D) ✗ Routine and automated work is not characteristic of a profession.  
 
-**Correct:** A
+**Correct:** A, B, C
+
+
+#### 4. A professional is expected to:  
+A) ✗ Professionals work collaboratively, not ignoring peers.  
+B) ✓ Follow the profession’s ethical code.  
+C) ✓ Exercise judgment in tasks.  
+D) ✗ Professionals are accountable for their own and team actions if leaders.  
+
+**Correct:** B, C
+
+
+#### 5. Professional ethics primarily serve to:  
+A) ✓ They ensure all members follow the same code.  
+B) ✗ Ethics complement but do not replace legal requirements.  
+C) ✗ They guide behavior specifically in professional settings, not personal life.  
+D) ✓ They guide behavior within professional environments.  
+
+**Correct:** A, D
+
+
+#### 6. Which of the following best explains the difference between accountability and responsibility?  
+A) ✗ They are different concepts, not interchangeable.  
+B) ✗ Both employees and leaders have responsibilities and accountabilities.  
+C) ✗ This reverses the correct definitions.  
+D) ✓ Responsibility is about performing tasks; accountability is about outcomes.  
+
+**Correct:** D
+
+
+#### 7. Integrity in a professional context means:  
+A) ✗ Using resources for personal gain is unethical.  
+B) ✓ Being honest and accepting all outcomes is integrity.  
+C) ✗ Avoiding difficult tasks is not integrity.  
+D) ✗ Taking credit for others’ work is dishonest.  
+
+**Correct:** B
+
+
+#### 8. Continuous learning is important because:  
+A) ✗ It is necessary at all career stages.  
+B) ✗ It does not excuse avoiding responsibility.  
+C) ✗ It supplements, not replaces, formal education.  
+D) ✓ It ensures career growth and adaptation.  
+
+**Correct:** D
 
 
 #### 9. Engineering ethics is best described as:  
-A) ✓ It sets standards for engineers’ obligations to society and profession.  
-B) ✗ It is broader than just legal compliance.  
-C) ✗ It has practical applications in professional practice.  
-D) ✗ It covers both technical and business conduct.  
+A) ✗ It is broader than just legal compliance.  
+B) ✗ It has practical applications in professional practice.  
+C) ✗ It covers both technical and business conduct.  
+D) ✓ It sets standards for engineers’ obligations to society and profession.  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 10. Which of the following are common ethical issues engineers face?  
 A) ✓ Conflict of interest is a common issue.  
-B) ✓ Bribery and kickbacks are ethical concerns.  
+B) ✓ Ensuring legal compliance is important.  
 C) ✗ Choosing cheapest materials regardless of safety is unethical.  
-D) ✓ Ensuring legal compliance is important.  
+D) ✓ Bribery and kickbacks are ethical concerns.  
 
 **Correct:** A, B, D
 
 
 #### 11. Why is it critical for engineers to adhere to ethical standards?  
 A) ✓ Mistakes can cost lives and harm public safety.  
-B) ✗ Ethical dilemmas are common and unavoidable.  
-C) ✗ Consequences go beyond financial loss.  
-D) ✗ Ethics is not primarily about marketing.  
+B) ✗ Ethics is not primarily about marketing.  
+C) ✗ Ethical dilemmas are common and unavoidable.  
+D) ✗ Consequences go beyond financial loss.  
 
 **Correct:** A
 
 
 #### 12. Which of the following statements about ethical dilemmas in engineering is true?  
-A) ✗ Egoistic behavior hinders ethical decision-making.  
-B) ✓ Ethical dilemmas require balancing competing interests.  
-C) ✓ Practical solutions must respect ethical principles.  
-D) ✗ Profits should not override ethics.  
+A) ✗ Profits should not override ethics.  
+B) ✓ Practical solutions must respect ethical principles.  
+C) ✓ Ethical dilemmas require balancing competing interests.  
+D) ✗ Egoistic behavior hinders ethical decision-making.  
 
 **Correct:** B, C
 
 
 #### 13. Respect for law, public good, and life means:  
-A) ✗ Resource scarcity should be considered, not ignored.  
-B) ✗ Social impact is integral to engineering ethics.  
-C) ✗ Laws must be followed consistently.  
-D) ✓ Public welfare and legal boundaries are priorities.  
+A) ✗ Social impact is integral to engineering ethics.  
+B) ✗ Laws must be followed consistently.  
+C) ✓ Public welfare and legal boundaries are priorities.  
+D) ✗ Resource scarcity should be considered, not ignored.  
+
+**Correct:** C
+
+
+#### 14. Accuracy and rigor in engineering ethics require:  
+A) ✗ Avoiding responsibility is unethical.  
+B) ✗ Carelessness violates ethical standards.  
+C) ✗ Misleading others is unethical.  
+D) ✓ Competent use of knowledge and skill updating.  
 
 **Correct:** D
 
 
-#### 14. Accuracy and rigor in engineering ethics require:  
-A) ✗ Misleading others is unethical.  
-B) ✓ Competent use of knowledge and skill updating.  
-C) ✗ Avoiding responsibility is unethical.  
-D) ✗ Carelessness violates ethical standards.  
-
-**Correct:** B
-
-
 #### 15. Responsible leadership in engineering involves:  
-A) ✓ Awareness of technology and ethical duties.  
+A) ✗ Ignoring societal concerns is irresponsible.  
 B) ✓ Truthfully promoting engineering achievements.  
-C) ✗ Exaggerated claims are unethical.  
-D) ✗ Ignoring societal concerns is irresponsible.  
+C) ✓ Awareness of technology and ethical duties.  
+D) ✗ Exaggerated claims are unethical.  
 
-**Correct:** A, B
+**Correct:** B, C
 
 
 #### 16. Which of the following best explains the relationship between professional ethics and law?  
-A) ✓ Ethics guide behavior beyond legal compliance.  
-B) ✗ Legal compliance alone does not guarantee ethical conduct.  
-C) ✗ Ethics do not override legal requirements.  
-D) ✗ Ethics and law are related but not independent.  
+A) ✗ Legal compliance alone does not guarantee ethical conduct.  
+B) ✗ Ethics do not override legal requirements.  
+C) ✗ Ethics and law are related but not independent.  
+D) ✓ Ethics guide behavior beyond legal compliance.  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 17. Which of the following are considered professional values?  
 A) ✓ Continuous learning and teamwork are important values.  
-B) ✗ Avoiding feedback and working alone contradict professional values.  
-C) ✓ Accountability and integrity are core values.  
-D) ✓ Responsibility and professional attitude are key values.  
+B) ✓ Accountability and integrity are core values.  
+C) ✓ Responsibility and professional attitude are key values.  
+D) ✗ Avoiding feedback and working alone contradict professional values.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 18. An engineer receiving gifts from a contractor should:  
 A) ✓ Reject gifts that could be bribery or kickbacks.  
 B) ✗ Accepting gifts without question risks conflicts of interest.  
-C) ✓ Consider if gifts influence impartiality.  
-D) ✗ Using gifts for personal benefit regardless of policy is unethical.  
+C) ✗ Using gifts for personal benefit regardless of policy is unethical.  
+D) ✓ Consider if gifts influence impartiality.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 19. What is the role of professional bodies and regulatory organizations in a profession?  
 A) ✓ Enforcing ethical codes and disciplining members.  
-B) ✗ Promoting competition is not their primary role.  
-C) ✓ Setting admission and conduct standards.  
-D) ✗ They provide ethical oversight, not just technical training.  
+B) ✗ They provide ethical oversight, not just technical training.  
+C) ✗ Promoting competition is not their primary role.  
+D) ✓ Setting admission and conduct standards.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 20. Why might some misuse the definitions of engineering ethics?  
-A) ✗ Misuse avoids practical decisions, not promotes them.  
-B) ✗ Misuse does not promote strict adherence to ethics.  
-C) ✗ Misuse hinders cooperative problem-solving.  
+A) ✗ Misuse hinders cooperative problem-solving.  
+B) ✗ Misuse avoids practical decisions, not promotes them.  
+C) ✗ Misuse does not promote strict adherence to ethics.  
 D) ✓ To sabotage or misrepresent facts due to ego or poor reasoning.  
 
 **Correct:** D

@@ -15,106 +15,106 @@ C) Yard-scale devices
 D) Foot-scale devices  
 
 #### 3. Implicit input in ubiquitous computing is best described as:  
-A) Explicit commands given by the user through voice or touch  
-B) Input that requires no conscious effort from the user  
-C) Sensor-based input that may be ambiguous or uncertain  
-D) Input from traditional devices like keyboard and mouse only  
+A) Input from traditional devices like keyboard and mouse only  
+B) Sensor-based input that may be ambiguous or uncertain  
+C) Explicit commands given by the user through voice or touch  
+D) Input that requires no conscious effort from the user  
 
 #### 4. Which of the following are examples of ambient displays?  
-A) A smartphone notification sound  
+A) The Dangling String showing network activity  
 B) A flashing error message on a computer screen  
-C) The Dangling String showing network activity  
+C) A smartphone notification sound  
 D) The Water Lamp changing light based on data flow  
 
 #### 5. What challenges arise from using sensor-based implicit input?  
-A) Ambiguity due to imperfect recognition technologies  
+A) Sensors always provide perfectly accurate data  
 B) The need to interpret uncertain or noisy data  
-C) Sensors always provide perfectly accurate data  
+C) Ambiguity due to imperfect recognition technologies  
 D) Users must constantly correct sensor errors manually  
 
 #### 6. How does ubiquitous computing change traditional HCI evaluation methods?  
 A) Long-term authentic evaluation is often difficult  
-B) Success metrics may include playfulness and non-distraction  
-C) Technologies are mature and well-understood for evaluation  
-D) It makes task-centric evaluation more straightforward  
+B) It makes task-centric evaluation more straightforward  
+C) Success metrics may include playfulness and non-distraction  
+D) Technologies are mature and well-understood for evaluation  
 
 #### 7. Which of the following best describe the relationship between physical and digital worlds in ubiquitous computing?  
-A) Physical actions have no effect on digital systems  
+A) Physical and digital worlds remain completely separate  
 B) Digital output can be superimposed on physical objects  
 C) Actions on physical objects can trigger electronic responses  
-D) Physical and digital worlds remain completely separate  
+D) Physical actions have no effect on digital systems  
 
 #### 8. Which of these is NOT a typical application theme of ubiquitous computing?  
 A) Continuous interaction without clear start or end  
-B) Single-task focused, isolated computing sessions  
-C) Context-aware computing  
+B) Context-aware computing  
+C) Single-task focused, isolated computing sessions  
 D) Automated capture and access  
 
 #### 9. What is a key difference between virtual reality (VR) and augmented reality (AR)?  
-A) AR creates a fully immersive digital environment  
-B) VR overlays digital information on the real world  
+A) AR mixes virtual objects with the physical environment  
+B) AR creates a fully immersive digital environment  
 C) VR simulates a complete virtual world separate from reality  
-D) AR mixes virtual objects with the physical environment  
+D) VR overlays digital information on the real world  
 
 #### 10. Which of the following are challenges specific to augmented reality?  
 A) Creating fully immersive 3D environments  
-B) Registration and alignment of virtual and real objects  
+B) Ensuring virtual objects interact realistically with the physical world  
 C) Eye gaze direction tracking  
-D) Ensuring virtual objects interact realistically with the physical world  
+D) Registration and alignment of virtual and real objects  
 
 #### 11. Why might desktop VR be preferred over headset VR in some cases?  
-A) It uses ordinary monitors and PCs  
-B) It requires expensive specialized hardware  
-C) It is cheaper and more convenient  
-D) It provides a more immersive experience  
+A) It provides a more immersive experience  
+B) It uses ordinary monitors and PCs  
+C) It requires expensive specialized hardware  
+D) It is cheaper and more convenient  
 
 #### 12. Which of the following statements about VRML (Virtual Reality Markup Language) is true?  
-A) It allows 3D objects and scenes to be described in ASCII text  
-B) It requires specialized VR headsets to view content  
-C) It is a programming language for building physical devices  
-D) It is used to create VR scenes on the web  
+A) It is used to create VR scenes on the web  
+B) It is a programming language for building physical devices  
+C) It requires specialized VR headsets to view content  
+D) It allows 3D objects and scenes to be described in ASCII text  
 
 #### 13. In the context of ubiquitous computing, what does “knowledge in the world” emphasize?  
-A) Storing all knowledge inside the user’s memory  
-B) Relying solely on digital databases for knowledge  
-C) Using the physical environment as a source of information  
-D) Ignoring physical context in interaction design  
+A) Using the physical environment as a source of information  
+B) Ignoring physical context in interaction design  
+C) Storing all knowledge inside the user’s memory  
+D) Relying solely on digital databases for knowledge  
 
 #### 14. Which of the following best describe the “foot-scale” devices?  
 A) Devices that are typically fixed and immobile  
-B) Large displays shared by many people in buildings  
-C) Devices like smartphones and PDAs that are always carried  
+B) Devices like smartphones and PDAs that are always carried  
+C) Large displays shared by many people in buildings  
 D) Medium-sized devices like notebooks and tablets, not always carried  
 
 #### 15. What is a “digital desk” in ubiquitous computing?  
-A) A workspace where physical and digital objects interact seamlessly  
-B) A virtual reality simulation of an office desk  
-C) A desktop computer with multiple monitors  
-D) A physical desk with no computing capabilities  
+A) A virtual reality simulation of an office desk  
+B) A physical desk with no computing capabilities  
+C) A workspace where physical and digital objects interact seamlessly  
+D) A desktop computer with multiple monitors  
 
 #### 16. Which of the following theories are particularly relevant to ubiquitous computing?  
-A) Activity theory, emphasizing fluid goals and actions  
-B) Classical cognitive psychology, focusing only on internal mental processes  
-C) Ethnography, for deep contextual understanding  
-D) Situated action, focusing on improvisation over planning  
+A) Ethnography, for deep contextual understanding  
+B) Activity theory, emphasizing fluid goals and actions  
+C) Situated action, focusing on improvisation over planning  
+D) Classical cognitive psychology, focusing only on internal mental processes  
 
 #### 17. What is a key reason why ubiquitous computing activities are not task-centric?  
 A) Users prefer to switch devices frequently for each task  
-B) Technologies are designed for single, isolated tasks only  
-C) Interaction is continuous and embedded in everyday life  
-D) Users perform clearly defined tasks with explicit start and end points  
+B) Interaction is continuous and embedded in everyday life  
+C) Users perform clearly defined tasks with explicit start and end points  
+D) Technologies are designed for single, isolated tasks only  
 
 #### 18. Which of the following are examples of yard-scale devices?  
-A) Smart bulletin boards shared by many users  
-B) Notebooks and tablets  
-C) Smartphones and PDAs  
-D) Electronic whiteboards and plasma displays  
+A) Notebooks and tablets  
+B) Smart bulletin boards shared by many users  
+C) Electronic whiteboards and plasma displays  
+D) Smartphones and PDAs  
 
 #### 19. In data visualization, what advantage does 3D visualization provide over 2D?  
 A) It can represent invisible fields or spatial data more intuitively  
-B) It allows hierarchical data to be represented as cone trees  
+B) It is always easier to view and understand than 2D charts  
 C) It eliminates all ambiguity in data interpretation  
-D) It is always easier to view and understand than 2D charts  
+D) It allows hierarchical data to be represented as cone trees  
 
 #### 20. Which of the following statements about time and interactivity in visualization are correct?  
 A) Visualizing events in time can help understand complex histories like medical records  
@@ -147,156 +147,156 @@ D) ✗ Foot-scale devices — Usually notebooks/tablets, not always carried.
 
 
 #### 3. Implicit input in ubiquitous computing is best described as:  
-A) ✗ Explicit commands given by the user through voice or touch — Explicit input requires conscious user action.  
-B) ✓ Input that requires no conscious effort from the user — Implicit input is often automatic and unconscious.  
-C) ✓ Sensor-based input that may be ambiguous or uncertain — Implicit input relies on sensors and can be imperfect.  
-D) ✗ Input from traditional devices like keyboard and mouse only — This is explicit input.  
+A) ✗ Input from traditional devices like keyboard and mouse only — This is explicit input.  
+B) ✓ Sensor-based input that may be ambiguous or uncertain — Implicit input relies on sensors and can be imperfect.  
+C) ✗ Explicit commands given by the user through voice or touch — Explicit input requires conscious user action.  
+D) ✓ Input that requires no conscious effort from the user — Implicit input is often automatic and unconscious.  
+
+**Correct:** B, D
+
+
+#### 4. Which of the following are examples of ambient displays?  
+A) ✓ The Dangling String showing network activity — Classic ambient display example.  
+B) ✗ A flashing error message on a computer screen — Explicit and disruptive, not ambient.  
+C) ✗ A smartphone notification sound — This is explicit and attention-grabbing, not ambient.  
+D) ✓ The Water Lamp changing light based on data flow — Another ambient display example.  
+
+**Correct:** A, D
+
+
+#### 5. What challenges arise from using sensor-based implicit input?  
+A) ✗ Sensors always provide perfectly accurate data — Sensors are often noisy or ambiguous.  
+B) ✓ The need to interpret uncertain or noisy data — Systems must handle uncertainty.  
+C) ✓ Ambiguity due to imperfect recognition technologies — Recognition errors cause ambiguity.  
+D) ✗ Users must constantly correct sensor errors manually — Usually systems try to handle errors automatically.  
 
 **Correct:** B, C
 
 
-#### 4. Which of the following are examples of ambient displays?  
-A) ✗ A smartphone notification sound — This is explicit and attention-grabbing, not ambient.  
-B) ✗ A flashing error message on a computer screen — Explicit and disruptive, not ambient.  
-C) ✓ The Dangling String showing network activity — Classic ambient display example.  
-D) ✓ The Water Lamp changing light based on data flow — Another ambient display example.  
-
-**Correct:** C, D
-
-
-#### 5. What challenges arise from using sensor-based implicit input?  
-A) ✓ Ambiguity due to imperfect recognition technologies — Recognition errors cause ambiguity.  
-B) ✓ The need to interpret uncertain or noisy data — Systems must handle uncertainty.  
-C) ✗ Sensors always provide perfectly accurate data — Sensors are often noisy or ambiguous.  
-D) ✗ Users must constantly correct sensor errors manually — Usually systems try to handle errors automatically.  
-
-**Correct:** A, B
-
-
 #### 6. How does ubiquitous computing change traditional HCI evaluation methods?  
 A) ✓ Long-term authentic evaluation is often difficult — New tech and continuous use complicate evaluation.  
-B) ✓ Success metrics may include playfulness and non-distraction — Different from traditional efficiency metrics.  
-C) ✗ Technologies are mature and well-understood for evaluation — Ubicomp is still emerging and evolving.  
-D) ✗ It makes task-centric evaluation more straightforward — Ubicomp is less task-centric, making evaluation harder.  
+B) ✗ It makes task-centric evaluation more straightforward — Ubicomp is less task-centric, making evaluation harder.  
+C) ✓ Success metrics may include playfulness and non-distraction — Different from traditional efficiency metrics.  
+D) ✗ Technologies are mature and well-understood for evaluation — Ubicomp is still emerging and evolving.  
 
-**Correct:** A, B
+**Correct:** A, C
 
 
 #### 7. Which of the following best describe the relationship between physical and digital worlds in ubiquitous computing?  
-A) ✗ Physical actions have no effect on digital systems — Ubicomp aims to link physical and digital worlds.  
+A) ✗ Physical and digital worlds remain completely separate — Ubicomp merges these worlds.  
 B) ✓ Digital output can be superimposed on physical objects — Key idea in augmented reality and ubicomp.  
 C) ✓ Actions on physical objects can trigger electronic responses — Physical-digital interaction is central.  
-D) ✗ Physical and digital worlds remain completely separate — Ubicomp merges these worlds.  
+D) ✗ Physical actions have no effect on digital systems — Ubicomp aims to link physical and digital worlds.  
 
 **Correct:** B, C
 
 
 #### 8. Which of these is NOT a typical application theme of ubiquitous computing?  
 A) ✗ Continuous interaction without clear start or end — Characteristic of ubicomp.  
-B) ✓ Single-task focused, isolated computing sessions — Opposite of ubicomp’s continuous, embedded interaction.  
-C) ✗ Context-aware computing — Core theme of ubicomp.  
+B) ✗ Context-aware computing — Core theme of ubicomp.  
+C) ✓ Single-task focused, isolated computing sessions — Opposite of ubicomp’s continuous, embedded interaction.  
 D) ✗ Automated capture and access — Important application area.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 9. What is a key difference between virtual reality (VR) and augmented reality (AR)?  
-A) ✗ AR creates a fully immersive digital environment — This is VR’s role.  
-B) ✗ VR overlays digital information on the real world — This describes AR, not VR.  
+A) ✓ AR mixes virtual objects with the physical environment — AR overlays digital info on the real world.  
+B) ✗ AR creates a fully immersive digital environment — This is VR’s role.  
 C) ✓ VR simulates a complete virtual world separate from reality — VR replaces reality with a virtual one.  
-D) ✓ AR mixes virtual objects with the physical environment — AR overlays digital info on the real world.  
+D) ✗ VR overlays digital information on the real world — This describes AR, not VR.  
 
-**Correct:** C, D
+**Correct:** A, C
 
 
 #### 10. Which of the following are challenges specific to augmented reality?  
 A) ✗ Creating fully immersive 3D environments — More relevant to VR than AR.  
-B) ✓ Registration and alignment of virtual and real objects — Critical for AR accuracy.  
+B) ✓ Ensuring virtual objects interact realistically with the physical world — Key AR challenge.  
 C) ✓ Eye gaze direction tracking — Important for aligning AR content and interaction.  
-D) ✓ Ensuring virtual objects interact realistically with the physical world — Key AR challenge.  
+D) ✓ Registration and alignment of virtual and real objects — Critical for AR accuracy.  
 
 **Correct:** B, C, D
 
 
 #### 11. Why might desktop VR be preferred over headset VR in some cases?  
-A) ✓ It uses ordinary monitors and PCs — Makes it accessible and convenient.  
-B) ✗ It requires expensive specialized hardware — Desktop VR uses ordinary PCs.  
-C) ✓ It is cheaper and more convenient — Desktop VR uses existing hardware.  
-D) ✗ It provides a more immersive experience — Headsets are more immersive.  
+A) ✗ It provides a more immersive experience — Headsets are more immersive.  
+B) ✓ It uses ordinary monitors and PCs — Makes it accessible and convenient.  
+C) ✗ It requires expensive specialized hardware — Desktop VR uses ordinary PCs.  
+D) ✓ It is cheaper and more convenient — Desktop VR uses existing hardware.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 12. Which of the following statements about VRML (Virtual Reality Markup Language) is true?  
-A) ✓ It allows 3D objects and scenes to be described in ASCII text — VRML is text-based and human-readable.  
-B) ✗ It requires specialized VR headsets to view content — VRML content can be viewed on regular browsers with plugins.  
-C) ✗ It is a programming language for building physical devices — VRML describes virtual scenes, not hardware.  
-D) ✓ It is used to create VR scenes on the web — VRML is a web-based VR description language.  
+A) ✓ It is used to create VR scenes on the web — VRML is a web-based VR description language.  
+B) ✗ It is a programming language for building physical devices — VRML describes virtual scenes, not hardware.  
+C) ✗ It requires specialized VR headsets to view content — VRML content can be viewed on regular browsers with plugins.  
+D) ✓ It allows 3D objects and scenes to be described in ASCII text — VRML is text-based and human-readable.  
 
 **Correct:** A, D
 
 
 #### 13. In the context of ubiquitous computing, what does “knowledge in the world” emphasize?  
-A) ✗ Storing all knowledge inside the user’s memory — Opposite of externalizing knowledge.  
-B) ✗ Relying solely on digital databases for knowledge — Ubicomp stresses physical context too.  
-C) ✓ Using the physical environment as a source of information — Physical world carries knowledge.  
-D) ✗ Ignoring physical context in interaction design — Ubicomp emphasizes physical context.  
+A) ✓ Using the physical environment as a source of information — Physical world carries knowledge.  
+B) ✗ Ignoring physical context in interaction design — Ubicomp emphasizes physical context.  
+C) ✗ Storing all knowledge inside the user’s memory — Opposite of externalizing knowledge.  
+D) ✗ Relying solely on digital databases for knowledge — Ubicomp stresses physical context too.  
 
-**Correct:** C
+**Correct:** A
 
 
 #### 14. Which of the following best describe the “foot-scale” devices?  
 A) ✗ Devices that are typically fixed and immobile — Foot-scale devices are portable but not always carried.  
-B) ✗ Large displays shared by many people in buildings — Yard-scale devices.  
-C) ✗ Devices like smartphones and PDAs that are always carried — These are inch-scale.  
+B) ✗ Devices like smartphones and PDAs that are always carried — These are inch-scale.  
+C) ✗ Large displays shared by many people in buildings — Yard-scale devices.  
 D) ✓ Medium-sized devices like notebooks and tablets, not always carried — Correct description.  
 
 **Correct:** D
 
 
 #### 15. What is a “digital desk” in ubiquitous computing?  
-A) ✓ A workspace where physical and digital objects interact seamlessly — Correct concept.  
-B) ✗ A virtual reality simulation of an office desk — Not necessarily VR, but physical-digital integration.  
-C) ✗ A desktop computer with multiple monitors — Too narrow, digital desk is more about physical-digital merging.  
-D) ✗ A physical desk with no computing capabilities — Digital desk integrates computing.  
-
-**Correct:** A
-
-
-#### 16. Which of the following theories are particularly relevant to ubiquitous computing?  
-A) ✓ Activity theory, emphasizing fluid goals and actions — Ubicomp interaction is fluid and context-dependent.  
-B) ✗ Classical cognitive psychology, focusing only on internal mental processes — Ubicomp stresses environment and context.  
-C) ✓ Ethnography, for deep contextual understanding — Important for studying ubicomp in real contexts.  
-D) ✓ Situated action, focusing on improvisation over planning — Ubicomp supports opportunistic behavior.  
-
-**Correct:** A, C, D
-
-
-#### 17. What is a key reason why ubiquitous computing activities are not task-centric?  
-A) ✗ Users prefer to switch devices frequently for each task — Ubicomp encourages fluid, ongoing use.  
-B) ✗ Technologies are designed for single, isolated tasks only — Ubicomp aims for seamless integration.  
-C) ✓ Interaction is continuous and embedded in everyday life — Core characteristic of ubicomp.  
-D) ✗ Users perform clearly defined tasks with explicit start and end points — Ubicomp supports continuous interaction.  
+A) ✗ A virtual reality simulation of an office desk — Not necessarily VR, but physical-digital integration.  
+B) ✗ A physical desk with no computing capabilities — Digital desk integrates computing.  
+C) ✓ A workspace where physical and digital objects interact seamlessly — Correct concept.  
+D) ✗ A desktop computer with multiple monitors — Too narrow, digital desk is more about physical-digital merging.  
 
 **Correct:** C
 
 
-#### 18. Which of the following are examples of yard-scale devices?  
-A) ✓ Smart bulletin boards shared by many users — Also yard-scale devices.  
-B) ✗ Notebooks and tablets — Foot-scale devices.  
-C) ✗ Smartphones and PDAs — Inch-scale devices.  
-D) ✓ Electronic whiteboards and plasma displays — Yard-scale, large shared devices.  
+#### 16. Which of the following theories are particularly relevant to ubiquitous computing?  
+A) ✓ Ethnography, for deep contextual understanding — Important for studying ubicomp in real contexts.  
+B) ✓ Activity theory, emphasizing fluid goals and actions — Ubicomp interaction is fluid and context-dependent.  
+C) ✓ Situated action, focusing on improvisation over planning — Ubicomp supports opportunistic behavior.  
+D) ✗ Classical cognitive psychology, focusing only on internal mental processes — Ubicomp stresses environment and context.  
 
-**Correct:** A, D
+**Correct:** A, B, C
+
+
+#### 17. What is a key reason why ubiquitous computing activities are not task-centric?  
+A) ✗ Users prefer to switch devices frequently for each task — Ubicomp encourages fluid, ongoing use.  
+B) ✓ Interaction is continuous and embedded in everyday life — Core characteristic of ubicomp.  
+C) ✗ Users perform clearly defined tasks with explicit start and end points — Ubicomp supports continuous interaction.  
+D) ✗ Technologies are designed for single, isolated tasks only — Ubicomp aims for seamless integration.  
+
+**Correct:** B
+
+
+#### 18. Which of the following are examples of yard-scale devices?  
+A) ✗ Notebooks and tablets — Foot-scale devices.  
+B) ✓ Smart bulletin boards shared by many users — Also yard-scale devices.  
+C) ✓ Electronic whiteboards and plasma displays — Yard-scale, large shared devices.  
+D) ✗ Smartphones and PDAs — Inch-scale devices.  
+
+**Correct:** B, C
 
 
 #### 19. In data visualization, what advantage does 3D visualization provide over 2D?  
 A) ✓ It can represent invisible fields or spatial data more intuitively — 3D helps visualize complex spatial phenomena.  
-B) ✓ It allows hierarchical data to be represented as cone trees — Cone trees are a 3D hierarchy visualization.  
+B) ✗ It is always easier to view and understand than 2D charts — Not always; 3D can be harder to interpret.  
 C) ✗ It eliminates all ambiguity in data interpretation — 3D can sometimes add complexity or confusion.  
-D) ✗ It is always easier to view and understand than 2D charts — Not always; 3D can be harder to interpret.  
+D) ✓ It allows hierarchical data to be represented as cone trees — Cone trees are a 3D hierarchy visualization.  
 
-**Correct:** A, B
+**Correct:** A, D
 
 
 #### 20. Which of the following statements about time and interactivity in visualization are correct?  

@@ -3,124 +3,124 @@
 ## Questions
 
 #### 1. What are essential design requirements for effective user support systems?  
-A) Use of complex technical jargon to ensure precision  
-B) Help content that matches actual system behavior  
-C) Consistency between help system and paper documentation  
-D) Continuous availability concurrent with the main application  
+A) Consistency between help system and paper documentation  
+B) Continuous availability concurrent with the main application  
+C) Help content that matches actual system behavior  
+D) Use of complex technical jargon to ensure precision  
 
 #### 2. Which of the following are typical types of user support?  
-A) On-line tutorials  
-B) Full explanation  
-C) Quick reference  
-D) Automated error correction without user input  
+A) Quick reference  
+B) On-line tutorials  
+C) Automated error correction without user input  
+D) Full explanation  
 
 #### 3. What characteristics define command assistance as a user support approach?  
-A) It is best suited for quick reference needs  
+A) It assumes the user knows what command to look for  
 B) It provides help on specific commands upon user request  
 C) It automatically corrects user errors without notification  
-D) It assumes the user knows what command to look for  
+D) It is best suited for quick reference needs  
 
 #### 4. Which statements about context-sensitive help are true?  
-A) It is less intuitive than command assistance  
-B) It provides help based on the current user interface context  
-C) Tooltips are an example of context-sensitive help  
-D) It requires the user to manually search for help topics  
+A) Tooltips are an example of context-sensitive help  
+B) It requires the user to manually search for help topics  
+C) It provides help based on the current user interface context  
+D) It is less intuitive than command assistance  
 
 #### 5. What are the limitations of wizards in user support?  
-A) They guide users step-by-step through complex tasks  
-B) They constrain task execution, limiting flexibility  
-C) They do not allow users to go back to previous steps  
+A) They do not allow users to go back to previous steps  
+B) They guide users step-by-step through complex tasks  
+C) They constrain task execution, limiting flexibility  
 D) They allow users to freely explore all system features  
 
 #### 6. Which of the following describe adaptive help systems?  
-A) They always interrupt the user to offer assistance  
-B) They raise questions about who controls the help interaction  
-C) They use knowledge of the user, task, and context to tailor help  
-D) They require minimal knowledge acquisition to function effectively  
+A) They require minimal knowledge acquisition to function effectively  
+B) They use knowledge of the user, task, and context to tailor help  
+C) They always interrupt the user to offer assistance  
+D) They raise questions about who controls the help interaction  
 
 #### 7. In user modeling, what does the overlay approach involve?  
-A) Allowing users to configure their own expertise level  
-B) Comparing actual user behavior to an ideal expert model  
-C) Classifying users into predefined categories or stereotypes  
+A) Comparing actual user behavior to an ideal expert model  
+B) Classifying users into predefined categories or stereotypes  
+C) Allowing users to configure their own expertise level  
 D) Ignoring differences in user knowledge and providing generic help  
 
 #### 8. What are common challenges in knowledge representation for help systems?  
 A) Acquiring and encoding domain knowledge  
-B) Ensuring help content is always brief and minimal  
-C) Interpreting user behavior accurately  
-D) Managing resource constraints like memory and speed  
+B) Managing resource constraints like memory and speed  
+C) Ensuring help content is always brief and minimal  
+D) Interpreting user behavior accurately  
 
 #### 9. Which of the following are true about the advisory strategy in help systems?  
-A) Examples include reminders and tutorials  
+A) It involves choosing the correct style of advice for a situation  
 B) Most intelligent help systems extensively model advisory strategy  
-C) It involves choosing the correct style of advice for a situation  
+C) Examples include reminders and tutorials  
 D) It is irrelevant to the effectiveness of user support  
 
 #### 10. What are the differences between help and documentation in user support?  
 A) Documentation is system-oriented and general  
-B) Both should follow the same design principles  
+B) Help is usually less accurate than documentation  
 C) Help is problem-oriented and specific  
-D) Help is usually less accurate than documentation  
+D) Both should follow the same design principles  
 
 #### 11. Which presentation methods are effective for displaying help content?  
-A) Instructional and consistent language  
-B) Pop-up boxes and hint icons  
-C) Split screen or new window displays  
-D) Large blocks of unstructured text  
+A) Split screen or new window displays  
+B) Large blocks of unstructured text  
+C) Instructional and consistent language  
+D) Pop-up boxes and hint icons  
 
 #### 12. What issues arise when implementing help systems?  
-A) Ensuring flexibility and extensibility for future updates  
+A) Ignoring screen space and memory limitations  
 B) Deciding if help is an OS command, meta-command, or application feature  
 C) Structuring help data as a single file, hierarchy, or database  
-D) Ignoring screen space and memory limitations  
+D) Ensuring flexibility and extensibility for future updates  
 
 #### 13. Which statements about assistants in user support are correct?  
-A) They must allow users to disable or control their behavior  
-B) They always improve user productivity without exception  
-C) They can be irritating if not under user control  
-D) They monitor user behavior and offer contextual advice  
+A) They monitor user behavior and offer contextual advice  
+B) They can be irritating if not under user control  
+C) They must allow users to disable or control their behavior  
+D) They always improve user productivity without exception  
 
 #### 14. What does flexibility in user support systems mean?  
-A) Preventing users from continuing work until help is acknowledged  
-B) Supporting different levels of user expertise  
-C) Forcing all users to follow the same help interaction path  
-D) Allowing users to interact in ways appropriate to their experience and task  
+A) Allowing users to interact in ways appropriate to their experience and task  
+B) Preventing users from continuing work until help is acknowledged  
+C) Supporting different levels of user expertise  
+D) Forcing all users to follow the same help interaction path  
 
 #### 15. Which of the following are true about command prompts as a support approach?  
-A) They provide information about correct command usage after errors  
-B) They are effective for complex semantic errors  
-C) They replace the need for any other help system  
-D) They assume some prior knowledge of the command  
+A) They are effective for complex semantic errors  
+B) They provide information about correct command usage after errors  
+C) They assume some prior knowledge of the command  
+D) They replace the need for any other help system  
 
 #### 16. What are the main issues in adaptive help regarding initiative?  
-A) If the system can interrupt the user to offer help  
-B) Whether the user or system controls the help interaction  
-C) How to ensure the system never offers unsolicited help  
+A) How to ensure the system never offers unsolicited help  
+B) If the system can interrupt the user to offer help  
+C) Whether the user or system controls the help interaction  
 D) Whether the user can override system suggestions  
 
 #### 17. Which knowledge representation techniques are suitable for large domains?  
 A) Rule-based systems using logic and production rules  
-B) Frame-based systems with slot-filling structures  
-C) Network-based systems linking facts and frames  
-D) Example-based systems trained to classify situations  
+B) Network-based systems linking facts and frames  
+C) Example-based systems trained to classify situations  
+D) Frame-based systems with slot-filling structures  
 
 #### 18. What problems can arise from poor consistency in user support?  
-A) Increased robustness of the help system  
+A) Difficulty in maintaining and updating help content  
 B) User confusion and reduced trust in the help system  
-C) Difficulty in maintaining and updating help content  
+C) Increased robustness of the help system  
 D) Conflicting information between help and documentation  
 
 #### 19. Which of the following describe the scope issue in adaptive help?  
-A) Ignoring differences in user expertise between applications  
+A) The complexity added when expertise varies across applications  
 B) Whether adaptation occurs at the application or system level  
-C) The complexity added when expertise varies across applications  
+C) Ignoring differences in user expertise between applications  
 D) Limiting adaptation to only one task within an application  
 
 #### 20. Why should user support be designed integrally with the system rather than as an add-on?  
 A) To provide seamless and consistent user experience  
-B) To ensure help content is relevant and context-sensitive  
-C) To focus on technological issues over content and context  
-D) To avoid duplication of effort and conflicting information  
+B) To avoid duplication of effort and conflicting information  
+C) To ensure help content is relevant and context-sensitive  
+D) To focus on technological issues over content and context  
 
 
 
@@ -129,81 +129,81 @@ D) To avoid duplication of effort and conflicting information
 ## Answers
 
 #### 1. What are essential design requirements for effective user support systems?  
-A) ✗ Use of complex technical jargon to ensure precision — Jargon hinders understanding, not helps.  
-B) ✓ Help content that matches actual system behavior — Accuracy is critical to avoid confusion.  
-C) ✓ Consistency between help system and paper documentation — Consistency prevents conflicting information.  
-D) ✓ Continuous availability concurrent with the main application — Help must be accessible while users work.  
-
-**Correct:** B, C, D
-
-
-#### 2. Which of the following are typical types of user support?  
-A) ✓ On-line tutorials — Structured learning for users.  
-B) ✓ Full explanation — Provides comprehensive system understanding.  
-C) ✓ Quick reference — Common for fast, task-specific help.  
-D) ✗ Automated error correction without user input — Not a typical user support type; more of a system feature.  
+A) ✓ Consistency between help system and paper documentation — Consistency prevents conflicting information.  
+B) ✓ Continuous availability concurrent with the main application — Help must be accessible while users work.  
+C) ✓ Help content that matches actual system behavior — Accuracy is critical to avoid confusion.  
+D) ✗ Use of complex technical jargon to ensure precision — Jargon hinders understanding, not helps.  
 
 **Correct:** A, B, C
 
 
+#### 2. Which of the following are typical types of user support?  
+A) ✓ Quick reference — Common for fast, task-specific help.  
+B) ✓ On-line tutorials — Structured learning for users.  
+C) ✗ Automated error correction without user input — Not a typical user support type; more of a system feature.  
+D) ✓ Full explanation — Provides comprehensive system understanding.  
+
+**Correct:** A, B, D
+
+
 #### 3. What characteristics define command assistance as a user support approach?  
-A) ✓ It is best suited for quick reference needs — Designed for fast access to command info.  
+A) ✓ It assumes the user knows what command to look for — Users must know what to ask about.  
 B) ✓ It provides help on specific commands upon user request — Core feature of command assistance.  
 C) ✗ It automatically corrects user errors without notification — Command assistance is reactive, not automatic correction.  
-D) ✓ It assumes the user knows what command to look for — Users must know what to ask about.  
+D) ✓ It is best suited for quick reference needs — Designed for fast access to command info.  
 
 **Correct:** A, B, D
 
 
 #### 4. Which statements about context-sensitive help are true?  
-A) ✗ It is less intuitive than command assistance — Usually more intuitive because it matches context.  
-B) ✓ It provides help based on the current user interface context — Tailors help to what user is doing.  
-C) ✓ Tooltips are an example of context-sensitive help — Classic example.  
-D) ✗ It requires the user to manually search for help topics — It is automatic based on context.  
+A) ✓ Tooltips are an example of context-sensitive help — Classic example.  
+B) ✗ It requires the user to manually search for help topics — It is automatic based on context.  
+C) ✓ It provides help based on the current user interface context — Tailors help to what user is doing.  
+D) ✗ It is less intuitive than command assistance — Usually more intuitive because it matches context.  
 
-**Correct:** B, C
+**Correct:** A, C
 
 
 #### 5. What are the limitations of wizards in user support?  
-A) ✓ They guide users step-by-step through complex tasks — This is their main purpose.  
-B) ✓ They constrain task execution, limiting flexibility — Wizards guide users stepwise, limiting freedom.  
-C) ✗ They do not allow users to go back to previous steps — Good wizards must allow going back.  
+A) ✗ They do not allow users to go back to previous steps — Good wizards must allow going back.  
+B) ✓ They guide users step-by-step through complex tasks — This is their main purpose.  
+C) ✓ They constrain task execution, limiting flexibility — Wizards guide users stepwise, limiting freedom.  
 D) ✗ They allow users to freely explore all system features — Wizards are task-specific, not exploratory.  
-
-**Correct:** A, B
-
-
-#### 6. Which of the following describe adaptive help systems?  
-A) ✗ They always interrupt the user to offer assistance — Interruptions are optional and often undesirable.  
-B) ✓ They raise questions about who controls the help interaction — Control is a key design issue.  
-C) ✓ They use knowledge of the user, task, and context to tailor help — Core feature of adaptive help.  
-D) ✗ They require minimal knowledge acquisition to function effectively — They require considerable knowledge.  
 
 **Correct:** B, C
 
 
+#### 6. Which of the following describe adaptive help systems?  
+A) ✗ They require minimal knowledge acquisition to function effectively — They require considerable knowledge.  
+B) ✓ They use knowledge of the user, task, and context to tailor help — Core feature of adaptive help.  
+C) ✗ They always interrupt the user to offer assistance — Interruptions are optional and often undesirable.  
+D) ✓ They raise questions about who controls the help interaction — Control is a key design issue.  
+
+**Correct:** B, D
+
+
 #### 7. In user modeling, what does the overlay approach involve?  
-A) ✗ Allowing users to configure their own expertise level — This is user-configured modeling.  
-B) ✓ Comparing actual user behavior to an ideal expert model — Overlay models track deviations from expert use.  
-C) ✗ Classifying users into predefined categories or stereotypes — This is the stereotype approach.  
+A) ✓ Comparing actual user behavior to an ideal expert model — Overlay models track deviations from expert use.  
+B) ✗ Classifying users into predefined categories or stereotypes — This is the stereotype approach.  
+C) ✗ Allowing users to configure their own expertise level — This is user-configured modeling.  
 D) ✗ Ignoring differences in user knowledge and providing generic help — Opposite of overlay modeling.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 8. What are common challenges in knowledge representation for help systems?  
 A) ✓ Acquiring and encoding domain knowledge — Knowledge acquisition is difficult.  
-B) ✗ Ensuring help content is always brief and minimal — Brevity is good but not a core challenge here.  
-C) ✓ Interpreting user behavior accurately — User actions can be ambiguous.  
-D) ✓ Managing resource constraints like memory and speed — Practical limitations affect design.  
+B) ✓ Managing resource constraints like memory and speed — Practical limitations affect design.  
+C) ✗ Ensuring help content is always brief and minimal — Brevity is good but not a core challenge here.  
+D) ✓ Interpreting user behavior accurately — User actions can be ambiguous.  
 
-**Correct:** A, C, D
+**Correct:** A, B, D
 
 
 #### 9. Which of the following are true about the advisory strategy in help systems?  
-A) ✓ Examples include reminders and tutorials — These are advisory styles.  
+A) ✓ It involves choosing the correct style of advice for a situation — Strategy affects help effectiveness.  
 B) ✗ Most intelligent help systems extensively model advisory strategy — Few do this well.  
-C) ✓ It involves choosing the correct style of advice for a situation — Strategy affects help effectiveness.  
+C) ✓ Examples include reminders and tutorials — These are advisory styles.  
 D) ✗ It is irrelevant to the effectiveness of user support — Advisory strategy is important.  
 
 **Correct:** A, C
@@ -211,98 +211,98 @@ D) ✗ It is irrelevant to the effectiveness of user support — Advisory strate
 
 #### 10. What are the differences between help and documentation in user support?  
 A) ✓ Documentation is system-oriented and general — Provides broad system info.  
-B) ✓ Both should follow the same design principles — Consistency is key.  
+B) ✗ Help is usually less accurate than documentation — Both should be accurate.  
 C) ✓ Help is problem-oriented and specific — Focuses on immediate user issues.  
-D) ✗ Help is usually less accurate than documentation — Both should be accurate.  
+D) ✓ Both should follow the same design principles — Consistency is key.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 11. Which presentation methods are effective for displaying help content?  
-A) ✓ Instructional and consistent language — Improves clarity and usability.  
-B) ✓ Pop-up boxes and hint icons — Provide unobtrusive, context-sensitive help.  
-C) ✓ Split screen or new window displays — Allow simultaneous viewing of help and work.  
-D) ✗ Large blocks of unstructured text — Hard to read and discourages use.  
+A) ✓ Split screen or new window displays — Allow simultaneous viewing of help and work.  
+B) ✗ Large blocks of unstructured text — Hard to read and discourages use.  
+C) ✓ Instructional and consistent language — Improves clarity and usability.  
+D) ✓ Pop-up boxes and hint icons — Provide unobtrusive, context-sensitive help.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 12. What issues arise when implementing help systems?  
-A) ✓ Ensuring flexibility and extensibility for future updates — Important for long-term usability.  
+A) ✗ Ignoring screen space and memory limitations — These must be considered.  
 B) ✓ Deciding if help is an OS command, meta-command, or application feature — Affects integration and access.  
 C) ✓ Structuring help data as a single file, hierarchy, or database — Impacts navigation and maintenance.  
-D) ✗ Ignoring screen space and memory limitations — These must be considered.  
-
-**Correct:** A, B, C
-
-
-#### 13. Which statements about assistants in user support are correct?  
-A) ✓ They must allow users to disable or control their behavior — User control is essential.  
-B) ✗ They always improve user productivity without exception — Can sometimes distract or frustrate.  
-C) ✓ They can be irritating if not under user control — Poorly designed assistants annoy users.  
-D) ✓ They monitor user behavior and offer contextual advice — Core function of assistants.  
-
-**Correct:** A, C, D
-
-
-#### 14. What does flexibility in user support systems mean?  
-A) ✗ Preventing users from continuing work until help is acknowledged — Would be intrusive, not flexible.  
-B) ✓ Supporting different levels of user expertise — Key aspect of flexibility.  
-C) ✗ Forcing all users to follow the same help interaction path — Opposite of flexibility.  
-D) ✓ Allowing users to interact in ways appropriate to their experience and task — Supports diverse user needs.  
-
-**Correct:** B, D
-
-
-#### 15. Which of the following are true about command prompts as a support approach?  
-A) ✓ They provide information about correct command usage after errors — Help users fix syntax mistakes.  
-B) ✗ They are effective for complex semantic errors — Usually only handle simple syntax errors.  
-C) ✗ They replace the need for any other help system — Limited scope, not comprehensive.  
-D) ✓ They assume some prior knowledge of the command — Users must know the command exists.  
-
-**Correct:** A, D
-
-
-#### 16. What are the main issues in adaptive help regarding initiative?  
-A) ✓ If the system can interrupt the user to offer help — Interruptions can be helpful or annoying.  
-B) ✓ Whether the user or system controls the help interaction — Control affects user experience.  
-C) ✗ How to ensure the system never offers unsolicited help — Sometimes unsolicited help is beneficial.  
-D) ✓ Whether the user can override system suggestions — User control is important.  
-
-**Correct:** A, B, D
-
-
-#### 17. Which knowledge representation techniques are suitable for large domains?  
-A) ✓ Rule-based systems using logic and production rules — Scalable to large knowledge bases.  
-B) ✗ Frame-based systems with slot-filling structures — Better for small domains.  
-C) ✓ Network-based systems linking facts and frames — Can organize complex relationships.  
-D) ✓ Example-based systems trained to classify situations — Useful when rules are hard to define.  
-
-**Correct:** A, C, D
-
-
-#### 18. What problems can arise from poor consistency in user support?  
-A) ✗ Increased robustness of the help system — Inconsistency reduces robustness.  
-B) ✓ User confusion and reduced trust in the help system — Undermines effectiveness.  
-C) ✓ Difficulty in maintaining and updating help content — Inconsistency complicates maintenance.  
-D) ✓ Conflicting information between help and documentation — Causes confusion.  
+D) ✓ Ensuring flexibility and extensibility for future updates — Important for long-term usability.  
 
 **Correct:** B, C, D
 
 
-#### 19. Which of the following describe the scope issue in adaptive help?  
-A) ✗ Ignoring differences in user expertise between applications — Would reduce adaptation effectiveness.  
-B) ✓ Whether adaptation occurs at the application or system level — Defines complexity and coverage.  
-C) ✓ The complexity added when expertise varies across applications — Makes system-level adaptation harder.  
-D) ✗ Limiting adaptation to only one task within an application — Too narrow for many adaptive systems.  
+#### 13. Which statements about assistants in user support are correct?  
+A) ✓ They monitor user behavior and offer contextual advice — Core function of assistants.  
+B) ✓ They can be irritating if not under user control — Poorly designed assistants annoy users.  
+C) ✓ They must allow users to disable or control their behavior — User control is essential.  
+D) ✗ They always improve user productivity without exception — Can sometimes distract or frustrate.  
+
+**Correct:** A, B, C
+
+
+#### 14. What does flexibility in user support systems mean?  
+A) ✓ Allowing users to interact in ways appropriate to their experience and task — Supports diverse user needs.  
+B) ✗ Preventing users from continuing work until help is acknowledged — Would be intrusive, not flexible.  
+C) ✓ Supporting different levels of user expertise — Key aspect of flexibility.  
+D) ✗ Forcing all users to follow the same help interaction path — Opposite of flexibility.  
+
+**Correct:** A, C
+
+
+#### 15. Which of the following are true about command prompts as a support approach?  
+A) ✗ They are effective for complex semantic errors — Usually only handle simple syntax errors.  
+B) ✓ They provide information about correct command usage after errors — Help users fix syntax mistakes.  
+C) ✓ They assume some prior knowledge of the command — Users must know the command exists.  
+D) ✗ They replace the need for any other help system — Limited scope, not comprehensive.  
 
 **Correct:** B, C
 
 
-#### 20. Why should user support be designed integrally with the system rather than as an add-on?  
-A) ✓ To provide seamless and consistent user experience — Integration avoids disjointed help.  
-B) ✓ To ensure help content is relevant and context-sensitive — Integration improves relevance.  
-C) ✗ To focus on technological issues over content and context — Content and context are more important.  
-D) ✓ To avoid duplication of effort and conflicting information — Helps maintain consistency.  
+#### 16. What are the main issues in adaptive help regarding initiative?  
+A) ✗ How to ensure the system never offers unsolicited help — Sometimes unsolicited help is beneficial.  
+B) ✓ If the system can interrupt the user to offer help — Interruptions can be helpful or annoying.  
+C) ✓ Whether the user or system controls the help interaction — Control affects user experience.  
+D) ✓ Whether the user can override system suggestions — User control is important.  
+
+**Correct:** B, C, D
+
+
+#### 17. Which knowledge representation techniques are suitable for large domains?  
+A) ✓ Rule-based systems using logic and production rules — Scalable to large knowledge bases.  
+B) ✓ Network-based systems linking facts and frames — Can organize complex relationships.  
+C) ✓ Example-based systems trained to classify situations — Useful when rules are hard to define.  
+D) ✗ Frame-based systems with slot-filling structures — Better for small domains.  
+
+**Correct:** A, B, C
+
+
+#### 18. What problems can arise from poor consistency in user support?  
+A) ✓ Difficulty in maintaining and updating help content — Inconsistency complicates maintenance.  
+B) ✓ User confusion and reduced trust in the help system — Undermines effectiveness.  
+C) ✗ Increased robustness of the help system — Inconsistency reduces robustness.  
+D) ✓ Conflicting information between help and documentation — Causes confusion.  
 
 **Correct:** A, B, D
+
+
+#### 19. Which of the following describe the scope issue in adaptive help?  
+A) ✓ The complexity added when expertise varies across applications — Makes system-level adaptation harder.  
+B) ✓ Whether adaptation occurs at the application or system level — Defines complexity and coverage.  
+C) ✗ Ignoring differences in user expertise between applications — Would reduce adaptation effectiveness.  
+D) ✗ Limiting adaptation to only one task within an application — Too narrow for many adaptive systems.  
+
+**Correct:** A, B
+
+
+#### 20. Why should user support be designed integrally with the system rather than as an add-on?  
+A) ✓ To provide seamless and consistent user experience — Integration avoids disjointed help.  
+B) ✓ To avoid duplication of effort and conflicting information — Helps maintain consistency.  
+C) ✓ To ensure help content is relevant and context-sensitive — Integration improves relevance.  
+D) ✗ To focus on technological issues over content and context — Content and context are more important.  
+
+**Correct:** A, B, C

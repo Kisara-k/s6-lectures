@@ -3,124 +3,124 @@
 ## Questions
 
 #### 1. What is the primary purpose of heuristics in user interface design?  
-A) To serve as theoretical principles grounded in psychology  
-B) To provide strict rules that must be followed without exception  
-C) To offer practical guidelines that help improve usability efficiently  
-D) To replace user testing entirely  
+A) To provide strict rules that must be followed without exception  
+B) To replace user testing entirely  
+C) To serve as theoretical principles grounded in psychology  
+D) To offer practical guidelines that help improve usability efficiently  
 
 #### 2. Which of the following are characteristics of Nielsen’s heuristics?  
-A) They focus on error prevention and minimalist design  
-B) They are primarily concerned with aesthetic appeal only  
+A) They emphasize recognition rather than recall  
+B) They focus on error prevention and minimalist design  
 C) They are vendor-specific and platform-dependent  
-D) They emphasize recognition rather than recall  
+D) They are primarily concerned with aesthetic appeal only  
 
 #### 3. Which of these statements about Shneiderman and Plaisant’s golden rules is true?  
-A) They recommend maximizing short-term memory load for better learning  
-B) They include a rule about supporting an internal locus of control  
-C) They focus exclusively on error recovery rather than prevention  
-D) They emphasize designing dialogues to yield closure  
+A) They emphasize designing dialogues to yield closure  
+B) They focus exclusively on error recovery rather than prevention  
+C) They include a rule about supporting an internal locus of control  
+D) They recommend maximizing short-term memory load for better learning  
 
 #### 4. How does heuristic evaluation differ from user studies?  
-A) Heuristic evaluation is based on experts using heuristics to find issues  
-B) User studies rely on expert inspection without user involvement  
-C) Heuristic evaluation involves real users performing tasks  
-D) User studies observe actual user behavior during task completion  
+A) User studies observe actual user behavior during task completion  
+B) Heuristic evaluation involves real users performing tasks  
+C) User studies rely on expert inspection without user involvement  
+D) Heuristic evaluation is based on experts using heuristics to find issues  
 
 #### 5. Which of the following are true about heuristic evaluation?  
-A) Aggregated evaluations from multiple experts improve issue coverage  
-B) It requires extensive user participation  
+A) It requires extensive user participation  
+B) It is a holistic evaluation method focusing on the entire system  
 C) A single expert can reliably find all usability problems  
-D) It is a holistic evaluation method focusing on the entire system  
+D) Aggregated evaluations from multiple experts improve issue coverage  
 
 #### 6. What is meant by “visibility of system status” in Nielsen’s heuristics?  
-A) The system should hide all background processes from the user  
+A) The system should provide timely feedback about what is happening  
 B) Users should be able to see all system files at all times  
-C) The system should provide timely feedback about what is happening  
-D) The interface should display progress indicators during long operations  
+C) The interface should display progress indicators during long operations  
+D) The system should hide all background processes from the user  
 
 #### 7. Which of the following best describes the heuristic “match between system and the real world”?  
-A) Designing interfaces that look like physical objects only  
-B) Avoiding metaphors to reduce confusion  
-C) Following real-world conventions and familiar language  
-D) Using technical jargon to educate users  
+A) Avoiding metaphors to reduce confusion  
+B) Following real-world conventions and familiar language  
+C) Using technical jargon to educate users  
+D) Designing interfaces that look like physical objects only  
 
 #### 8. Why is “recognition rather than recall” important in interface design?  
-A) It encourages users to learn the system deeply before use  
-B) It reduces cognitive load by making options visible  
-C) It hides advanced features to simplify the interface  
-D) It forces users to memorize commands for efficiency  
+A) It reduces cognitive load by making options visible  
+B) It encourages users to learn the system deeply before use  
+C) It forces users to memorize commands for efficiency  
+D) It hides advanced features to simplify the interface  
 
 #### 9. Which of these are examples of vendor-specific guidelines?  
-A) Shneiderman and Plaisant’s Golden Rules  
-B) Microsoft Official User Interface Guidelines  
-C) Apple’s Mac OS X Human Interface Guidelines  
-D) Nielsen’s 10 Usability Heuristics  
+A) Nielsen’s 10 Usability Heuristics  
+B) Apple’s Mac OS X Human Interface Guidelines  
+C) Shneiderman and Plaisant’s Golden Rules  
+D) Microsoft Official User Interface Guidelines  
 
 #### 10. What is a key difference between vendor-specific guidelines and general heuristics?  
 A) General heuristics are always legally binding  
-B) Vendor guidelines ignore usability principles  
-C) General heuristics are only applicable to mobile apps  
-D) Vendor guidelines are more prescriptive and platform-centered  
+B) Vendor guidelines are more prescriptive and platform-centered  
+C) Vendor guidelines ignore usability principles  
+D) General heuristics are only applicable to mobile apps  
 
 #### 11. Which of the following are included in Shneiderman and Plaisant’s golden rules?  
 A) Offer informative feedback  
 B) Increase short-term memory load to improve retention  
-C) Strive for consistency  
-D) Permit easy reversal of actions  
+C) Permit easy reversal of actions  
+D) Strive for consistency  
 
 #### 12. How does “user control and freedom” manifest in an interface?  
 A) By automatically correcting user errors without notification  
-B) By providing multiple ways to exit or cancel operations  
+B) By restricting users to a fixed workflow  
 C) By allowing users to undo and redo actions easily  
-D) By restricting users to a fixed workflow  
+D) By providing multiple ways to exit or cancel operations  
 
 #### 13. What does “aesthetic and minimalist design” imply in Nielsen’s heuristics?  
-A) Simplifying the interface to focus on essential content  
+A) Using decorative elements to enhance visual appeal regardless of function  
 B) Removing irrelevant or rarely needed information  
 C) Including as much information as possible on every screen  
-D) Using decorative elements to enhance visual appeal regardless of function  
+D) Simplifying the interface to focus on essential content  
 
 #### 14. Which of the following statements about error prevention and recovery are correct?  
-A) Preventing errors is preferable to just providing good error messages  
-B) Allowing easy reversal of actions supports error recovery  
+A) Allowing easy reversal of actions supports error recovery  
+B) Preventing errors is preferable to just providing good error messages  
 C) Users should be helped to recognize, diagnose, and recover from errors  
 D) Error messages should use technical codes to help developers  
 
 #### 15. What does “support internal locus of control” mean in Shneiderman and Plaisant’s rules?  
 A) Users feel in charge of the system and initiate actions  
-B) The system controls all user actions automatically  
-C) The interface limits user choices to prevent errors  
-D) Users are passive recipients of system feedback  
+B) The interface limits user choices to prevent errors  
+C) Users are passive recipients of system feedback  
+D) The system controls all user actions automatically  
 
 #### 16. Why is reducing short-term memory load important in interface design?  
-A) It increases the difficulty of learning the system  
-B) It helps users by displaying necessary information clearly and consistently  
-C) It forces users to memorize complex sequences  
-D) It encourages users to rely on external documentation  
+A) It helps users by displaying necessary information clearly and consistently  
+B) It encourages users to rely on external documentation  
+C) It increases the difficulty of learning the system  
+D) It forces users to memorize complex sequences  
 
 #### 17. Which of the following statements about consistency in interface design are true?  
-A) Consistency applies to terminology, layout, and behavior  
+A) Inconsistency can confuse users and increase errors  
 B) Consistency helps users build accurate mental models  
 C) Different words and actions should be used to keep the interface interesting  
-D) Inconsistency can confuse users and increase errors  
+D) Consistency applies to terminology, layout, and behavior  
 
 #### 18. What is a limitation of heuristic evaluation?  
-A) A single expert may miss many usability problems  
-B) It focuses only on specific user tasks rather than the whole system  
-C) It is very expensive and time-consuming compared to user studies  
-D) It requires large numbers of users to be effective  
+A) It is very expensive and time-consuming compared to user studies  
+B) A single expert may miss many usability problems  
+C) It requires large numbers of users to be effective  
+D) It focuses only on specific user tasks rather than the whole system  
 
 #### 19. Which of the following are benefits of conducting heuristic evaluations with multiple experts?  
-A) Improved coverage of usability issues  
-B) Eliminates the need for user testing altogether  
-C) Reduced time needed for evaluation  
-D) Increased likelihood of finding diverse problems  
+A) Increased likelihood of finding diverse problems  
+B) Improved coverage of usability issues  
+C) Eliminates the need for user testing altogether  
+D) Reduced time needed for evaluation  
 
 #### 20. Which of the following best describes the role of help and documentation in Nielsen’s heuristics?  
 A) It should be easy to search and focused on user tasks  
-B) It should contain detailed technical specifications for developers  
+B) It is necessary only when the system cannot be used without it  
 C) It should be the primary way users learn the system  
-D) It is necessary only when the system cannot be used without it  
+D) It should contain detailed technical specifications for developers  
 
 
 
@@ -129,125 +129,125 @@ D) It is necessary only when the system cannot be used without it
 ## Answers
 
 #### 1. What is the primary purpose of heuristics in user interface design?  
-A) ✓ Some heuristics are theoretically grounded principles  
-B) ✗ Heuristics are guidelines, not strict rules without exception  
-C) ✓ Heuristics provide practical guidelines to improve usability efficiently  
-D) ✗ Heuristics complement, not replace, user testing  
+A) ✗ Heuristics are guidelines, not strict rules without exception  
+B) ✗ Heuristics complement, not replace, user testing  
+C) ✓ Some heuristics are theoretically grounded principles  
+D) ✓ Heuristics provide practical guidelines to improve usability efficiently  
+
+**Correct:** C, D
+
+
+#### 2. Which of the following are characteristics of Nielsen’s heuristics?  
+A) ✓ They emphasize recognition rather than recall to reduce memory load  
+B) ✓ They emphasize error prevention and minimalist design  
+C) ✗ They are general principles, not vendor-specific or platform-dependent  
+D) ✗ They cover more than just aesthetics  
+
+**Correct:** A, B
+
+
+#### 3. Which of these statements about Shneiderman and Plaisant’s golden rules is true?  
+A) ✓ Designing dialogues to yield closure is included  
+B) ✗ They emphasize both error prevention and recovery  
+C) ✓ Supporting internal locus of control is one of their rules  
+D) ✗ They recommend reducing, not increasing, short-term memory load  
 
 **Correct:** A, C
 
 
-#### 2. Which of the following are characteristics of Nielsen’s heuristics?  
-A) ✓ They emphasize error prevention and minimalist design  
-B) ✗ They cover more than just aesthetics  
-C) ✗ They are general principles, not vendor-specific or platform-dependent  
-D) ✓ They emphasize recognition rather than recall to reduce memory load  
-
-**Correct:** A, D
-
-
-#### 3. Which of these statements about Shneiderman and Plaisant’s golden rules is true?  
-A) ✗ They recommend reducing, not increasing, short-term memory load  
-B) ✓ Supporting internal locus of control is one of their rules  
-C) ✗ They emphasize both error prevention and recovery  
-D) ✓ Designing dialogues to yield closure is included  
-
-**Correct:** B, D
-
-
 #### 4. How does heuristic evaluation differ from user studies?  
-A) ✓ Heuristic evaluation uses experts applying heuristics to find issues  
-B) ✗ User studies involve real users, not just expert inspection  
-C) ✗ Heuristic evaluation does not involve real users performing tasks  
-D) ✓ User studies observe actual user behavior during tasks  
+A) ✓ User studies observe actual user behavior during tasks  
+B) ✗ Heuristic evaluation does not involve real users performing tasks  
+C) ✗ User studies involve real users, not just expert inspection  
+D) ✓ Heuristic evaluation uses experts applying heuristics to find issues  
 
 **Correct:** A, D
 
 
 #### 5. Which of the following are true about heuristic evaluation?  
-A) ✓ Multiple experts improve coverage of issues found  
-B) ✗ It does not require user participation  
+A) ✗ It does not require user participation  
+B) ✓ It is holistic, focusing on the entire system  
 C) ✗ A single expert usually misses many usability problems  
-D) ✓ It is holistic, focusing on the entire system  
+D) ✓ Multiple experts improve coverage of issues found  
 
-**Correct:** A, D
+**Correct:** B, D
 
 
 #### 6. What is meant by “visibility of system status” in Nielsen’s heuristics?  
-A) ✗ The system should not hide all processes; users need feedback  
+A) ✓ The system should provide timely feedback about ongoing processes  
 B) ✗ Users do not need to see all system files at all times  
-C) ✓ The system should provide timely feedback about ongoing processes  
-D) ✓ Progress indicators are examples of visibility of system status  
+C) ✓ Progress indicators are examples of visibility of system status  
+D) ✗ The system should not hide all processes; users need feedback  
 
-**Correct:** C, D
+**Correct:** A, C
 
 
 #### 7. Which of the following best describes the heuristic “match between system and the real world”?  
-A) ✗ It’s not limited to physical metaphors only  
-B) ✗ Metaphors can help if used appropriately  
-C) ✓ Use familiar language and real-world conventions  
-D) ✗ Avoid technical jargon to improve usability  
-
-**Correct:** C
-
-
-#### 8. Why is “recognition rather than recall” important in interface design?  
-A) ✗ It does not require deep prior learning before use  
-B) ✓ It reduces cognitive load by making options visible  
-C) ✗ It encourages showing features, not hiding them  
-D) ✗ It aims to reduce memorization, not force it  
+A) ✗ Metaphors can help if used appropriately  
+B) ✓ Use familiar language and real-world conventions  
+C) ✗ Avoid technical jargon to improve usability  
+D) ✗ It’s not limited to physical metaphors only  
 
 **Correct:** B
 
 
-#### 9. Which of these are examples of vendor-specific guidelines?  
-A) ✗ Shneiderman and Plaisant’s rules are general principles  
-B) ✓ Microsoft Official User Interface Guidelines are vendor-specific  
-C) ✓ Apple’s Mac OS X Human Interface Guidelines are vendor-specific  
-D) ✗ Nielsen’s heuristics are general usability principles  
+#### 8. Why is “recognition rather than recall” important in interface design?  
+A) ✓ It reduces cognitive load by making options visible  
+B) ✗ It does not require deep prior learning before use  
+C) ✗ It aims to reduce memorization, not force it  
+D) ✗ It encourages showing features, not hiding them  
 
-**Correct:** B, C
+**Correct:** A
+
+
+#### 9. Which of these are examples of vendor-specific guidelines?  
+A) ✗ Nielsen’s heuristics are general usability principles  
+B) ✓ Apple’s Mac OS X Human Interface Guidelines are vendor-specific  
+C) ✗ Shneiderman and Plaisant’s rules are general principles  
+D) ✓ Microsoft Official User Interface Guidelines are vendor-specific  
+
+**Correct:** B, D
 
 
 #### 10. What is a key difference between vendor-specific guidelines and general heuristics?  
 A) ✗ General heuristics are not legally binding  
-B) ✗ Vendor guidelines do not ignore usability principles  
-C) ✗ General heuristics apply broadly, not only to mobile apps  
-D) ✓ Vendor guidelines are more prescriptive and platform-centered  
+B) ✓ Vendor guidelines are more prescriptive and platform-centered  
+C) ✗ Vendor guidelines do not ignore usability principles  
+D) ✗ General heuristics apply broadly, not only to mobile apps  
 
-**Correct:** D
+**Correct:** B
 
 
 #### 11. Which of the following are included in Shneiderman and Plaisant’s golden rules?  
 A) ✓ Offering informative feedback is included  
 B) ✗ They recommend reducing, not increasing, short-term memory load  
-C) ✓ Striving for consistency is included  
-D) ✓ Permitting easy reversal of actions is included  
+C) ✓ Permitting easy reversal of actions is included  
+D) ✓ Striving for consistency is included  
 
 **Correct:** A, C, D
 
 
 #### 12. How does “user control and freedom” manifest in an interface?  
 A) ✗ Automatically correcting errors without notification reduces control  
-B) ✓ Providing multiple ways to exit or cancel operations  
+B) ✗ Restricting users contradicts user control  
 C) ✓ Allowing undo and redo actions easily  
-D) ✗ Restricting users contradicts user control  
+D) ✓ Providing multiple ways to exit or cancel operations  
 
-**Correct:** B, C
+**Correct:** C, D
 
 
 #### 13. What does “aesthetic and minimalist design” imply in Nielsen’s heuristics?  
-A) ✓ Simplify interface to focus on essential content  
+A) ✗ Decorative elements should not override function  
 B) ✓ Remove irrelevant or rarely needed information  
 C) ✗ Avoid clutter by not including excessive information  
-D) ✗ Decorative elements should not override function  
+D) ✓ Simplify interface to focus on essential content  
 
-**Correct:** A, B
+**Correct:** B, D
 
 
 #### 14. Which of the following statements about error prevention and recovery are correct?  
-A) ✓ Preventing errors is better than just good error messages  
-B) ✓ Easy reversal of actions supports error recovery  
+A) ✓ Easy reversal of actions supports error recovery  
+B) ✓ Preventing errors is better than just good error messages  
 C) ✓ Users should be helped to recognize, diagnose, and recover from errors  
 D) ✗ Error messages should be clear, not technical codes  
 
@@ -256,53 +256,53 @@ D) ✗ Error messages should be clear, not technical codes
 
 #### 15. What does “support internal locus of control” mean in Shneiderman and Plaisant’s rules?  
 A) ✓ Users feel in charge and initiate actions  
-B) ✗ The system should not control all user actions automatically  
-C) ✗ Limiting choices reduces locus of control  
-D) ✗ Users should be active, not passive recipients  
+B) ✗ Limiting choices reduces locus of control  
+C) ✗ Users should be active, not passive recipients  
+D) ✗ The system should not control all user actions automatically  
 
 **Correct:** A
 
 
 #### 16. Why is reducing short-term memory load important in interface design?  
-A) ✗ It simplifies learning, not increases difficulty  
-B) ✓ Helps users by displaying necessary information clearly  
-C) ✗ It aims to reduce, not force memorization  
-D) ✗ It reduces reliance on external documentation  
+A) ✓ Helps users by displaying necessary information clearly  
+B) ✗ It reduces reliance on external documentation  
+C) ✗ It simplifies learning, not increases difficulty  
+D) ✗ It aims to reduce, not force memorization  
 
-**Correct:** B, D
+**Correct:** A, B
 
 
 #### 17. Which of the following statements about consistency in interface design are true?  
-A) ✓ Consistency applies to terminology, layout, and behavior  
+A) ✓ Inconsistency can confuse users and increase errors  
 B) ✓ Consistency helps users build accurate mental models  
 C) ✗ Using different words and actions causes confusion  
-D) ✓ Inconsistency can confuse users and increase errors  
+D) ✓ Consistency applies to terminology, layout, and behavior  
 
 **Correct:** A, B, D
 
 
 #### 18. What is a limitation of heuristic evaluation?  
-A) ✓ A single expert may miss many usability problems  
-B) ✗ It focuses on the whole system, not just specific tasks  
-C) ✗ It is generally less expensive and faster than user studies  
-D) ✗ It does not require large numbers of users  
+A) ✗ It is generally less expensive and faster than user studies  
+B) ✓ A single expert may miss many usability problems  
+C) ✗ It does not require large numbers of users  
+D) ✗ It focuses on the whole system, not just specific tasks  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 19. Which of the following are benefits of conducting heuristic evaluations with multiple experts?  
-A) ✓ Improved coverage of usability issues  
-B) ✗ It does not eliminate the need for user testing entirely  
-C) ✗ It may take more time, not necessarily less  
-D) ✓ Increased likelihood of finding diverse problems  
+A) ✓ Increased likelihood of finding diverse problems  
+B) ✓ Improved coverage of usability issues  
+C) ✗ It does not eliminate the need for user testing entirely  
+D) ✗ It may take more time, not necessarily less  
 
-**Correct:** A, D
+**Correct:** A, B
 
 
 #### 20. Which of the following best describes the role of help and documentation in Nielsen’s heuristics?  
 A) ✓ Should be easy to search and focused on user tasks  
-B) ✗ Should not contain detailed technical specs for developers  
+B) ✓ Necessary only when the system cannot be used without it  
 C) ✗ It should not be the primary way users learn the system  
-D) ✓ Necessary only when the system cannot be used without it  
+D) ✗ Should not contain detailed technical specs for developers  
 
-**Correct:** A, D
+**Correct:** A, B

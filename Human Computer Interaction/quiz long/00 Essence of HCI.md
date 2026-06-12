@@ -3,124 +3,124 @@
 ## Questions
 
 #### 1. What are the three key "use" words that define good HCI design?  
-A) Useful, Usable, User-centered  
-B) Useful, User-friendly, Used  
-C) Usable, Used, Universal  
-D) Useful, Usable, Used  
+A) Useful, Usable, Used  
+B) Usable, Used, Universal  
+C) Useful, Usable, User-centered  
+D) Useful, User-friendly, Used  
 
 #### 2. Which of the following best describes the essence of HCI?  
-A) Writing code for graphical user interfaces only  
-B) Designing computer hardware for faster processing  
-C) Understanding both human and system factors to create effective interfaces  
-D) Focusing solely on the aesthetics of software  
+A) Designing computer hardware for faster processing  
+B) Understanding both human and system factors to create effective interfaces  
+C) Focusing solely on the aesthetics of software  
+D) Writing code for graphical user interfaces only  
 
 #### 3. Why is asking the right questions considered the most difficult part of HCI?  
-A) Because questions must always be technical  
-B) Because users rarely know what they want  
-C) Because computers cannot answer questions  
-D) Because identifying relevant user needs and problems requires deep understanding  
+A) Because computers cannot answer questions  
+B) Because questions must always be technical  
+C) Because identifying relevant user needs and problems requires deep understanding  
+D) Because users rarely know what they want  
 
 #### 4. Which of the following are challenges in designing intelligent interactive systems?  
-A) Flexible multimodal interaction  
-B) Leveraging crowdsourcing and social media  
+A) Leveraging crowdsourcing and social media  
+B) Context modeling  
 C) Increasing CPU clock speed  
-D) Context modeling  
+D) Flexible multimodal interaction  
 
 #### 5. Gesture keyboards improve text input by:  
-A) Enabling continuous transition from novice to expert use  
-B) Allowing users to tap keys faster  
-C) Exploiting language redundancies to predict words from gestures  
-D) Replacing all physical keyboards with voice input  
+A) Replacing all physical keyboards with voice input  
+B) Enabling continuous transition from novice to expert use  
+C) Allowing users to tap keys faster  
+D) Exploiting language redundancies to predict words from gestures  
 
 #### 6. What is a key difference between novice and expert users of gesture keyboards?  
-A) Novices type faster than experts  
-B) Experts rely on visual feedback more than novices  
-C) Novices use open-loop control, experts use closed-loop control  
+A) Experts rely on visual feedback more than novices  
+B) Novices use open-loop control, experts use closed-loop control  
+C) Novices type faster than experts  
 D) Novices trace letter by letter, experts gesture whole word shapes  
 
 #### 7. Which of the following statements about ubiquitous computing are true?  
-A) It eliminates the divide between computer and artifact  
-B) It aims to make computing invisible and seamless  
+A) It aims to make computing invisible and seamless  
+B) It eliminates the divide between computer and artifact  
 C) It involves embedding sensors and devices everywhere in the environment  
 D) It only applies to wearable devices  
 
 #### 8. The WIMP paradigm stands for:  
-A) Windows, Input, Motion, Processing  
-B) Widgets, Input, Menus, Programming  
+A) Widgets, Input, Menus, Programming  
+B) Windows, Icons, Menus, Pointer  
 C) Widgets, Icons, Menus, Pointer  
-D) Windows, Icons, Menus, Pointer  
+D) Windows, Input, Motion, Processing  
 
 #### 9. Which of the following are limitations of controlled experiments in HCI?  
-A) They may lack external validity, limiting generalization to real-world use  
-B) They cannot capture complex everyday user behavior fully  
-C) They require reproducibility and clear hypotheses  
-D) They always have high ecological validity  
+A) They require reproducibility and clear hypotheses  
+B) They always have high ecological validity  
+C) They cannot capture complex everyday user behavior fully  
+D) They may lack external validity, limiting generalization to real-world use  
 
 #### 10. Ethnographic research methods in HCI are used primarily to:  
-A) Collect qualitative data such as anecdotes and subjective reactions  
-B) Study real-world use practices and user behavior in natural settings  
+A) Quantify user performance metrics  
+B) Collect qualitative data such as anecdotes and subjective reactions  
 C) Replace controlled experiments entirely  
-D) Quantify user performance metrics  
+D) Study real-world use practices and user behavior in natural settings  
 
 #### 11. Which of the following are examples of multimodal input modalities?  
-A) Command line interface  
-B) Eye-tracking  
-C) Gesture  
-D) Speech  
+A) Gesture  
+B) Command line interface  
+C) Speech  
+D) Eye-tracking  
 
 #### 12. What is the main tradeoff between internal and external validity in HCI experiments?  
 A) Increasing external validity always increases internal validity  
-B) Both internal and external validity can be maximized simultaneously without tradeoffs  
-C) Increasing internal validity usually decreases external validity  
-D) Internal validity relates to real-world applicability, external validity to experimental control  
+B) Internal validity relates to real-world applicability, external validity to experimental control  
+C) Both internal and external validity can be maximized simultaneously without tradeoffs  
+D) Increasing internal validity usually decreases external validity  
 
 #### 13. Which of the following statements about the history of HCI is correct?  
-A) Mark Weiser coined the term “Ubiquitous Computing” in the 1980s  
-B) The first graphical user interface was invented by Apple in 1984  
+A) The mouse was invented in the 1990s  
+B) Mark Weiser coined the term “Ubiquitous Computing” in the 1980s  
 C) Ivan Sutherland’s Sketchpad was a pioneering system in computer graphics and GUI concepts  
-D) The mouse was invented in the 1990s  
+D) The first graphical user interface was invented by Apple in 1984  
 
 #### 14. What role does experimental psychology play in HCI?  
-A) It introduced the controlled experiment paradigm used in HCI research  
-B) It is unrelated to HCI, which is purely computer science  
-C) It provides models of human perception and motor control relevant to interface design  
-D) It focuses only on cognitive aspects, ignoring motor skills  
+A) It focuses only on cognitive aspects, ignoring motor skills  
+B) It provides models of human perception and motor control relevant to interface design  
+C) It introduced the controlled experiment paradigm used in HCI research  
+D) It is unrelated to HCI, which is purely computer science  
 
 #### 15. Which of the following are true about user experience (UX) in HCI?  
-A) UX only concerns the visual design of an interface  
-B) UX is irrelevant if the system is functional and usable  
-C) UX includes emotional responses and satisfaction during interaction  
-D) UX is about making systems enjoyable and attractive to users  
+A) UX is about making systems enjoyable and attractive to users  
+B) UX only concerns the visual design of an interface  
+C) UX is irrelevant if the system is functional and usable  
+D) UX includes emotional responses and satisfaction during interaction  
 
 #### 16. Which of the following best describes the concept of “ecological validity”?  
-A) The degree to which experimental results generalize to real-world settings  
+A) The accuracy of statistical tests used in experiments  
 B) The environmental impact of computing devices  
-C) The accuracy of statistical tests used in experiments  
+C) The degree to which experimental results generalize to real-world settings  
 D) The internal consistency of a user interface design  
 
 #### 17. What is a major benefit of leveraging crowdsourcing and social media in language modeling for HCI?  
-A) It reduces the need for user testing  
+A) It provides large-scale, diverse data to improve recognition accuracy  
 B) It eliminates the need for multimodal input methods  
 C) It simplifies context modeling  
-D) It provides large-scale, diverse data to improve recognition accuracy  
+D) It reduces the need for user testing  
 
 #### 18. Which of the following are examples of qualitative research methods used in HCI?  
-A) Statistical hypothesis testing  
+A) Think-aloud protocols  
 B) Automated log analysis  
 C) Structured interviews  
-D) Think-aloud protocols  
+D) Statistical hypothesis testing  
 
 #### 19. Which of the following statements about the evolution of user interfaces is true?  
-A) The command line interface (CLI) has been completely replaced by graphical user interfaces (GUIs)  
+A) Touchscreens were invented only after the iPhone release in 2007  
 B) Many modern UI technologies are refinements of ideas from the 1960s and 1970s  
 C) The WIMP paradigm was developed by IBM in the 1990s  
-D) Touchscreens were invented only after the iPhone release in 2007  
+D) The command line interface (CLI) has been completely replaced by graphical user interfaces (GUIs)  
 
 #### 20. Why must computer scientists be literate in HCI?  
-A) Because HCI is a mandatory course in all computer science programs  
-B) To ensure they build systems that are high-quality and user-centered  
-C) To invent new interaction techniques and improve existing ones  
-D) To replace designers and psychologists in product development  
+A) To ensure they build systems that are high-quality and user-centered  
+B) To invent new interaction techniques and improve existing ones  
+C) To replace designers and psychologists in product development  
+D) Because HCI is a mandatory course in all computer science programs  
 
 
 
@@ -129,62 +129,62 @@ D) To replace designers and psychologists in product development
 ## Answers
 
 #### 1. What are the three key "use" words that define good HCI design?  
-A) ✗ Useful, Usable, User-centered — "User-centered" is a design approach, not one of the three "use" words.  
-B) ✗ Useful, User-friendly, Used — "User-friendly" is vague and not one of the three key terms.  
-C) ✗ Usable, Used, Universal — "Universal" is not part of the core three.  
-D) ✓ Useful, Usable, Used — These are the three core criteria for good HCI design.  
+A) ✓ Useful, Usable, Used — These are the three core criteria for good HCI design.  
+B) ✗ Usable, Used, Universal — "Universal" is not part of the core three.  
+C) ✗ Useful, Usable, User-centered — "User-centered" is a design approach, not one of the three "use" words.  
+D) ✗ Useful, User-friendly, Used — "User-friendly" is vague and not one of the three key terms.  
 
-**Correct:** D
+**Correct:** A
 
 
 #### 2. Which of the following best describes the essence of HCI?  
-A) ✗ Writing code for graphical user interfaces only — HCI is broader than just GUI coding.  
-B) ✗ Designing computer hardware for faster processing — HCI focuses on interaction, not hardware speed.  
-C) ✓ Understanding both human and system factors to create effective interfaces — This captures the core of HCI.  
-D) ✗ Focusing solely on the aesthetics of software — Aesthetics are part of UX but not the whole of HCI.  
+A) ✗ Designing computer hardware for faster processing — HCI focuses on interaction, not hardware speed.  
+B) ✓ Understanding both human and system factors to create effective interfaces — This captures the core of HCI.  
+C) ✗ Focusing solely on the aesthetics of software — Aesthetics are part of UX but not the whole of HCI.  
+D) ✗ Writing code for graphical user interfaces only — HCI is broader than just GUI coding.  
+
+**Correct:** B
+
+
+#### 3. Why is asking the right questions considered the most difficult part of HCI?  
+A) ✗ Because computers cannot answer questions — Irrelevant to HCI.  
+B) ✗ Because questions must always be technical — Questions can be about users, not just technical.  
+C) ✓ Because identifying relevant user needs and problems requires deep understanding — Correct; this is the core challenge.  
+D) ✗ Because users rarely know what they want — Sometimes true, but not the main reason.  
 
 **Correct:** C
 
 
-#### 3. Why is asking the right questions considered the most difficult part of HCI?  
-A) ✗ Because questions must always be technical — Questions can be about users, not just technical.  
-B) ✗ Because users rarely know what they want — Sometimes true, but not the main reason.  
-C) ✗ Because computers cannot answer questions — Irrelevant to HCI.  
-D) ✓ Because identifying relevant user needs and problems requires deep understanding — Correct; this is the core challenge.  
-
-**Correct:** D
-
-
 #### 4. Which of the following are challenges in designing intelligent interactive systems?  
-A) ✓ Flexible multimodal interaction — Important for natural, practical interfaces.  
-B) ✓ Leveraging crowdsourcing and social media — Useful for improving language models.  
+A) ✓ Leveraging crowdsourcing and social media — Useful for improving language models.  
+B) ✓ Context modeling — Needed to infer user tasks and improve performance.  
 C) ✗ Increasing CPU clock speed — Not related to interaction design challenges.  
-D) ✓ Context modeling — Needed to infer user tasks and improve performance.  
+D) ✓ Flexible multimodal interaction — Important for natural, practical interfaces.  
 
 **Correct:** A, B, D
 
 
 #### 5. Gesture keyboards improve text input by:  
-A) ✓ Enabling continuous transition from novice to expert use — Supports skill acquisition from tracing to gesturing.  
-B) ✗ Allowing users to tap keys faster — They replace tapping with gestures.  
-C) ✓ Exploiting language redundancies to predict words from gestures — This is the key innovation.  
-D) ✗ Replacing all physical keyboards with voice input — Gesture keyboards are distinct from voice input.  
+A) ✗ Replacing all physical keyboards with voice input — Gesture keyboards are distinct from voice input.  
+B) ✓ Enabling continuous transition from novice to expert use — Supports skill acquisition from tracing to gesturing.  
+C) ✗ Allowing users to tap keys faster — They replace tapping with gestures.  
+D) ✓ Exploiting language redundancies to predict words from gestures — This is the key innovation.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 6. What is a key difference between novice and expert users of gesture keyboards?  
-A) ✗ Novices type faster than experts — Experts are faster.  
-B) ✗ Experts rely on visual feedback more than novices — Experts rely less on feedback (open-loop).  
-C) ✗ Novices use open-loop control, experts use closed-loop control — Actually reversed.  
+A) ✗ Experts rely on visual feedback more than novices — Experts rely less on feedback (open-loop).  
+B) ✗ Novices use open-loop control, experts use closed-loop control — Actually reversed.  
+C) ✗ Novices type faster than experts — Experts are faster.  
 D) ✓ Novices trace letter by letter, experts gesture whole word shapes — Correct distinction.  
 
 **Correct:** D
 
 
 #### 7. Which of the following statements about ubiquitous computing are true?  
-A) ✓ It eliminates the divide between computer and artifact — True; computing is embedded everywhere.  
-B) ✓ It aims to make computing invisible and seamless — A key goal of ubicomp.  
+A) ✓ It aims to make computing invisible and seamless — A key goal of ubicomp.  
+B) ✓ It eliminates the divide between computer and artifact — True; computing is embedded everywhere.  
 C) ✓ It involves embedding sensors and devices everywhere in the environment — Core idea of ubicomp.  
 D) ✗ It only applies to wearable devices — Wearables are a subset, not the whole.  
 
@@ -192,117 +192,117 @@ D) ✗ It only applies to wearable devices — Wearables are a subset, not the w
 
 
 #### 8. The WIMP paradigm stands for:  
-A) ✗ Windows, Input, Motion, Processing — Incorrect terms.  
-B) ✗ Widgets, Input, Menus, Programming — Incorrect terms.  
+A) ✗ Widgets, Input, Menus, Programming — Incorrect terms.  
+B) ✓ Windows, Icons, Menus, Pointer — Correct expansion of WIMP.  
 C) ✗ Widgets, Icons, Menus, Pointer — "Widgets" is not part of WIMP.  
-D) ✓ Windows, Icons, Menus, Pointer — Correct expansion of WIMP.  
+D) ✗ Windows, Input, Motion, Processing — Incorrect terms.  
 
-**Correct:** D
+**Correct:** B
 
 
 #### 9. Which of the following are limitations of controlled experiments in HCI?  
-A) ✓ They may lack external validity, limiting generalization to real-world use — Correct limitation.  
-B) ✓ They cannot capture complex everyday user behavior fully — True limitation.  
-C) ✓ They require reproducibility and clear hypotheses — True, but this is a strength, not a limitation.  
-D) ✗ They always have high ecological validity — Usually they have low ecological validity.  
+A) ✓ They require reproducibility and clear hypotheses — True, but this is a strength, not a limitation.  
+B) ✗ They always have high ecological validity — Usually they have low ecological validity.  
+C) ✓ They cannot capture complex everyday user behavior fully — True limitation.  
+D) ✓ They may lack external validity, limiting generalization to real-world use — Correct limitation.  
 
-**Correct:** A, B
+**Correct:** C, D
 
 
 #### 10. Ethnographic research methods in HCI are used primarily to:  
-A) ✓ Collect qualitative data such as anecdotes and subjective reactions — True.  
-B) ✓ Study real-world use practices and user behavior in natural settings — Core purpose of ethnography.  
+A) ✗ Quantify user performance metrics — Ethnography is qualitative, not quantitative.  
+B) ✓ Collect qualitative data such as anecdotes and subjective reactions — True.  
 C) ✗ Replace controlled experiments entirely — They complement, not replace, experiments.  
-D) ✗ Quantify user performance metrics — Ethnography is qualitative, not quantitative.  
+D) ✓ Study real-world use practices and user behavior in natural settings — Core purpose of ethnography.  
 
-**Correct:** A, B
+**Correct:** B, D
 
 
 #### 11. Which of the following are examples of multimodal input modalities?  
-A) ✗ Command line interface — CLI is a single-mode textual input, not multimodal.  
-B) ✓ Eye-tracking — Another input modality.  
-C) ✓ Gesture — Also a modality.  
-D) ✓ Speech — A common input modality.  
+A) ✓ Gesture — Also a modality.  
+B) ✗ Command line interface — CLI is a single-mode textual input, not multimodal.  
+C) ✓ Speech — A common input modality.  
+D) ✓ Eye-tracking — Another input modality.  
 
-**Correct:** B, C, D
+**Correct:** A, C, D
 
 
 #### 12. What is the main tradeoff between internal and external validity in HCI experiments?  
 A) ✗ Increasing external validity always increases internal validity — Usually not true.  
-B) ✗ Both internal and external validity can be maximized simultaneously without tradeoffs — Rarely possible.  
-C) ✓ Increasing internal validity usually decreases external validity — True; tight control reduces real-world relevance.  
-D) ✗ Internal validity relates to real-world applicability, external validity to experimental control — Reversed definitions.  
+B) ✗ Internal validity relates to real-world applicability, external validity to experimental control — Reversed definitions.  
+C) ✗ Both internal and external validity can be maximized simultaneously without tradeoffs — Rarely possible.  
+D) ✓ Increasing internal validity usually decreases external validity — True; tight control reduces real-world relevance.  
 
-**Correct:** C
+**Correct:** D
 
 
 #### 13. Which of the following statements about the history of HCI is correct?  
-A) ✗ Mark Weiser coined the term “Ubiquitous Computing” in the 1980s — Coined in 1988, late 1980s is acceptable but this is a tricky borderline.  
-B) ✗ The first graphical user interface was invented by Apple in 1984 — Apple popularized it but Xerox PARC invented it earlier.  
+A) ✗ The mouse was invented in the 1990s — Invented in the 1960s by Engelbart.  
+B) ✗ Mark Weiser coined the term “Ubiquitous Computing” in the 1980s — Coined in 1988, late 1980s is acceptable but this is a tricky borderline.  
 C) ✓ Ivan Sutherland’s Sketchpad was a pioneering system in computer graphics and GUI concepts — Correct.  
-D) ✗ The mouse was invented in the 1990s — Invented in the 1960s by Engelbart.  
+D) ✗ The first graphical user interface was invented by Apple in 1984 — Apple popularized it but Xerox PARC invented it earlier.  
 
 **Correct:** C
 
 
 #### 14. What role does experimental psychology play in HCI?  
-A) ✓ It introduced the controlled experiment paradigm used in HCI research — True.  
-B) ✗ It is unrelated to HCI, which is purely computer science — False; psychology is foundational.  
-C) ✓ It provides models of human perception and motor control relevant to interface design — True.  
-D) ✗ It focuses only on cognitive aspects, ignoring motor skills — Incorrect; motor control is important.  
+A) ✗ It focuses only on cognitive aspects, ignoring motor skills — Incorrect; motor control is important.  
+B) ✓ It provides models of human perception and motor control relevant to interface design — True.  
+C) ✓ It introduced the controlled experiment paradigm used in HCI research — True.  
+D) ✗ It is unrelated to HCI, which is purely computer science — False; psychology is foundational.  
 
-**Correct:** A, C
+**Correct:** B, C
 
 
 #### 15. Which of the following are true about user experience (UX) in HCI?  
-A) ✗ UX only concerns the visual design of an interface — UX is broader than visuals.  
-B) ✗ UX is irrelevant if the system is functional and usable — UX matters beyond functionality and usability.  
-C) ✓ UX includes emotional responses and satisfaction during interaction — Correct.  
-D) ✓ UX is about making systems enjoyable and attractive to users — True.  
+A) ✓ UX is about making systems enjoyable and attractive to users — True.  
+B) ✗ UX only concerns the visual design of an interface — UX is broader than visuals.  
+C) ✗ UX is irrelevant if the system is functional and usable — UX matters beyond functionality and usability.  
+D) ✓ UX includes emotional responses and satisfaction during interaction — Correct.  
 
-**Correct:** C, D
+**Correct:** A, D
 
 
 #### 16. Which of the following best describes the concept of “ecological validity”?  
-A) ✓ The degree to which experimental results generalize to real-world settings — Correct definition.  
+A) ✗ The accuracy of statistical tests used in experiments — Not related.  
 B) ✗ The environmental impact of computing devices — Not related.  
-C) ✗ The accuracy of statistical tests used in experiments — Not related.  
+C) ✓ The degree to which experimental results generalize to real-world settings — Correct definition.  
 D) ✗ The internal consistency of a user interface design — Not related.  
+
+**Correct:** C
+
+
+#### 17. What is a major benefit of leveraging crowdsourcing and social media in language modeling for HCI?  
+A) ✓ It provides large-scale, diverse data to improve recognition accuracy — Correct.  
+B) ✗ It eliminates the need for multimodal input methods — No, multimodal input is still needed.  
+C) ✗ It simplifies context modeling — Crowdsourcing helps language models, not context modeling directly.  
+D) ✗ It reduces the need for user testing — Crowdsourcing complements but does not replace testing.  
 
 **Correct:** A
 
 
-#### 17. What is a major benefit of leveraging crowdsourcing and social media in language modeling for HCI?  
-A) ✗ It reduces the need for user testing — Crowdsourcing complements but does not replace testing.  
-B) ✗ It eliminates the need for multimodal input methods — No, multimodal input is still needed.  
-C) ✗ It simplifies context modeling — Crowdsourcing helps language models, not context modeling directly.  
-D) ✓ It provides large-scale, diverse data to improve recognition accuracy — Correct.  
-
-**Correct:** D
-
-
 #### 18. Which of the following are examples of qualitative research methods used in HCI?  
-A) ✗ Statistical hypothesis testing — Quantitative method.  
+A) ✓ Think-aloud protocols — Qualitative method.  
 B) ✗ Automated log analysis — Quantitative method.  
 C) ✓ Structured interviews — Qualitative method.  
-D) ✓ Think-aloud protocols — Qualitative method.  
+D) ✗ Statistical hypothesis testing — Quantitative method.  
 
-**Correct:** C, D
+**Correct:** A, C
 
 
 #### 19. Which of the following statements about the evolution of user interfaces is true?  
-A) ✗ The command line interface (CLI) has been completely replaced by graphical user interfaces (GUIs) — CLI is still widely used.  
+A) ✗ Touchscreens were invented only after the iPhone release in 2007 — Touchscreens existed earlier.  
 B) ✓ Many modern UI technologies are refinements of ideas from the 1960s and 1970s — Correct.  
 C) ✗ The WIMP paradigm was developed by IBM in the 1990s — Developed at Xerox PARC in the late 1970s.  
-D) ✗ Touchscreens were invented only after the iPhone release in 2007 — Touchscreens existed earlier.  
+D) ✗ The command line interface (CLI) has been completely replaced by graphical user interfaces (GUIs) — CLI is still widely used.  
 
 **Correct:** B
 
 
 #### 20. Why must computer scientists be literate in HCI?  
-A) ✗ Because HCI is a mandatory course in all computer science programs — Not universally true.  
-B) ✓ To ensure they build systems that are high-quality and user-centered — Correct.  
-C) ✓ To invent new interaction techniques and improve existing ones — True; HCI literacy enables innovation.  
-D) ✗ To replace designers and psychologists in product development — HCI is interdisciplinary, not a replacement.  
+A) ✓ To ensure they build systems that are high-quality and user-centered — Correct.  
+B) ✓ To invent new interaction techniques and improve existing ones — True; HCI literacy enables innovation.  
+C) ✗ To replace designers and psychologists in product development — HCI is interdisciplinary, not a replacement.  
+D) ✗ Because HCI is a mandatory course in all computer science programs — Not universally true.  
 
-**Correct:** B, C
+**Correct:** A, B
