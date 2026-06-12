@@ -3,124 +3,124 @@
 ## Questions
 
 #### 1. Which of the following are considered input devices in a computer system?  
-A) Printer  
+A) Monitor  
 B) Scanner  
 C) Keyboard  
-D) Monitor  
+D) Printer  
 
 #### 2. What are the main differences between batch processing and interactive computing?  
 A) Batch processing involves immediate user feedback  
-B) Interactive computing uses punched cards  
+B) Batch processing requires long waits for output  
 C) Interactive computing allows rapid user control  
-D) Batch processing requires long waits for output  
+D) Interactive computing uses punched cards  
 
 #### 3. Why is the QWERTY keyboard layout still dominant despite not being optimal for typing speed?  
-A) Alternative layouts are incompatible with modern computers  
-B) It has a large social base of users  
-C) It is the fastest layout for beginners  
-D) It prevents typewriter jams  
+A) It has a large social base of users  
+B) Alternative layouts are incompatible with modern computers  
+C) It prevents typewriter jams  
+D) It is the fastest layout for beginners  
 
 #### 4. Which features characterize the Dvorak keyboard layout?  
-A) Alternates common letter combinations between hands  
+A) Biased towards the left hand  
 B) Common letters placed under dominant fingers  
-C) Biased towards the left hand  
-D) Reduces typing fatigue by 10-15%  
+C) Reduces typing fatigue by 10-15%  
+D) Alternates common letter combinations between hands  
 
 #### 5. What are the advantages and disadvantages of chord keyboards?  
-A) Require no training to use effectively  
+A) Cause fatigue after extended use  
 B) Compact size ideal for portable use  
-C) Cause fatigue after extended use  
-D) Social resistance limits widespread adoption  
+C) Social resistance limits widespread adoption  
+D) Require no training to use effectively  
 
 #### 6. How does T9 predictive text input improve typing speed on phone keypads?  
-A) By allowing simultaneous key presses for letters  
-B) By requiring multiple key presses per letter  
-C) By eliminating the need for a numeric keypad  
-D) By using a dictionary to guess words from single key presses  
+A) By using a dictionary to guess words from single key presses  
+B) By eliminating the need for a numeric keypad  
+C) By requiring multiple key presses per letter  
+D) By allowing simultaneous key presses for letters  
 
 #### 7. What technical challenges are associated with handwriting recognition?  
-A) Interpreting uniform handwriting styles  
-B) Coping with different handwriting styles  
+A) Capturing stroke path and pressure naturally  
+B) Interpreting uniform handwriting styles  
 C) Segmenting joined-up writing into individual letters  
-D) Capturing stroke path and pressure naturally  
+D) Coping with different handwriting styles  
 
 #### 8. Which conditions improve the accuracy of speech recognition systems?  
-A) Initial training for the system on a single user  
-B) Multiple users with different accents  
-C) Large vocabulary systems  
-D) Limited vocabulary systems  
+A) Limited vocabulary systems  
+B) Large vocabulary systems  
+C) Initial training for the system on a single user  
+D) Multiple users with different accents  
 
 #### 9. Which of the following are true about the mouse as a pointing device?  
-A) It detects absolute position on the desk  
-B) It requires physical space on a flat surface  
+A) It requires physical space on a flat surface  
+B) It detects absolute position on the desk  
 C) It detects relative movement only  
 D) It directly manipulates the screen cursor  
 
 #### 10. How do optical mice differ from mechanical mice?  
 A) Mechanical mice are less affected by dust and dirt  
-B) Optical mice use reflected light intensity changes  
-C) Optical mice can work on almost any flat surface  
+B) Optical mice can work on almost any flat surface  
+C) Optical mice use reflected light intensity changes  
 D) Optical mice use a rolling ball to detect movement  
 
 #### 11. What are the main advantages and disadvantages of touchscreens?  
-A) Finger marks and imprecise for small targets  
-B) Suitable for use in hostile environments  
-C) Fast and require no specialized pointer  
-D) Cause no arm fatigue during extended use  
+A) Suitable for use in hostile environments  
+B) Cause no arm fatigue during extended use  
+C) Finger marks and imprecise for small targets  
+D) Fast and require no specialized pointer  
 
 #### 12. Which of the following are characteristics of bitmap displays?  
 A) Aspect ratio is the ratio of width to height  
 B) Resolution is measured in pixels per inch (dpi)  
-C) Color depth refers to the number of pixels on the screen  
-D) Anti-aliasing reduces jagged edges on diagonal lines  
+C) Anti-aliasing reduces jagged edges on diagonal lines  
+D) Color depth refers to the number of pixels on the screen  
 
 #### 13. How do LCD screens reduce eye strain compared to CRTs?  
-A) By having higher pixel density  
-B) By reflecting ambient light rather than emitting it  
-C) By using electron beams to light phosphors  
-D) By emitting less radiation  
+A) By emitting less radiation  
+B) By using electron beams to light phosphors  
+C) By reflecting ambient light rather than emitting it  
+D) By having higher pixel density  
 
 #### 14. What causes VR motion sickness in headset users?  
-A) Perfect alignment of eye focus and angle cues  
-B) Time delay between head movement and display update  
-C) Lack of stereo 3D effect  
-D) Conflicting depth perception cues  
+A) Lack of stereo 3D effect  
+B) Conflicting depth perception cues  
+C) Time delay between head movement and display update  
+D) Perfect alignment of eye focus and angle cues  
 
 #### 15. Which of the following are examples of physical interaction devices that provide haptic feedback?  
 A) Data gloves  
-B) BMW iDrive control system  
-C) Joysticks without vibration  
-D) Standard computer mouse  
+B) Standard computer mouse  
+C) BMW iDrive control system  
+D) Joysticks without vibration  
 
 #### 16. What are the key differences between dot-matrix, ink-jet, and laser printers?  
-A) Ink-jet printers spray tiny ink droplets and have moderate resolution  
-B) Ink-jet printers are typically faster than laser printers  
-C) Dot-matrix printers use ink ribbons and have low resolution  
-D) Laser printers use electrostatic charge and have high resolution  
+A) Ink-jet printers are typically faster than laser printers  
+B) Ink-jet printers spray tiny ink droplets and have moderate resolution  
+C) Laser printers use electrostatic charge and have high resolution  
+D) Dot-matrix printers use ink ribbons and have low resolution  
 
 #### 17. Which statements about fonts and typography are correct?  
-A) Font size is measured in points, roughly 1/72 inch per point  
-B) Fixed-pitch fonts have characters of equal width  
+A) Fixed-pitch fonts have characters of equal width  
+B) Variable-pitch fonts have characters of varying widths  
 C) Serif fonts have square-ended strokes  
-D) Variable-pitch fonts have characters of varying widths  
+D) Font size is measured in points, roughly 1/72 inch per point  
 
 #### 18. What are the main challenges faced by Optical Character Recognition (OCR) systems?  
-A) Dealing with complex page layouts like columns and headers  
-B) Recognizing handwritten notes without segmentation  
-C) Converting bitmaps into editable text  
-D) Handling different fonts and styles  
+A) Converting bitmaps into editable text  
+B) Dealing with complex page layouts like columns and headers  
+C) Handling different fonts and styles  
+D) Recognizing handwritten notes without segmentation  
 
 #### 19. Which of the following describe Moore’s Law accurately?  
-A) Hard disk capacity doubles every 18 months  
-B) Memory capacity doubles approximately every 12 months  
-C) Processor speed doubles approximately every 18 months  
-D) Processor speed has remained constant since 1965  
+A) Memory capacity doubles approximately every 12 months  
+B) Processor speed has remained constant since 1965  
+C) Hard disk capacity doubles every 18 months  
+D) Processor speed doubles approximately every 18 months  
 
 #### 20. What are common bottlenecks that limit interactive computer performance?  
-A) Unlimited network capacity improving performance
+A) Unlimited network capacity improving performance  
 B) Graphics bound limitations in display updates  
-C) Computation bound delays causing user frustration  
-D) Storage channel bound bottlenecks in data transfer  
+C) Storage channel bound bottlenecks in data transfer  
+D) Computation bound delays causing user frustration  
 
 
 
@@ -129,180 +129,180 @@ D) Storage channel bound bottlenecks in data transfer
 ## Answers
 
 #### 1. Which of the following are considered input devices in a computer system?  
-A) ✗ Printer is an output device, not input.  
+A) ✗ Monitor is an output device displaying information.  
 B) ✓ Scanner converts physical documents into digital input.  
 C) ✓ Keyboard is a primary input device for text entry.  
-D) ✗ Monitor is an output device displaying information.  
+D) ✗ Printer is an output device, not input.  
 
 **Correct:** B, C
 
 
 #### 2. What are the main differences between batch processing and interactive computing?  
 A) ✗ Batch processing does not provide immediate feedback.  
-B) ✗ Interactive computing does not use punched cards; that was batch processing.  
+B) ✓ Batch processing involves long waits for output results.  
 C) ✓ Interactive computing allows rapid user control and feedback.  
-D) ✓ Batch processing involves long waits for output results.  
-
-**Correct:** C, D
-
-
-#### 3. Why is the QWERTY keyboard layout still dominant despite not being optimal for typing speed?  
-A) ✗ Alternative layouts are compatible with modern computers but lack adoption.  
-B) ✓ Large social base of users resists change.  
-C) ✗ Not the fastest layout for beginners.  
-D) ✓ Originally designed to prevent typewriter jams.  
-
-**Correct:** B, D
-
-
-#### 4. Which features characterize the Dvorak keyboard layout?  
-A) ✓ Alternates common letter combinations between hands to reduce fatigue.  
-B) ✓ Places common letters under dominant fingers for efficiency.  
-C) ✗ Biased towards the right hand, not left.  
-D) ✓ Improves speed and reduces fatigue by about 10-15%.  
-
-**Correct:** A, B, D
-
-
-#### 5. What are the advantages and disadvantages of chord keyboards?  
-A) ✗ Require training; not usable without it.  
-B) ✓ Compact and ideal for portable use.  
-C) ✓ Can cause fatigue after extended use.  
-D) ✓ Social resistance limits widespread adoption.  
-
-**Correct:** B, C, D
-
-
-#### 6. How does T9 predictive text input improve typing speed on phone keypads?  
-A) ✗ T9 does not allow simultaneous key presses.  
-B) ✗ T9 reduces multiple presses by guessing words.  
-C) ✗ Numeric keypad is still used in T9.  
-D) ✓ Uses dictionary to guess words from single key presses.  
-
-**Correct:** D
-
-
-#### 7. What technical challenges are associated with handwriting recognition?  
-A) ✗ Handwriting styles vary widely, not uniform.  
-B) ✓ Must cope with different handwriting styles.  
-C) ✓ Segmenting joined-up writing into letters is challenging.  
-D) ✓ Capturing stroke path and pressure naturally is difficult.  
-
-**Correct:** B, C, D
-
-
-#### 8. Which conditions improve the accuracy of speech recognition systems?  
-A) ✓ Initial training on a single user improves accuracy.  
-B) ✗ Multiple users with different accents reduce accuracy.  
-C) ✗ Large vocabulary systems are harder to manage.  
-D) ✓ Limited vocabulary systems perform better.  
-
-**Correct:** A, D
-
-
-#### 9. Which of the following are true about the mouse as a pointing device?  
-A) ✗ Mouse detects relative, not absolute, position.  
-B) ✓ Requires physical space on a flat surface.  
-C) ✓ Detects relative movement only.  
-D) ✗ Mouse indirectly manipulates cursor; device movement differs from cursor plane.  
+D) ✗ Interactive computing does not use punched cards; that was batch processing.  
 
 **Correct:** B, C
 
 
+#### 3. Why is the QWERTY keyboard layout still dominant despite not being optimal for typing speed?  
+A) ✓ Large social base of users resists change.  
+B) ✗ Alternative layouts are compatible with modern computers but lack adoption.  
+C) ✓ Originally designed to prevent typewriter jams.  
+D) ✗ Not the fastest layout for beginners.  
+
+**Correct:** A, C
+
+
+#### 4. Which features characterize the Dvorak keyboard layout?  
+A) ✗ Biased towards the right hand, not left.  
+B) ✓ Places common letters under dominant fingers for efficiency.  
+C) ✓ Improves speed and reduces fatigue by about 10-15%.  
+D) ✓ Alternates common letter combinations between hands to reduce fatigue.  
+
+**Correct:** B, C, D
+
+
+#### 5. What are the advantages and disadvantages of chord keyboards?  
+A) ✓ Can cause fatigue after extended use.  
+B) ✓ Compact and ideal for portable use.  
+C) ✓ Social resistance limits widespread adoption.  
+D) ✗ Require training; not usable without it.  
+
+**Correct:** A, B, C
+
+
+#### 6. How does T9 predictive text input improve typing speed on phone keypads?  
+A) ✓ Uses dictionary to guess words from single key presses.  
+B) ✗ Numeric keypad is still used in T9.  
+C) ✗ T9 reduces multiple presses by guessing words.  
+D) ✗ T9 does not allow simultaneous key presses.  
+
+**Correct:** A
+
+
+#### 7. What technical challenges are associated with handwriting recognition?  
+A) ✓ Capturing stroke path and pressure naturally is difficult.  
+B) ✗ Handwriting styles vary widely, not uniform.  
+C) ✓ Segmenting joined-up writing into letters is challenging.  
+D) ✓ Must cope with different handwriting styles.  
+
+**Correct:** A, C, D
+
+
+#### 8. Which conditions improve the accuracy of speech recognition systems?  
+A) ✓ Limited vocabulary systems perform better.  
+B) ✗ Large vocabulary systems are harder to manage.  
+C) ✓ Initial training on a single user improves accuracy.  
+D) ✗ Multiple users with different accents reduce accuracy.  
+
+**Correct:** A, C
+
+
+#### 9. Which of the following are true about the mouse as a pointing device?  
+A) ✓ Requires physical space on a flat surface.  
+B) ✗ Mouse detects relative, not absolute, position.  
+C) ✓ Detects relative movement only.  
+D) ✗ Mouse indirectly manipulates cursor; device movement differs from cursor plane.  
+
+**Correct:** A, C
+
+
 #### 10. How do optical mice differ from mechanical mice?  
 A) ✗ Mechanical mice are more affected by dust and dirt.  
-B) ✓ Optical mice detect movement via changes in reflected light.  
-C) ✗ Optical mice may require special surfaces but generally work on many flat surfaces.  
+B) ✗ Optical mice may require special surfaces but generally work on many flat surfaces.  
+C) ✓ Optical mice detect movement via changes in reflected light.  
 D) ✗ Mechanical mice use rolling ball, not optical.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 11. What are the main advantages and disadvantages of touchscreens?  
-A) ✓ Finger marks and imprecision for small targets are disadvantages.  
-B) ✓ Suitable for hostile environments due to lack of moving parts.  
-C) ✓ Fast and require no specialized pointer.  
-D) ✗ Can cause arm fatigue during extended use.  
+A) ✓ Suitable for hostile environments due to lack of moving parts.  
+B) ✗ Can cause arm fatigue during extended use.  
+C) ✓ Finger marks and imprecision for small targets are disadvantages.  
+D) ✓ Fast and require no specialized pointer.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 12. Which of the following are characteristics of bitmap displays?  
 A) ✓ Aspect ratio is width to height ratio.  
 B) ✓ Resolution can be measured in dpi (pixels per inch).  
-C) ✗ Color depth refers to number of colors per pixel, not number of pixels.  
-D) ✓ Anti-aliasing reduces jagged edges on diagonal lines.  
+C) ✓ Anti-aliasing reduces jagged edges on diagonal lines.  
+D) ✗ Color depth refers to number of colors per pixel, not number of pixels.  
 
-**Correct:** A, B, D
+**Correct:** A, B, C
 
 
 #### 13. How do LCD screens reduce eye strain compared to CRTs?  
-A) ✗ Higher pixel density is not the main reason for reduced eye strain.  
-B) ✓ LCDs reflect ambient light rather than emitting it directly.  
-C) ✗ CRTs use electron beams; LCDs do not.  
-D) ✓ LCDs emit no radiation, unlike CRTs.  
+A) ✓ LCDs emit no radiation, unlike CRTs.  
+B) ✗ CRTs use electron beams; LCDs do not.  
+C) ✓ LCDs reflect ambient light rather than emitting it directly.  
+D) ✗ Higher pixel density is not the main reason for reduced eye strain.  
 
-**Correct:** B, D
+**Correct:** A, C
 
 
 #### 14. What causes VR motion sickness in headset users?  
-A) ✗ Perfect alignment of cues would prevent sickness.  
-B) ✓ Time delay between head movement and display update causes lag.  
-C) ✗ Lack of stereo 3D effect is not a cause; VR uses stereo displays.  
-D) ✓ Conflicting depth perception cues cause discomfort.  
+A) ✗ Lack of stereo 3D effect is not a cause; VR uses stereo displays.  
+B) ✓ Conflicting depth perception cues cause discomfort.  
+C) ✓ Time delay between head movement and display update causes lag.  
+D) ✗ Perfect alignment of cues would prevent sickness.  
 
-**Correct:** B, D
+**Correct:** B, C
 
 
 #### 15. Which of the following are examples of physical interaction devices that provide haptic feedback?  
 A) ✓ Data gloves provide force feedback.  
-B) ✓ BMW iDrive uses haptic bumps for menu selection.  
-C) ✗ Joysticks without vibration do not provide haptic feedback.  
-D) ✗ Standard mouse typically does not provide haptic feedback.  
+B) ✗ Standard mouse typically does not provide haptic feedback.  
+C) ✓ BMW iDrive uses haptic bumps for menu selection.  
+D) ✗ Joysticks without vibration do not provide haptic feedback.  
 
-**Correct:** A, B
+**Correct:** A, C
 
 
 #### 16. What are the key differences between dot-matrix, ink-jet, and laser printers?  
-A) ✓ Ink-jet sprays tiny ink droplets with moderate resolution.  
-B) ✗ Ink-jet printers are generally slower than laser printers.  
-C) ✓ Dot-matrix uses ink ribbons and has low resolution.  
-D) ✓ Laser printers use electrostatic charge and have high resolution.  
+A) ✗ Ink-jet printers are generally slower than laser printers.  
+B) ✓ Ink-jet sprays tiny ink droplets with moderate resolution.  
+C) ✓ Laser printers use electrostatic charge and have high resolution.  
+D) ✓ Dot-matrix uses ink ribbons and has low resolution.  
 
-**Correct:** A, C, D
+**Correct:** B, C, D
 
 
 #### 17. Which statements about fonts and typography are correct?  
-A) ✓ Font size is measured in points, about 1/72 inch per point.  
-B) ✓ Fixed-pitch fonts have equal character widths.  
+A) ✓ Fixed-pitch fonts have equal character widths.  
+B) ✓ Variable-pitch fonts have varying character widths.  
 C) ✗ Serif fonts have splayed or decorative ends, not square-ended strokes.  
-D) ✓ Variable-pitch fonts have varying character widths.  
+D) ✓ Font size is measured in points, about 1/72 inch per point.  
 
 **Correct:** A, B, D
 
 
 #### 18. What are the main challenges faced by Optical Character Recognition (OCR) systems?  
-A) ✓ Complex page layouts like columns and headers complicate OCR.  
-B) ✗ Handwritten notes require segmentation; simple OCR struggles.  
-C) ✓ Converting bitmaps into editable text is the goal.  
-D) ✓ Handling different fonts and styles is difficult.  
+A) ✓ Converting bitmaps into editable text is the goal.  
+B) ✓ Complex page layouts like columns and headers complicate OCR.  
+C) ✓ Handling different fonts and styles is difficult.  
+D) ✗ Handwritten notes require segmentation; simple OCR struggles.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 19. Which of the following describe Moore’s Law accurately?  
-A) ✗ Hard disk capacity growth rate differs; not strictly every 18 months.  
-B) ✓ Memory capacity doubles approximately every 12 months.  
-C) ✓ Processor speed doubles approximately every 18 months.  
-D) ✗ Processor speed has increased steadily since 1965.  
+A) ✓ Memory capacity doubles approximately every 12 months.  
+B) ✗ Processor speed has increased steadily since 1965.  
+C) ✗ Hard disk capacity growth rate differs; not strictly every 18 months.  
+D) ✓ Processor speed doubles approximately every 18 months.  
 
-**Correct:** B, C
+**Correct:** A, D
 
 
 #### 20. What are common bottlenecks that limit interactive computer performance?  
 A) ✗ Network capacity is often limited, not unlimited.  
 B) ✓ Graphics bound limitations affect display updates.  
-C) ✓ Computation bound delays frustrate users.  
-D) ✓ Storage channel bottlenecks slow data transfer.  
+C) ✓ Storage channel bottlenecks slow data transfer.  
+D) ✓ Computation bound delays frustrate users.  
 
 **Correct:** B, C, D

@@ -102,8 +102,8 @@ def shuffle_file(path: Path) -> bool:
             old_letter = q_letters[old_pos]
 
             # Preserve original line endings
-            new_q_opts += f"{new_letter}) {q_opts[old_pos][1]}\n"
-            new_a_opts += f"{new_letter}) {a_opts[old_pos][1]}\n"
+            new_q_opts += f"{new_letter}) {q_opts[old_pos][1].rstrip()}  \n"
+            new_a_opts += f"{new_letter}) {a_opts[old_pos][1].rstrip()}  \n"
 
             if old_letter in correct_letters:
                 new_correct.append(new_letter)

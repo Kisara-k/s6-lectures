@@ -3,57 +3,57 @@
 ## Questions
 
 #### 1. What are the essential requirements to become a professional engineer?  
-A) Pass a government licensing exam only  
+A) Graduate in the specific engineering field and complete practical training  
 B) Obtain a degree in engineering from any institution  
-C) Graduate in the specific engineering field and complete practical training  
+C) Pass a government licensing exam only  
 D) Gain required skills and competencies through training and experience  
 
 #### 2. Which of the following challenges relate to the standard of engineering degrees?  
 A) Degrees awarded without any accreditation or verification  
-B) Degrees awarded by foreign universities but conducted locally  
+B) Degrees awarded by foreign universities conducted abroad  
 C) Degrees awarded by local universities only  
-D) Degrees awarded by foreign universities conducted abroad  
+D) Degrees awarded by foreign universities but conducted locally  
 
 #### 3. What are the primary functions of a professional body?  
-A) Maintain educational and industrial standards  
-B) Provide continuing professional development (CPD) programs  
+A) Enforce legal penalties on unethical professionals  
+B) Maintain educational and industrial standards  
 C) Govern ethical behavior of members  
-D) Enforce legal penalties on unethical professionals  
+D) Provide continuing professional development (CPD) programs  
 
 #### 4. Which of the following are typical membership categories in a professional engineering body?  
 A) Student Member  
-B) Associate Member  
-C) Government Regulator  
-D) Corporate Member (Chartered Engineer)  
+B) Government Regulator  
+C) Corporate Member (Chartered Engineer)  
+D) Associate Member  
 
 #### 5. How does a professional body differ from a regulatory body?  
-A) Regulatory bodies have legal authority to enforce compliance  
+A) Professional bodies impose legal penalties on members  
 B) Regulatory bodies focus on public interest and national standards  
-C) Professional bodies impose legal penalties on members  
-D) Professional bodies are member-driven and non-commercial  
+C) Professional bodies are member-driven and non-commercial  
+D) Regulatory bodies have legal authority to enforce compliance  
 
 #### 6. Which of the following are functions of regulatory bodies?  
-A) Set standards for professional activities  
-B) Register professionals and maintain conduct  
-C) Enforce compliance with regulations  
-D) Provide training seminars and conferences  
+A) Provide training seminars and conferences  
+B) Enforce compliance with regulations  
+C) Register professionals and maintain conduct  
+D) Set standards for professional activities  
 
 #### 7. What is the main goal of a regulatory body?  
-A) To serve the public and maintain national standards  
+A) To provide continuing education to professionals  
 B) To conduct annual elections for leadership  
 C) To generate profit for its members  
-D) To provide continuing education to professionals  
+D) To serve the public and maintain national standards  
 
 #### 8. Which of the following are true about the Institution of Engineers Sri Lanka (IESL)?  
 A) It is a non-profit professional body  
-B) It is a government regulatory agency  
-C) It accredits engineering degree programs  
+B) It accredits engineering degree programs  
+C) It is a government regulatory agency  
 D) It offers membership categories including Student, Associate, and Fellow  
 
 #### 9. To become a Chartered Engineer through IESL, which of the following are required?  
-A) Passing management and technical papers  
+A) Only holding a recognized 4-year engineering degree  
 B) Five years of responsible experience under a Chartered Engineer  
-C) Only holding a recognized 4-year engineering degree  
+C) Passing management and technical papers  
 D) Submission of an experience report and project/design report  
 
 #### 10. Which of the following statements about Continuing Professional Development (CPD) are correct?  
@@ -63,64 +63,64 @@ C) CPD is only for student members
 D) CPD is optional and not encouraged by professional bodies  
 
 #### 11. Which organizations are examples of regulatory bodies in Sri Lanka?  
-A) Consumer Affairs Authority  
-B) Institution of Engineers Sri Lanka (IESL)  
-C) Telecommunication Regulatory Commission  
-D) Engineering Council Sri Lanka (ECSL)  
+A) Institution of Engineers Sri Lanka (IESL)  
+B) Consumer Affairs Authority  
+C) Engineering Council Sri Lanka (ECSL)  
+D) Telecommunication Regulatory Commission  
 
 #### 12. What is the role of the Engineering Council Sri Lanka (ECSL)?  
-A) To maintain professional standards and conduct  
-B) To register engineering practitioners in various categories  
+A) To register engineering practitioners in various categories  
+B) To maintain professional standards and conduct  
 C) To organize engineering conferences and seminars  
 D) To provide engineering degree accreditation  
 
 #### 13. Which of the following are categories of engineering practitioners registered by ECSL?  
-A) Professional Engineer (PE)  
-B) Engineering Technician  
-C) Chartered Engineer  
-D) Associate Engineer  
+A) Engineering Technician  
+B) Associate Engineer  
+C) Professional Engineer (PE)  
+D) Chartered Engineer  
 
 #### 14. Which of the following statements about the career path of engineers is true?  
-A) Becoming a Chartered Engineer is not necessary for senior management roles  
-B) Senior Engineer is usually achieved after about 5 years of experience  
-C) Engineers typically start as entry-level engineers and progress to senior roles over 15-25 years  
-D) General Manager positions require no specific qualifications beyond experience  
+A) General Manager positions require no specific qualifications beyond experience  
+B) Engineers typically start as entry-level engineers and progress to senior roles over 15-25 years  
+C) Becoming a Chartered Engineer is not necessary for senior management roles  
+D) Senior Engineer is usually achieved after about 5 years of experience  
 
 #### 15. What distinguishes a professional body’s governance structure?  
 A) It is controlled by government-appointed officials only  
-B) It is governed by laws constituted by its members  
-C) It operates primarily for commercial profit  
-D) Members elect a council and president annually  
+B) Members elect a council and president annually  
+C) It is governed by laws constituted by its members  
+D) It operates primarily for commercial profit  
 
 #### 16. Which of the following are true about the University Grants Commission (UGC) in relation to engineering education?  
-A) UGC is responsible for accrediting foreign engineering degrees  
-B) UGC conducts the final exams for engineering degrees  
-C) UGC approves engineering degree courses before they start  
-D) UGC reviews curriculum and facilities through documentary review  
+A) UGC reviews curriculum and facilities through documentary review  
+B) UGC is responsible for accrediting foreign engineering degrees  
+C) UGC conducts the final exams for engineering degrees  
+D) UGC approves engineering degree courses before they start  
 
 #### 17. Which of the following best describe the relationship between IESL and ECSL?  
-A) IESL controls licensing, ECSL organizes conferences  
-B) ECSL registers engineers, IESL supports professional development  
+A) ECSL registers engineers, IESL supports professional development  
+B) IESL controls licensing, ECSL organizes conferences  
 C) IESL is a professional body, ECSL is a regulatory body  
 D) Both are regulatory bodies with legal authority  
 
 #### 18. Which of the following are responsibilities of the Engineering Council Sri Lanka?  
-A) Maintenance of professional conduct and standards  
+A) Providing continuing education programs for engineers  
 B) Setting industrial standards for engineering practice  
-C) Registration of foreign engineering practitioners working in Sri Lanka  
-D) Providing continuing education programs for engineers  
+C) Maintenance of professional conduct and standards  
+D) Registration of foreign engineering practitioners working in Sri Lanka  
 
 #### 19. What are the requirements to become an Associate Member of IESL?  
-A) Submit an application following guidelines on the IESL website  
-B) Hold a four-year full-time engineering degree recognized by IESL  
-C) Have five years of work experience under a Chartered Engineer  
-D) Pass management and technical papers  
+A) Pass management and technical papers  
+B) Have five years of work experience under a Chartered Engineer  
+C) Hold a four-year full-time engineering degree recognized by IESL  
+D) Submit an application following guidelines on the IESL website  
 
 #### 20. Which of the following statements about professional ethics and regulation are correct?  
-A) Updating knowledge and skills is part of maintaining professional ethics
+A) Professional bodies alone can impose legal sanctions on unethical engineers  
 B) Regulatory bodies have the authority to take action against unethical professionals  
-C) Professional bodies alone can impose legal sanctions on unethical engineers  
-D) Ethical behavior is governed by codes set by professional bodies  
+C) Ethical behavior is governed by codes set by professional bodies  
+D) Updating knowledge and skills is part of maintaining professional ethics  
 
 
 
@@ -129,84 +129,84 @@ D) Ethical behavior is governed by codes set by professional bodies
 ## Answers
 
 #### 1. What are the essential requirements to become a professional engineer?  
-A) ✗ A government exam alone is not the only requirement.  
+A) ✓ Graduation plus practical training is necessary.  
 B) ✗ Obtaining a degree alone is not enough without training and experience.  
-C) ✓ Graduation plus practical training is necessary.  
+C) ✗ A government exam alone is not the only requirement.  
 D) ✓ Gaining skills and competencies through training is essential.  
 
-**Correct:** C, D
+**Correct:** A, D
 
 
 #### 2. Which of the following challenges relate to the standard of engineering degrees?  
 A) ✗ Degrees without accreditation are a problem but not a specific category listed.  
-B) ✓ Degrees awarded by foreign universities but conducted locally raise verification issues.  
+B) ✓ Degrees awarded abroad require independent standard checks.  
 C) ✗ Local degrees are usually easier to verify, but not the only challenge.  
-D) ✓ Degrees awarded abroad require independent standard checks.  
+D) ✓ Degrees awarded by foreign universities but conducted locally raise verification issues.  
 
 **Correct:** B, D
 
 
 #### 3. What are the primary functions of a professional body?  
-A) ✓ Maintaining educational and industrial standards is a key function.  
-B) ✓ Providing CPD programs is essential for knowledge updates.  
+A) ✗ Legal penalties are usually imposed by regulatory bodies, not professional bodies.  
+B) ✓ Maintaining educational and industrial standards is a key function.  
 C) ✓ Governing ethical behavior is a core role.  
-D) ✗ Legal penalties are usually imposed by regulatory bodies, not professional bodies.  
+D) ✓ Providing CPD programs is essential for knowledge updates.  
 
-**Correct:** A, B, C
+**Correct:** B, C, D
 
 
 #### 4. Which of the following are typical membership categories in a professional engineering body?  
 A) ✓ Student Member is a common entry-level category.  
-B) ✓ Associate Member is a recognized category based on qualifications.  
-C) ✗ Government Regulator is not a membership category.  
-D) ✓ Corporate Member (Chartered Engineer) is a senior membership level.  
-
-**Correct:** A, B, D
-
-
-#### 5. How does a professional body differ from a regulatory body?  
-A) ✓ Regulatory bodies have legal authority to enforce compliance.  
-B) ✓ Regulatory bodies focus on public interest and national standards.  
-C) ✗ Professional bodies do not impose legal penalties.  
-D) ✓ Professional bodies are member-driven and non-commercial.  
-
-**Correct:** A, B, D
-
-
-#### 6. Which of the following are functions of regulatory bodies?  
-A) ✓ Setting standards is a primary function.  
-B) ✓ Registering professionals and maintaining conduct is a regulatory role.  
-C) ✓ Enforcing compliance is essential.  
-D) ✗ Providing training is usually done by professional bodies, not regulatory.  
-
-**Correct:** A, B, C
-
-
-#### 7. What is the main goal of a regulatory body?  
-A) ✓ Serving the public and maintaining national standards is the primary goal.  
-B) ✗ Conducting elections is a professional body function, not regulatory.  
-C) ✗ Generating profit is not a goal of regulatory bodies.  
-D) ✗ Providing continuing education is usually a professional body’s role.  
-
-**Correct:** A
-
-
-#### 8. Which of the following are true about the Institution of Engineers Sri Lanka (IESL)?  
-A) ✓ IESL is a non-profit professional body.  
-B) ✗ IESL is not a government regulatory agency.  
-C) ✓ IESL accredits engineering degree programs.  
-D) ✓ IESL offers multiple membership categories.  
+B) ✗ Government Regulator is not a membership category.  
+C) ✓ Corporate Member (Chartered Engineer) is a senior membership level.  
+D) ✓ Associate Member is a recognized category based on qualifications.  
 
 **Correct:** A, C, D
 
 
-#### 9. To become a Chartered Engineer through IESL, which of the following are required?  
-A) ✓ Passing management and technical papers is necessary.  
-B) ✓ Five years of responsible experience is mandatory.  
-C) ✗ Holding a degree alone is insufficient without experience and exams.  
-D) ✓ Submission of reports is required.  
+#### 5. How does a professional body differ from a regulatory body?  
+A) ✗ Professional bodies do not impose legal penalties.  
+B) ✓ Regulatory bodies focus on public interest and national standards.  
+C) ✓ Professional bodies are member-driven and non-commercial.  
+D) ✓ Regulatory bodies have legal authority to enforce compliance.  
+
+**Correct:** B, C, D
+
+
+#### 6. Which of the following are functions of regulatory bodies?  
+A) ✗ Providing training is usually done by professional bodies, not regulatory.  
+B) ✓ Enforcing compliance is essential.  
+C) ✓ Registering professionals and maintaining conduct is a regulatory role.  
+D) ✓ Setting standards is a primary function.  
+
+**Correct:** B, C, D
+
+
+#### 7. What is the main goal of a regulatory body?  
+A) ✗ Providing continuing education is usually a professional body’s role.  
+B) ✗ Conducting elections is a professional body function, not regulatory.  
+C) ✗ Generating profit is not a goal of regulatory bodies.  
+D) ✓ Serving the public and maintaining national standards is the primary goal.  
+
+**Correct:** D
+
+
+#### 8. Which of the following are true about the Institution of Engineers Sri Lanka (IESL)?  
+A) ✓ IESL is a non-profit professional body.  
+B) ✓ IESL accredits engineering degree programs.  
+C) ✗ IESL is not a government regulatory agency.  
+D) ✓ IESL offers multiple membership categories.  
 
 **Correct:** A, B, D
+
+
+#### 9. To become a Chartered Engineer through IESL, which of the following are required?  
+A) ✗ Holding a degree alone is insufficient without experience and exams.  
+B) ✓ Five years of responsible experience is mandatory.  
+C) ✓ Passing management and technical papers is necessary.  
+D) ✓ Submission of reports is required.  
+
+**Correct:** B, C, D
 
 
 #### 10. Which of the following statements about Continuing Professional Development (CPD) are correct?  
@@ -219,17 +219,17 @@ D) ✗ CPD is strongly encouraged, not optional.
 
 
 #### 11. Which organizations are examples of regulatory bodies in Sri Lanka?  
-A) ✓ Consumer Affairs Authority is a regulatory body.  
-B) ✗ IESL is a professional body, not regulatory.  
-C) ✓ Telecommunication Regulatory Commission is regulatory.  
-D) ✓ ECSL is a regulatory body.  
+A) ✗ IESL is a professional body, not regulatory.  
+B) ✓ Consumer Affairs Authority is a regulatory body.  
+C) ✓ ECSL is a regulatory body.  
+D) ✓ Telecommunication Regulatory Commission is regulatory.  
 
-**Correct:** A, C, D
+**Correct:** B, C, D
 
 
 #### 12. What is the role of the Engineering Council Sri Lanka (ECSL)?  
-A) ✓ Maintains professional standards and conduct.  
-B) ✓ Registers engineering practitioners.  
+A) ✓ Registers engineering practitioners.  
+B) ✓ Maintains professional standards and conduct.  
 C) ✗ Organizing conferences is a professional body function.  
 D) ✗ Does not accredit degrees; that is IESL’s role.  
 
@@ -237,72 +237,72 @@ D) ✗ Does not accredit degrees; that is IESL’s role.
 
 
 #### 13. Which of the following are categories of engineering practitioners registered by ECSL?  
-A) ✗ Professional Engineer (PE) is not a category used by ECSL.  
-B) ✓ Engineering Technician is registered.  
-C) ✓ Chartered Engineer is a registered category.  
-D) ✓ Associate Engineer is registered.  
+A) ✓ Engineering Technician is registered.  
+B) ✓ Associate Engineer is registered.  
+C) ✗ Professional Engineer (PE) is not a category used by ECSL.  
+D) ✓ Chartered Engineer is a registered category.  
 
-**Correct:** B, C, D
+**Correct:** A, B, D
 
 
 #### 14. Which of the following statements about the career path of engineers is true?  
-A) ✗ Chartered Engineer status is usually required for senior management.  
-B) ✓ Senior Engineer is typically achieved after about 5 years.  
-C) ✓ Engineers progress over 15-25 years through ranks.  
-D) ✗ General Manager roles often require qualifications beyond experience.  
-
-**Correct:** B, C
-
-
-#### 15. What distinguishes a professional body’s governance structure?  
-A) ✗ Not controlled solely by government officials.  
-B) ✓ Governed by laws constituted by members.  
-C) ✗ Operates not for profit, not for commercial gain.  
-D) ✓ Members elect council and president annually.  
+A) ✗ General Manager roles often require qualifications beyond experience.  
+B) ✓ Engineers progress over 15-25 years through ranks.  
+C) ✗ Chartered Engineer status is usually required for senior management.  
+D) ✓ Senior Engineer is typically achieved after about 5 years.  
 
 **Correct:** B, D
 
 
-#### 16. Which of the following are true about the University Grants Commission (UGC) in relation to engineering education?  
-A) ✗ UGC does not accredit foreign degrees directly.  
-B) ✗ UGC does not conduct final exams.  
-C) ✓ UGC approves courses before they start.  
-D) ✓ UGC reviews curriculum and facilities via documentary review.  
-
-**Correct:** C, D
-
-
-#### 17. Which of the following best describe the relationship between IESL and ECSL?  
-A) ✗ IESL does not control licensing; ECSL regulates licensing.  
-B) ✓ ECSL registers engineers; IESL supports professional development.  
-C) ✓ IESL is a professional body; ECSL is a regulatory body.  
-D) ✗ Only ECSL has legal authority; IESL does not.  
+#### 15. What distinguishes a professional body’s governance structure?  
+A) ✗ Not controlled solely by government officials.  
+B) ✓ Members elect council and president annually.  
+C) ✓ Governed by laws constituted by members.  
+D) ✗ Operates not for profit, not for commercial gain.  
 
 **Correct:** B, C
 
 
-#### 18. Which of the following are responsibilities of the Engineering Council Sri Lanka?  
-A) ✓ Maintains professional conduct and standards.  
-B) ✗ Setting industrial standards is mainly a professional body function.  
-C) ✓ Registers foreign engineering practitioners.  
-D) ✗ Providing continuing education is a professional body role.  
+#### 16. Which of the following are true about the University Grants Commission (UGC) in relation to engineering education?  
+A) ✓ UGC reviews curriculum and facilities via documentary review.  
+B) ✗ UGC does not accredit foreign degrees directly.  
+C) ✗ UGC does not conduct final exams.  
+D) ✓ UGC approves courses before they start.  
+
+**Correct:** A, D
+
+
+#### 17. Which of the following best describe the relationship between IESL and ECSL?  
+A) ✓ ECSL registers engineers; IESL supports professional development.  
+B) ✗ IESL does not control licensing; ECSL regulates licensing.  
+C) ✓ IESL is a professional body; ECSL is a regulatory body.  
+D) ✗ Only ECSL has legal authority; IESL does not.  
 
 **Correct:** A, C
 
 
-#### 19. What are the requirements to become an Associate Member of IESL?  
-A) ✓ Submit an application following IESL guidelines.  
-B) ✓ Hold a 4-year full-time engineering degree recognized by IESL.  
-C) ✗ Five years of experience is for Chartered Engineer, not Associate Member.  
-D) ✗ Passing management and technical papers is for Chartered Engineer.  
+#### 18. Which of the following are responsibilities of the Engineering Council Sri Lanka?  
+A) ✗ Providing continuing education is a professional body role.  
+B) ✗ Setting industrial standards is mainly a professional body function.  
+C) ✓ Maintains professional conduct and standards.  
+D) ✓ Registers foreign engineering practitioners.  
 
-**Correct:** A, B
+**Correct:** C, D
+
+
+#### 19. What are the requirements to become an Associate Member of IESL?  
+A) ✗ Passing management and technical papers is for Chartered Engineer.  
+B) ✗ Five years of experience is for Chartered Engineer, not Associate Member.  
+C) ✓ Hold a 4-year full-time engineering degree recognized by IESL.  
+D) ✓ Submit an application following IESL guidelines.  
+
+**Correct:** C, D
 
 
 #### 20. Which of the following statements about professional ethics and regulation are correct?  
-A) ✓ Updating knowledge and skills is part of maintaining professional ethics.  
+A) ✗ Only regulatory bodies can impose legal sanctions, not professional bodies alone.  
 B) ✓ Regulatory bodies have authority to act against unethical professionals.  
-C) ✗ Only regulatory bodies can impose legal sanctions, not professional bodies alone.  
-D) ✓ Ethical behavior is governed by codes set by professional bodies.  
+C) ✓ Ethical behavior is governed by codes set by professional bodies.  
+D) ✓ Updating knowledge and skills is part of maintaining professional ethics.  
 
-**Correct:** A, B, D
+**Correct:** B, C, D

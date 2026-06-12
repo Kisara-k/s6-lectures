@@ -3,40 +3,40 @@
 ## Questions
 
 #### 1. What are the primary purposes of using case studies in engineering ethics?  
-A) To memorize codes of ethics verbatim  
-B) To understand how to relate codes of ethics to decision-making  
-C) To apply ethical knowledge in practical situations  
-D) To experience real-world ethical dilemmas engineers face  
+A) To apply ethical knowledge in practical situations  
+B) To experience real-world ethical dilemmas engineers face  
+C) To memorize codes of ethics verbatim  
+D) To understand how to relate codes of ethics to decision-making  
 
 #### 2. Which of the following factors influence an engineer’s decision when facing an ethical dilemma?  
 A) Knowledge of engineering ethics  
-B) Experience and willpower  
+B) Analytical power and judgment  
 C) Personal financial gain  
-D) Analytical power and judgment  
+D) Experience and willpower  
 
 #### 3. According to the IESL Code of Ethics, what is considered paramount in engineering practice?  
 A) Public health, safety, and welfare  
-B) Maximizing profits  
-C) Proper utilization of funds and resources  
-D) Client satisfaction  
+B) Proper utilization of funds and resources  
+C) Client satisfaction  
+D) Maximizing profits  
 
 #### 4. Which of the following are included in the IESL Code of Ethics principles?  
-A) Upholding professional dignity  
-B) Limiting services to areas of competence  
-C) Competing unfairly to build reputation  
-D) Practicing sustainable engineering  
+A) Competing unfairly to build reputation  
+B) Practicing sustainable engineering  
+C) Limiting services to areas of competence  
+D) Upholding professional dignity  
 
 #### 5. The NSPE Code of Ethics emphasizes which of the following as the highest priority?  
-A) Holding paramount the safety, health, and welfare of the public  
+A) Serving employers without question  
 B) Avoiding all conflicts of interest  
 C) Enhancing the reputation of the profession  
-D) Serving employers without question  
+D) Holding paramount the safety, health, and welfare of the public  
 
 #### 6. When an engineer’s judgment about public safety is overruled by a client or employer, what is the ethical expectation?  
 A) To notify the relevant authorities about the safety concern  
-B) To withdraw from the project immediately  
-C) To inform the client or employer and escalate the issue if necessary  
-D) To remain silent to maintain confidentiality  
+B) To inform the client or employer and escalate the issue if necessary  
+C) To remain silent to maintain confidentiality  
+D) To withdraw from the project immediately  
 
 #### 7. In the fire investigation case study, what ethical conflict does Engineer-A face?  
 A) Determining if the building owner is liable  
@@ -47,79 +47,79 @@ D) Choosing between personal gain and professional duty
 #### 8. Which of the following statements about confidentiality in engineering ethics are true?  
 A) Engineers can disclose confidential information if it benefits their career  
 B) Confidential information should not be disclosed without permission unless public safety is at risk  
-C) Confidentiality agreements can conflict with the duty to protect the public  
-D) Confidentiality must always be maintained regardless of public safety concerns  
+C) Confidentiality must always be maintained regardless of public safety concerns  
+D) Confidentiality agreements can conflict with the duty to protect the public  
 
 #### 9. What is a reasonable ethical approach for Engineer-A when bound by a court-approved confidentiality settlement but concerned about public safety?  
-A) Disclose the full forensic report to the public immediately  
-B) Maintain confidentiality but conduct further research to raise awareness without revealing specifics  
+A) Maintain confidentiality but conduct further research to raise awareness without revealing specifics  
+B) Withdraw from the case and refuse further involvement  
 C) Ignore the settlement and speak out publicly  
-D) Withdraw from the case and refuse further involvement  
+D) Disclose the full forensic report to the public immediately  
 
 #### 10. Which of the following are fundamental canons of the NSPE Code of Ethics?  
-A) Perform services only in areas of competence  
-B) Prioritize employer interests over public welfare  
-C) Issue public statements only in an objective and truthful manner  
-D) Avoid deceptive acts  
+A) Issue public statements only in an objective and truthful manner  
+B) Avoid deceptive acts  
+C) Prioritize employer interests over public welfare  
+D) Perform services only in areas of competence  
 
 #### 11. How does the IESL Code of Ethics suggest engineers should handle conflicts of interest?  
-A) Disclose conflicts only if asked by the client  
-B) Avoid any situation that might create a conflict of interest  
-C) Serve benefactors faithfully without conflicting with public interest  
-D) Prioritize employer interests above all else  
+A) Serve benefactors faithfully without conflicting with public interest  
+B) Prioritize employer interests above all else  
+C) Disclose conflicts only if asked by the client  
+D) Avoid any situation that might create a conflict of interest  
 
 #### 12. Which of the following best describes the relationship between confidentiality and public safety in engineering ethics?  
-A) Confidentiality always overrides public safety concerns  
-B) Public safety concerns can justify breaching confidentiality under certain conditions  
-C) Both confidentiality and public safety are equally important and must be balanced carefully  
-D) Public safety is only relevant if the client agrees  
+A) Public safety is only relevant if the client agrees  
+B) Confidentiality always overrides public safety concerns  
+C) Public safety concerns can justify breaching confidentiality under certain conditions  
+D) Both confidentiality and public safety are equally important and must be balanced carefully  
 
 #### 13. What role does continuous professional development play in engineering ethics?  
 A) It is optional and only for career advancement  
-B) It is required only for engineers in leadership positions  
+B) It encourages engineers to mentor others and improve the profession  
 C) It helps engineers maintain competence and uphold ethical standards  
-D) It encourages engineers to mentor others and improve the profession  
+D) It is required only for engineers in leadership positions  
 
 #### 14. In the case study, why was Engineer-A’s ethical obligation to maintain confidentiality considered strong?  
-A) Because Engineer-A personally agreed with the settlement terms  
-B) Because the safety issues were not urgent or imminent  
-C) Because the client explicitly forbade disclosure  
-D) Because the confidentiality was part of a court-approved settlement  
+A) Because the client explicitly forbade disclosure  
+B) Because the confidentiality was part of a court-approved settlement  
+C) Because Engineer-A personally agreed with the settlement terms  
+D) Because the safety issues were not urgent or imminent  
 
 #### 15. Which of the following actions would violate the NSPE Code of Ethics?  
-A) Reporting safety concerns to authorities when overruled by a client  
-B) Limiting work to areas of competence  
+A) Issuing a public statement that is biased and misleading  
+B) Reporting safety concerns to authorities when overruled by a client  
 C) Acting as a faithful agent for a client while protecting public welfare  
-D) Issuing a public statement that is biased and misleading  
+D) Limiting work to areas of competence  
 
 #### 16. What is the significance of “building reputation on merit” in the IESL Code of Ethics?  
-A) It discourages collaboration with other professionals  
+A) It prioritizes marketing over technical competence  
 B) It allows engineers to use any means necessary to gain clients  
-C) It encourages engineers to compete fairly based on skills and achievements  
-D) It prioritizes marketing over technical competence  
+C) It discourages collaboration with other professionals  
+D) It encourages engineers to compete fairly based on skills and achievements  
 
 #### 17. Which of the following best explains why conflicts between confidentiality and public safety are common in engineering ethics?  
-A) Because clients always want to hide safety issues  
-B) Because engineers often work with sensitive information that may affect many people  
-C) Because engineers do not understand their ethical duties  
-D) Because public safety is rarely a concern in engineering projects  
+A) Because public safety is rarely a concern in engineering projects  
+B) Because engineers do not understand their ethical duties  
+C) Because engineers often work with sensitive information that may affect many people  
+D) Because clients always want to hide safety issues  
 
 #### 18. According to the NSPE Code, what should an engineer do if their judgment is overruled in a matter that endangers life or property?  
 A) Resign from the project immediately  
-B) Publicly disclose all information without consent  
-C) Notify their employer or client and appropriate authorities  
-D) Keep the disagreement confidential to avoid conflict  
+B) Keep the disagreement confidential to avoid conflict  
+C) Publicly disclose all information without consent  
+D) Notify their employer or client and appropriate authorities  
 
 #### 19. How can an engineer contribute to public well-being without violating confidentiality agreements?  
-A) By participating in public discussions using general technical knowledge  
+A) By revealing specific confidential details to warn the public  
 B) By ignoring confidentiality to prioritize public safety  
-C) By conducting further research and publishing findings without identifying parties  
-D) By revealing specific confidential details to warn the public  
+C) By participating in public discussions using general technical knowledge  
+D) By conducting further research and publishing findings without identifying parties  
 
 #### 20. Which of the following statements about ethical codes is true?  
-A) They offer guidance to balance competing duties such as confidentiality and public safety  
+A) They encourage engineers to act honorably, responsibly, and lawfully to enhance the profession’s reputation  
 B) They are only relevant for engineers working in government roles  
-C) They encourage engineers to act honorably, responsibly, and lawfully to enhance the profession’s reputation
+C) They offer guidance to balance competing duties such as confidentiality and public safety  
 D) They provide a rigid set of rules that must be followed without exception  
 
 
@@ -129,57 +129,57 @@ D) They provide a rigid set of rules that must be followed without exception
 ## Answers
 
 #### 1. What are the primary purposes of using case studies in engineering ethics?  
-A) ✗ Memorizing codes verbatim is not the purpose of case studies  
-B) ✓ To understand how to relate codes of ethics to decision-making  
-C) ✓ To apply ethical knowledge in practical situations  
-D) ✓ To experience real-world ethical dilemmas engineers face  
+A) ✓ To apply ethical knowledge in practical situations  
+B) ✓ To experience real-world ethical dilemmas engineers face  
+C) ✗ Memorizing codes verbatim is not the purpose of case studies  
+D) ✓ To understand how to relate codes of ethics to decision-making  
 
-**Correct:** B, C, D
+**Correct:** A, B, D
 
 
 #### 2. Which of the following factors influence an engineer’s decision when facing an ethical dilemma?  
 A) ✓ Knowledge of engineering ethics is essential  
-B) ✓ Experience and willpower affect decision-making  
+B) ✓ Analytical power and judgment are critical  
 C) ✗ Personal financial gain is not an ethical factor and should not influence decisions  
-D) ✓ Analytical power and judgment are critical  
+D) ✓ Experience and willpower affect decision-making  
 
 **Correct:** A, B, D
 
 
 #### 3. According to the IESL Code of Ethics, what is considered paramount in engineering practice?  
 A) ✓ Public health, safety, and welfare is the highest priority  
-B) ✗ Maximizing profits is not an ethical priority  
-C) ✓ Proper utilization of funds and resources is important but secondary to public welfare  
-D) ✗ Client satisfaction is important but not paramount  
+B) ✓ Proper utilization of funds and resources is important but secondary to public welfare  
+C) ✗ Client satisfaction is important but not paramount  
+D) ✗ Maximizing profits is not an ethical priority  
 
-**Correct:** A, C
+**Correct:** A, B
 
 
 #### 4. Which of the following are included in the IESL Code of Ethics principles?  
-A) ✓ Upholding professional dignity is a key principle  
-B) ✓ Limiting services to areas of competence is required  
-C) ✗ Competing unfairly is prohibited  
-D) ✓ Practicing sustainable engineering is emphasized  
+A) ✗ Competing unfairly is prohibited  
+B) ✓ Practicing sustainable engineering is emphasized  
+C) ✓ Limiting services to areas of competence is required  
+D) ✓ Upholding professional dignity is a key principle  
 
-**Correct:** A, B, D
+**Correct:** B, C, D
 
 
 #### 5. The NSPE Code of Ethics emphasizes which of the following as the highest priority?  
-A) ✓ Holding paramount the safety, health, and welfare of the public is fundamental  
+A) ✗ Serving employers without question can conflict with public safety  
 B) ✗ Avoiding conflicts is important but not the highest priority  
 C) ✗ Enhancing reputation is important but not the highest priority  
-D) ✗ Serving employers without question can conflict with public safety  
+D) ✓ Holding paramount the safety, health, and welfare of the public is fundamental  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 6. When an engineer’s judgment about public safety is overruled by a client or employer, what is the ethical expectation?  
 A) ✓ Notifying relevant authorities is required to protect the public  
-B) ✗ Immediate withdrawal is not always necessary or required  
-C) ✓ Informing the client/employer and escalating if needed is ethical  
-D) ✗ Remaining silent ignores the duty to protect public safety  
+B) ✓ Informing the client/employer and escalating if needed is ethical  
+C) ✗ Remaining silent ignores the duty to protect public safety  
+D) ✗ Immediate withdrawal is not always necessary or required  
 
-**Correct:** A, C
+**Correct:** A, B
 
 
 #### 7. In the fire investigation case study, what ethical conflict does Engineer-A face?  
@@ -194,115 +194,115 @@ D) ✗ Personal gain is not part of the dilemma
 #### 8. Which of the following statements about confidentiality in engineering ethics are true?  
 A) ✗ Disclosing confidential info for personal career gain is unethical  
 B) ✓ Confidential information should not be disclosed without permission unless public safety is involved  
-C) ✓ Confidentiality agreements can conflict with the duty to protect the public  
-D) ✗ Confidentiality is not absolute if public safety is at risk  
+C) ✗ Confidentiality is not absolute if public safety is at risk  
+D) ✓ Confidentiality agreements can conflict with the duty to protect the public  
 
-**Correct:** B, C
+**Correct:** B, D
 
 
 #### 9. What is a reasonable ethical approach for Engineer-A when bound by a court-approved confidentiality settlement but concerned about public safety?  
-A) ✗ Disclosing the full report breaches confidentiality and legal orders  
-B) ✓ Maintaining confidentiality while researching general issues is ethical  
+A) ✓ Maintaining confidentiality while researching general issues is ethical  
+B) ✗ Simply withdrawing does not address public safety concerns  
 C) ✗ Ignoring the settlement is unethical and illegal  
-D) ✗ Simply withdrawing does not address public safety concerns  
+D) ✗ Disclosing the full report breaches confidentiality and legal orders  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 10. Which of the following are fundamental canons of the NSPE Code of Ethics?  
-A) ✓ Performing services only in areas of competence is required  
-B) ✗ Prioritizing employer interests over public welfare contradicts the code  
-C) ✓ Issuing objective and truthful public statements is required  
-D) ✓ Avoiding deceptive acts is fundamental  
+A) ✓ Issuing objective and truthful public statements is required  
+B) ✓ Avoiding deceptive acts is fundamental  
+C) ✗ Prioritizing employer interests over public welfare contradicts the code  
+D) ✓ Performing services only in areas of competence is required  
 
-**Correct:** A, C, D
+**Correct:** A, B, D
 
 
 #### 11. How does the IESL Code of Ethics suggest engineers should handle conflicts of interest?  
-A) ✗ Disclosure only when asked is insufficient; proactive disclosure is better  
-B) ✗ Avoiding all conflicts is ideal but not always possible; managing them ethically is key  
-C) ✓ Serve benefactors faithfully without conflicting with public interest  
-D) ✗ Prioritizing employer interests above all else can conflict with ethics  
+A) ✓ Serve benefactors faithfully without conflicting with public interest  
+B) ✗ Prioritizing employer interests above all else can conflict with ethics  
+C) ✗ Disclosure only when asked is insufficient; proactive disclosure is better  
+D) ✗ Avoiding all conflicts is ideal but not always possible; managing them ethically is key  
 
-**Correct:** C
+**Correct:** A
 
 
 #### 12. Which of the following best describes the relationship between confidentiality and public safety in engineering ethics?  
-A) ✗ Confidentiality does not always override public safety  
-B) ✓ Public safety can justify breaching confidentiality under certain conditions  
-C) ✓ Both are important and must be balanced carefully  
-D) ✗ Public safety is relevant regardless of client agreement  
-
-**Correct:** B, C
-
-
-#### 13. What role does continuous professional development play in engineering ethics?  
-A) ✗ It is not optional; it is an ethical responsibility  
-B) ✗ It is required for all engineers, not just leaders  
-C) ✓ It helps maintain competence and uphold ethical standards  
-D) ✓ Encourages mentoring and advancing the profession  
+A) ✗ Public safety is relevant regardless of client agreement  
+B) ✗ Confidentiality does not always override public safety  
+C) ✓ Public safety can justify breaching confidentiality under certain conditions  
+D) ✓ Both are important and must be balanced carefully  
 
 **Correct:** C, D
 
 
+#### 13. What role does continuous professional development play in engineering ethics?  
+A) ✗ It is not optional; it is an ethical responsibility  
+B) ✓ Encourages mentoring and advancing the profession  
+C) ✓ It helps maintain competence and uphold ethical standards  
+D) ✗ It is required for all engineers, not just leaders  
+
+**Correct:** B, C
+
+
 #### 14. In the case study, why was Engineer-A’s ethical obligation to maintain confidentiality considered strong?  
-A) ✗ Personal agreement is irrelevant to ethical obligation  
-B) ✓ Because safety issues were not urgent or imminent  
-C) ✗ Client forbidding disclosure alone does not create a stronger obligation than court order  
-D) ✓ Because confidentiality was part of a court-approved settlement  
+A) ✗ Client forbidding disclosure alone does not create a stronger obligation than court order  
+B) ✓ Because confidentiality was part of a court-approved settlement  
+C) ✗ Personal agreement is irrelevant to ethical obligation  
+D) ✓ Because safety issues were not urgent or imminent  
 
 **Correct:** B, D
 
 
 #### 15. Which of the following actions would violate the NSPE Code of Ethics?  
-A) ✗ Reporting safety concerns when overruled is required, not a violation  
-B) ✗ Limiting work to competence is required, not a violation  
+A) ✓ Issuing biased and misleading public statements violates honesty  
+B) ✗ Reporting safety concerns when overruled is required, not a violation  
 C) ✗ Acting as a faithful agent while protecting public welfare is ethical  
-D) ✓ Issuing biased and misleading public statements violates honesty  
+D) ✗ Limiting work to competence is required, not a violation  
+
+**Correct:** A
+
+
+#### 16. What is the significance of “building reputation on merit” in the IESL Code of Ethics?  
+A) ✗ Prioritizing marketing over competence is unethical  
+B) ✗ Using any means necessary is unethical  
+C) ✗ Discouraging collaboration contradicts professional ethics  
+D) ✓ Encourages fair competition based on skills and achievements  
 
 **Correct:** D
 
 
-#### 16. What is the significance of “building reputation on merit” in the IESL Code of Ethics?  
-A) ✗ Discouraging collaboration contradicts professional ethics  
-B) ✗ Using any means necessary is unethical  
-C) ✓ Encourages fair competition based on skills and achievements  
-D) ✗ Prioritizing marketing over competence is unethical  
+#### 17. Which of the following best explains why conflicts between confidentiality and public safety are common in engineering ethics?  
+A) ✗ Public safety is a frequent concern in engineering projects  
+B) ✗ Engineers generally understand their duties; conflicts arise from complex situations  
+C) ✓ Engineers often handle sensitive info affecting many people  
+D) ✗ Clients do not always want to hide safety issues; this is not universal  
 
 **Correct:** C
-
-
-#### 17. Which of the following best explains why conflicts between confidentiality and public safety are common in engineering ethics?  
-A) ✗ Clients do not always want to hide safety issues; this is not universal  
-B) ✓ Engineers often handle sensitive info affecting many people  
-C) ✗ Engineers generally understand their duties; conflicts arise from complex situations  
-D) ✗ Public safety is a frequent concern in engineering projects  
-
-**Correct:** B
 
 
 #### 18. According to the NSPE Code, what should an engineer do if their judgment is overruled in a matter that endangers life or property?  
 A) ✗ Resigning is not always required or the first step  
-B) ✗ Publicly disclosing all info without consent may breach confidentiality  
-C) ✓ Notify employer/client and appropriate authorities  
-D) ✗ Keeping disagreement confidential ignores public safety  
+B) ✗ Keeping disagreement confidential ignores public safety  
+C) ✗ Publicly disclosing all info without consent may breach confidentiality  
+D) ✓ Notify employer/client and appropriate authorities  
 
-**Correct:** C
+**Correct:** D
 
 
 #### 19. How can an engineer contribute to public well-being without violating confidentiality agreements?  
-A) ✓ Participate in public discussions using general technical knowledge  
+A) ✗ Revealing specific confidential details breaches agreements  
 B) ✗ Ignoring confidentiality is unethical  
-C) ✓ Conduct further research and publish findings without identifying parties  
-D) ✗ Revealing specific confidential details breaches agreements  
+C) ✓ Participate in public discussions using general technical knowledge  
+D) ✓ Conduct further research and publish findings without identifying parties  
 
-**Correct:** A, C
+**Correct:** C, D
 
 
 #### 20. Which of the following statements about ethical codes is true?  
-A) ✓ They help balance competing duties like confidentiality and public safety  
+A) ✓ They encourage honorable, responsible, and lawful conduct to enhance the profession  
 B) ✗ Codes apply to all engineers, not just government employees  
-C) ✓ They encourage honorable, responsible, and lawful conduct to enhance the profession  
+C) ✓ They help balance competing duties like confidentiality and public safety  
 D) ✗ Codes provide guidance, not rigid rules without exception  
 
 **Correct:** A, C
