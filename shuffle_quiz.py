@@ -136,7 +136,7 @@ def main():
         roots = [Path('.')]
         files = []
         for root in roots:
-            files.extend(root.rglob('quiz/*.md'))
+            files.extend(root.rglob('quiz*/*.md'))
     else:
         files = [Path(p) for p in sys.argv[1:]]
 
