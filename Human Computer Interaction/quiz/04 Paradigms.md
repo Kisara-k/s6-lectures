@@ -9,76 +9,76 @@ C) A set of hardware specifications for computers
 D) A temporary trend in user interface design  
 
 #### 2. What was the primary limitation of the batch processing paradigm?  
-A) It allowed multiple users to interact simultaneously  
-B) Users had no direct interaction during program execution  
-C) It was highly personalized and user-friendly  
-D) It supported graphical user interfaces  
+A) Users had no direct interaction during program execution  
+B) It supported graphical user interfaces  
+C) It allowed multiple users to interact simultaneously  
+D) It was highly personalized and user-friendly  
 
 #### 3. Time-sharing systems introduced which key feature to computing?  
-A) Batch job submission  
-B) Multiple users sharing a single computer interactively  
-C) Direct manipulation of graphical objects  
-D) Embedding computers into everyday objects  
+A) Embedding computers into everyday objects  
+B) Batch job submission  
+C) Multiple users sharing a single computer interactively  
+D) Direct manipulation of graphical objects  
 
 #### 4. Which of the following are characteristics of direct manipulation interfaces?  
-A) Visibility of objects on the screen  
-B) Incremental action with rapid feedback  
+A) Incremental action with rapid feedback  
+B) Visibility of objects on the screen  
 C) Use of command-line language exclusively  
 D) Reversibility of actions to encourage exploration  
 
 #### 5. The WIMP interface includes which of the following elements?  
 A) Windows  
-B) Icons  
-C) Menus  
-D) Programming toolkits  
+B) Programming toolkits  
+C) Icons  
+D) Menus  
 
 #### 6. Which statements about metaphors in interface design are true?  
-A) Metaphors always perfectly fit all computing tasks  
+A) Cultural bias can limit the effectiveness of metaphors  
 B) Metaphors help users relate new technology to familiar real-world activities  
-C) Cultural bias can limit the effectiveness of metaphors  
+C) Metaphors always perfectly fit all computing tasks  
 D) Virtual reality is an example of a user being inside a metaphor  
 
 #### 7. Engelbart’s contribution to interactive systems primarily involved:  
-A) Developing the first graphical user interface  
-B) Creating programming toolkits to augment human intellect  
-C) Inventing the microprocessor  
-D) Designing the WWW protocols  
+A) Creating programming toolkits to augment human intellect  
+B) Designing the WWW protocols  
+C) Developing the first graphical user interface  
+D) Inventing the microprocessor  
 
 #### 8. Which of the following are true about hypertext?  
-A) It allows non-linear browsing of information  
+A) It is limited to text-only content  
 B) It was fully realized and widely adopted immediately after its invention  
-C) It is limited to text-only content  
+C) It allows non-linear browsing of information  
 D) Hypermedia extends hypertext to include multimedia elements  
 
 #### 9. What distinguishes agent-based interfaces from direct manipulation interfaces?  
-A) Agents rely on language and proactivity to assist users  
-B) Direct manipulation interfaces use command-line input only  
-C) Agents act as intelligent assistants or avatars  
+A) Direct manipulation interfaces use command-line input only  
+B) Agents act as intelligent assistants or avatars  
+C) Agents rely on language and proactivity to assist users  
 D) Direct manipulation replaces the underlying system with the interface  
 
 #### 10. Ubiquitous computing aims to:  
-A) Make computers more visible and attention-demanding  
-B) Embed computing seamlessly into everyday objects and environments  
+A) Design interactions that do not demand explicit user intention  
+B) Make computers more visible and attention-demanding  
 C) Require users to constantly focus on the computer interface  
-D) Design interactions that do not demand explicit user intention  
+D) Embed computing seamlessly into everyday objects and environments  
 
 #### 11. Which of the following best explains the challenge of sensor-based, context-aware interaction?  
-A) Sensors can only detect temperature and light  
-B) Translating raw sensor data into meaningful, context-aware system behavior  
-C) Humans are poor at recognizing context, so systems must compensate  
-D) Context-aware systems require constant manual input from users  
+A) Translating raw sensor data into meaningful, context-aware system behavior  
+B) Sensors can only detect temperature and light  
+C) Context-aware systems require constant manual input from users  
+D) Humans are poor at recognizing context, so systems must compensate  
 
 #### 12. The transition from batch processing to time-sharing was primarily motivated by:  
-A) The invention of the microprocessor  
-B) The need to make computing more interactive and accessible to multiple users  
-C) The development of graphical user interfaces  
-D) The rise of the World Wide Web  
+A) The development of graphical user interfaces  
+B) The invention of the microprocessor  
+C) The rise of the World Wide Web  
+D) The need to make computing more interactive and accessible to multiple users  
 
 #### 13. Which of the following are true about the World Wide Web paradigm?  
-A) It is based on simple, universal protocols like HTTP  
-B) It transformed hypertext into a global, open system  
-C) It was the first system to use graphical displays  
-D) It created a critical mass of users that changed the information economy  
+A) It transformed hypertext into a global, open system  
+B) It created a critical mass of users that changed the information economy  
+C) It is based on simple, universal protocols like HTTP  
+D) It was the first system to use graphical displays  
 
 #### 14. What is a key difference between language-based and action-based interfaces?  
 A) Language-based interfaces rely on commands and syntax  
@@ -89,20 +89,20 @@ D) Action-based interfaces always require natural language processing
 #### 15. Which of the following statements about the Dynabook concept are correct?  
 A) It was envisioned as a powerful personal computer for individual use  
 B) It was designed primarily for batch processing tasks  
-C) It emphasized ease of use and accessibility for children and adults  
-D) It was the first commercial windowing system  
+C) It was the first commercial windowing system  
+D) It emphasized ease of use and accessibility for children and adults  
 
 #### 16. Which of the following best describes Computer Supported Cooperative Work (CSCW)?  
-A) Systems designed for single users only  
-B) Systems that support social and collaborative aspects of computing  
-C) Primarily focused on improving batch processing efficiency  
-D) Electronic mail as a prominent example of CSCW success  
+A) Systems that support social and collaborative aspects of computing  
+B) Primarily focused on improving batch processing efficiency  
+C) Electronic mail as a prominent example of CSCW success  
+D) Systems designed for single users only  
 
 #### 17. Which of the following are challenges or limitations of using metaphors in interface design?  
-A) Some tasks do not fit well into existing metaphors  
-B) Metaphors can introduce cultural biases  
-C) Metaphors always simplify complex tasks perfectly  
-D) Metaphors can limit innovation by constraining design thinking  
+A) Metaphors can introduce cultural biases  
+B) Metaphors can limit innovation by constraining design thinking  
+C) Some tasks do not fit well into existing metaphors  
+D) Metaphors always simplify complex tasks perfectly  
 
 #### 18. What was the significance of Sutherland’s Sketchpad in 1962?  
 A) It introduced the first personal computer  
@@ -112,15 +112,15 @@ D) It replaced batch processing with time-sharing
 
 #### 19. Which of the following statements about multimodality are true?  
 A) It involves using multiple human communication channels simultaneously  
-B) It limits input to keyboard and mouse only  
-C) It can make interaction more natural and flexible  
-D) It excludes the use of speech as an input mode  
+B) It excludes the use of speech as an input mode  
+C) It limits input to keyboard and mouse only  
+D) It can make interaction more natural and flexible  
 
 #### 20. Which of the following best captures Mark Weiser’s vision of profound technology?  
-A) Technology that is highly visible and requires constant attention  
-B) Technology that disappears into the background of everyday life  
+A) Technology that disappears into the background of everyday life  
+B) Technology that is embedded and distributed in the physical world
 C) Technology that demands explicit user commands at all times  
-D) Technology that is embedded and distributed in the physical world
+D) Technology that is highly visible and requires constant attention  
 
 
 
@@ -138,26 +138,26 @@ D) ✗ Paradigms are not temporary trends but fundamental worldviews.
 
 
 #### 2. What was the primary limitation of the batch processing paradigm?  
-A) ✗ Batch processing did not allow multiple users to interact simultaneously.  
-B) ✓ Users had no direct interaction during program execution in batch processing.  
-C) ✗ Batch processing was impersonal and not user-friendly.  
-D) ✗ Graphical user interfaces came much later, not in batch processing.  
+A) ✓ Users had no direct interaction during program execution in batch processing.  
+B) ✗ Graphical user interfaces came much later, not in batch processing.  
+C) ✗ Batch processing did not allow multiple users to interact simultaneously.  
+D) ✗ Batch processing was impersonal and not user-friendly.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 3. Time-sharing systems introduced which key feature to computing?  
-A) ✗ Batch job submission is pre-time-sharing.  
-B) ✓ Time-sharing allowed multiple users to interact with one computer simultaneously.  
-C) ✗ Direct manipulation came after time-sharing.  
-D) ✗ Embedding computers in objects is part of ubiquitous computing, much later.  
+A) ✗ Embedding computers in objects is part of ubiquitous computing, much later.  
+B) ✗ Batch job submission is pre-time-sharing.  
+C) ✓ Time-sharing allowed multiple users to interact with one computer simultaneously.  
+D) ✗ Direct manipulation came after time-sharing.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 4. Which of the following are characteristics of direct manipulation interfaces?  
-A) ✓ Visibility of objects is a core feature.  
-B) ✓ Incremental action with rapid feedback encourages exploration.  
+A) ✓ Incremental action with rapid feedback encourages exploration.  
+B) ✓ Visibility of objects is a core feature.  
 C) ✗ Direct manipulation replaces command-line language, not uses it exclusively.  
 D) ✓ Reversibility of actions reduces fear of errors and encourages trying.  
 
@@ -166,83 +166,83 @@ D) ✓ Reversibility of actions reduces fear of errors and encourages trying.
 
 #### 5. The WIMP interface includes which of the following elements?  
 A) ✓ Windows are fundamental to WIMP.  
-B) ✓ Icons are part of WIMP.  
-C) ✓ Menus are included in WIMP.  
-D) ✗ Programming toolkits are development tools, not part of WIMP.  
+B) ✗ Programming toolkits are development tools, not part of WIMP.  
+C) ✓ Icons are part of WIMP.  
+D) ✓ Menus are included in WIMP.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 6. Which statements about metaphors in interface design are true?  
-A) ✗ Metaphors do not always fit all tasks perfectly.  
+A) ✓ Cultural bias can limit metaphor effectiveness.  
 B) ✓ Metaphors help users relate new tech to familiar activities.  
-C) ✓ Cultural bias can limit metaphor effectiveness.  
+C) ✗ Metaphors do not always fit all tasks perfectly.  
 D) ✓ Virtual reality places the user inside the metaphor.  
 
-**Correct:** B, C, D
+**Correct:** A, B, D
 
 
 #### 7. Engelbart’s contribution to interactive systems primarily involved:  
-A) ✗ He did not develop the first GUI.  
-B) ✓ He created programming toolkits to augment human intellect.  
-C) ✗ Microprocessor invention was unrelated to Engelbart.  
-D) ✗ He did not design WWW protocols.  
+A) ✓ He created programming toolkits to augment human intellect.  
+B) ✗ He did not design WWW protocols.  
+C) ✗ He did not develop the first GUI.  
+D) ✗ Microprocessor invention was unrelated to Engelbart.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 8. Which of the following are true about hypertext?  
-A) ✓ Hypertext allows non-linear browsing of information.  
+A) ✗ Hypertext includes more than just text; hypermedia adds multimedia.  
 B) ✗ Hypertext was not immediately widely adopted; it evolved over time.  
-C) ✗ Hypertext includes more than just text; hypermedia adds multimedia.  
+C) ✓ Hypertext allows non-linear browsing of information.  
 D) ✓ Hypermedia extends hypertext to multimedia elements.  
+
+**Correct:** C, D
+
+
+#### 9. What distinguishes agent-based interfaces from direct manipulation interfaces?  
+A) ✗ Direct manipulation does not rely on command-line input only.  
+B) ✓ Agents act as intelligent assistants or avatars.  
+C) ✓ Agents use language and proactivity to assist users.  
+D) ✗ Direct manipulation does not replace the underlying system but the interface mediates it.  
+
+**Correct:** B, C
+
+
+#### 10. Ubiquitous computing aims to:  
+A) ✓ Design interactions that do not demand explicit user intention.  
+B) ✗ It aims to make computing less visible, not more.  
+C) ✗ It tries to reduce the need for constant user focus.  
+D) ✓ Embed computing seamlessly into everyday objects and environments.  
 
 **Correct:** A, D
 
 
-#### 9. What distinguishes agent-based interfaces from direct manipulation interfaces?  
-A) ✓ Agents use language and proactivity to assist users.  
-B) ✗ Direct manipulation does not rely on command-line input only.  
-C) ✓ Agents act as intelligent assistants or avatars.  
-D) ✗ Direct manipulation does not replace the underlying system but the interface mediates it.  
-
-**Correct:** A, C
-
-
-#### 10. Ubiquitous computing aims to:  
-A) ✗ It aims to make computing less visible, not more.  
-B) ✓ Embed computing seamlessly into everyday objects and environments.  
-C) ✗ It tries to reduce the need for constant user focus.  
-D) ✓ Design interactions that do not demand explicit user intention.  
-
-**Correct:** B, D
-
-
 #### 11. Which of the following best explains the challenge of sensor-based, context-aware interaction?  
-A) ✗ Sensors detect many phenomena beyond temperature and light.  
-B) ✓ The main challenge is translating raw sensor data into meaningful interactions.  
-C) ✗ Humans are good at recognizing context; systems try to emulate this.  
-D) ✗ Context-aware systems aim to reduce manual input, not require it.  
+A) ✓ The main challenge is translating raw sensor data into meaningful interactions.  
+B) ✗ Sensors detect many phenomena beyond temperature and light.  
+C) ✗ Context-aware systems aim to reduce manual input, not require it.  
+D) ✗ Humans are good at recognizing context; systems try to emulate this.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 12. The transition from batch processing to time-sharing was primarily motivated by:  
-A) ✗ Microprocessor invention came later.  
-B) ✓ The need to make computing interactive and accessible to multiple users.  
-C) ✗ GUIs came after time-sharing.  
-D) ✗ The Web came much later.  
+A) ✗ GUIs came after time-sharing.  
+B) ✗ Microprocessor invention came later.  
+C) ✗ The Web came much later.  
+D) ✓ The need to make computing interactive and accessible to multiple users.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 13. Which of the following are true about the World Wide Web paradigm?  
-A) ✓ It is based on simple, universal protocols like HTTP.  
-B) ✓ It transformed hypertext into a global, open system.  
-C) ✗ Graphical displays predate the Web.  
-D) ✓ The Web created a critical mass of users changing the information economy.  
+A) ✓ It transformed hypertext into a global, open system.  
+B) ✓ The Web created a critical mass of users changing the information economy.  
+C) ✓ It is based on simple, universal protocols like HTTP.  
+D) ✗ Graphical displays predate the Web.  
 
-**Correct:** A, B, D
+**Correct:** A, B, C
 
 
 #### 14. What is a key difference between language-based and action-based interfaces?  
@@ -257,28 +257,28 @@ D) ✗ Action-based interfaces do not always require natural language processing
 #### 15. Which of the following statements about the Dynabook concept are correct?  
 A) ✓ It was envisioned as a powerful personal computer for individual use.  
 B) ✗ It was not designed for batch processing tasks.  
-C) ✓ It emphasized ease of use and accessibility for children and adults.  
-D) ✗ The Xerox Star was the first commercial windowing system, not Dynabook.  
+C) ✗ The Xerox Star was the first commercial windowing system, not Dynabook.  
+D) ✓ It emphasized ease of use and accessibility for children and adults.  
+
+**Correct:** A, D
+
+
+#### 16. Which of the following best describes Computer Supported Cooperative Work (CSCW)?  
+A) ✓ CSCW supports social and collaborative aspects of computing.  
+B) ✗ CSCW is not about batch processing efficiency.  
+C) ✓ Electronic mail is a prominent example of CSCW success.  
+D) ✗ CSCW focuses on multiple users, not single users.  
 
 **Correct:** A, C
 
 
-#### 16. Which of the following best describes Computer Supported Cooperative Work (CSCW)?  
-A) ✗ CSCW focuses on multiple users, not single users.  
-B) ✓ CSCW supports social and collaborative aspects of computing.  
-C) ✗ CSCW is not about batch processing efficiency.  
-D) ✓ Electronic mail is a prominent example of CSCW success.  
-
-**Correct:** B, D
-
-
 #### 17. Which of the following are challenges or limitations of using metaphors in interface design?  
-A) ✓ Some tasks do not fit well into existing metaphors.  
-B) ✓ Metaphors can introduce cultural biases.  
-C) ✗ Metaphors do not always simplify complex tasks perfectly.  
-D) ✓ Metaphors can limit innovation by constraining design thinking.  
+A) ✓ Metaphors can introduce cultural biases.  
+B) ✓ Metaphors can limit innovation by constraining design thinking.  
+C) ✓ Some tasks do not fit well into existing metaphors.  
+D) ✗ Metaphors do not always simplify complex tasks perfectly.  
 
-**Correct:** A, B, D
+**Correct:** A, B, C
 
 
 #### 18. What was the significance of Sutherland’s Sketchpad in 1962?  
@@ -292,17 +292,17 @@ D) ✗ It did not replace batch processing with time-sharing.
 
 #### 19. Which of the following statements about multimodality are true?  
 A) ✓ It involves using multiple human communication channels simultaneously.  
-B) ✗ It is not limited to keyboard and mouse input.  
-C) ✓ It can make interaction more natural and flexible.  
-D) ✗ Speech is a key input mode in multimodality.  
+B) ✗ Speech is a key input mode in multimodality.  
+C) ✗ It is not limited to keyboard and mouse input.  
+D) ✓ It can make interaction more natural and flexible.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 20. Which of the following best captures Mark Weiser’s vision of profound technology?  
-A) ✗ He advocated for technology that disappears, not demands attention.  
-B) ✓ Technology that disappears into the background of everyday life.  
+A) ✓ Technology that disappears into the background of everyday life.  
+B) ✓ Technology embedded and distributed in the physical world.  
 C) ✗ He did not support technology requiring constant explicit commands.  
-D) ✓ Technology embedded and distributed in the physical world.  
+D) ✗ He advocated for technology that disappears, not demands attention.  
 
-**Correct:** B, D
+**Correct:** A, B

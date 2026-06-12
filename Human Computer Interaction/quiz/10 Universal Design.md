@@ -4,123 +4,123 @@
 
 #### 1. Which of the following are principles of Universal Design?  
 A) Equitable use  
-B) High physical effort  
-C) Tolerance for error  
-D) Size and space for approach and use  
+B) Tolerance for error  
+C) Size and space for approach and use  
+D) High physical effort  
 
 #### 2. Multi-modal systems differ from multi-media systems because they:  
-A) Use multiple sensory modes for interaction  
-B) Use multiple types of media but only one sensory mode  
-C) Always include video and animation  
+A) Always include video and animation  
+B) Use multiple sensory modes for interaction  
+C) Use multiple types of media but only one sensory mode  
 D) Rely solely on visual information  
 
 #### 3. Which senses are currently most commonly used in computer interfaces?  
-A) Sight and smell  
-B) Sight, sound, and touch  
-C) Taste and smell  
-D) Touch and taste  
+A) Sight, sound, and touch  
+B) Sight and smell  
+C) Touch and taste  
+D) Taste and smell  
 
 #### 4. Prosody in speech refers to:  
-A) The smallest unit of sound in language  
-B) The rhythm, stress, and intonation that add meaning  
-C) The structure of sentences  
-D) The meaning of words  
+A) The meaning of words  
+B) The structure of sentences  
+C) The smallest unit of sound in language  
+D) The rhythm, stress, and intonation that add meaning  
 
 #### 5. What is a major challenge in speech recognition systems?  
 A) Consistent pronunciation across all speakers  
 B) Background noise interference  
-C) Lack of vocabulary limitations  
-D) Uniform syntax in all sentences  
+C) Uniform syntax in all sentences  
+D) Lack of vocabulary limitations  
 
 #### 6. The phonetic typewriter system works best with:  
 A) Languages with irregular spelling  
-B) Large open vocabulary systems  
+B) Speakers it has not been trained on  
 C) Phonetic languages with consistent spelling-to-sound mapping  
-D) Speakers it has not been trained on  
+D) Large open vocabulary systems  
 
 #### 7. Which of the following are disadvantages of speech synthesis?  
-A) Difficulty replicating natural prosody  
+A) Requires headphones or creates noise  
 B) Intrusiveness in shared environments  
-C) Easy to review and browse information  
-D) Requires headphones or creates noise  
+C) Difficulty replicating natural prosody  
+D) Easy to review and browse information  
 
 #### 8. Non-speech sounds are particularly useful because they:  
-A) Are language and culture independent  
-B) Can replace speech in all communication  
+A) Can replace speech in all communication  
+B) Are always easier to interpret than speech  
 C) Help reduce typing errors  
-D) Are always easier to interpret than speech  
+D) Are language and culture independent  
 
 #### 9. Auditory icons differ from earcons in that auditory icons:  
-A) Use natural sounds with inherent meaning  
+A) Are harder to associate with interface tasks  
 B) Are synthetic and structured musical notes  
-C) Are harder to associate with interface tasks  
-D) Cannot convey positional information  
+C) Cannot convey positional information  
+D) Use natural sounds with inherent meaning  
 
 #### 10. Which of the following statements about earcons is true?  
-A) They are always easier to understand than auditory icons  
-B) They can be combined hierarchically to convey complex information  
+A) Family earcons represent unrelated actions  
+B) They are always easier to understand than auditory icons  
 C) They rely on natural sound mappings  
-D) Family earcons represent unrelated actions  
+D) They can be combined hierarchically to convey complex information  
 
 #### 11. Haptic feedback includes which of the following?  
-A) Cutaneous perception such as vibrations on the skin  
-B) Kinesthetic feedback like force and resistance  
+A) Kinesthetic feedback like force and resistance  
+B) Cutaneous perception such as vibrations on the skin  
 C) Visual cues on a screen  
 D) Auditory alerts  
 
 #### 12. Handwriting recognition systems face challenges because:  
-A) All users write letters identically  
-B) Co-articulation effects cause letters to blend together  
-C) Stroke data can be captured as sequences of dots  
-D) They require no training to recognize handwriting  
+A) Co-articulation effects cause letters to blend together  
+B) Stroke data can be captured as sequences of dots  
+C) They require no training to recognize handwriting  
+D) All users write letters identically  
 
 #### 13. Gesture recognition technology benefits include:  
-A) Natural form of interaction  
+A) Enhancing communication between signing and non-signing users  
 B) Complete elimination of user variability  
-C) Enhancing communication between signing and non-signing users  
+C) Natural form of interaction  
 D) No issues with co-articulation  
 
 #### 14. Which of the following assistive technologies are suitable for users with physical impairments?  
-A) Speech input/output systems  
-B) Eye gaze tracking  
-C) Screen readers  
-D) Predictive keyboards  
+A) Eye gaze tracking  
+B) Predictive keyboards  
+C) Speech input/output systems  
+D) Screen readers  
 
 #### 15. Which senses are currently impractical to use in computer interfaces?  
-A) Sight and sound  
-B) Taste and smell  
-C) Touch and sight  
-D) Sound and touch  
+A) Taste and smell  
+B) Sound and touch  
+C) Sight and sound  
+D) Touch and sight  
 
 #### 16. In Universal Design, “Tolerance for error” means:  
 A) The system should prevent all user mistakes  
-B) The design should minimize hazards and adverse consequences of errors  
-C) Users should be able to undo actions easily  
-D) The system should ignore user errors  
+B) Users should be able to undo actions easily  
+C) The system should ignore user errors  
+D) The design should minimize hazards and adverse consequences of errors  
 
 #### 17. Which of the following best describes co-articulation in speech?  
-A) The smallest meaningful unit of language  
-B) The influence of surrounding sounds on phoneme pronunciation  
-C) The structure of sentences  
-D) The meaning of a sentence  
+A) The influence of surrounding sounds on phoneme pronunciation  
+B) The structure of sentences  
+C) The meaning of a sentence  
+D) The smallest meaningful unit of language  
 
 #### 18. Multi-media systems:  
 A) Always use multiple sensory modes  
-B) May use several types of media but often rely on a single sensory mode  
-C) Are the same as multi-modal systems  
-D) Cannot include sound  
+B) Are the same as multi-modal systems  
+C) Cannot include sound  
+D) May use several types of media but often rely on a single sensory mode  
 
 #### 19. Which of the following is NOT a typical use of speech recognition technology?  
 A) Voice-activated telephone systems with limited vocabulary  
-B) General user systems with wide vocabulary and open use  
-C) Dictation software for single users  
-D) Hands-free control in manufacturing environments  
+B) Dictation software for single users  
+C) Hands-free control in manufacturing environments  
+D) General user systems with wide vocabulary and open use  
 
 #### 20. Cultural differences in interface design can affect:  
 A) Interpretation of language and symbols  
-B) Acceptability of gestures and colors  
+B) User preferences based on nationality, gender, or religion
 C) The physical size of input devices  
-D) User preferences based on nationality, gender, or religion
+D) Acceptability of gestures and colors  
 
 
 
@@ -130,97 +130,97 @@ D) User preferences based on nationality, gender, or religion
 
 #### 1. Which of the following are principles of Universal Design?  
 A) ✓ Equitable use is a core principle ensuring accessibility for all.  
-B) ✗ High physical effort contradicts the principle of low physical effort.  
-C) ✓ Tolerance for error is a principle to minimize consequences of mistakes.  
-D) ✓ Size and space for approach and use is essential for accessibility.  
+B) ✓ Tolerance for error is a principle to minimize consequences of mistakes.  
+C) ✓ Size and space for approach and use is essential for accessibility.  
+D) ✗ High physical effort contradicts the principle of low physical effort.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 2. Multi-modal systems differ from multi-media systems because they:  
-A) ✓ Multi-modal systems use multiple sensory modes (e.g., visual and auditory).  
-B) ✓ Multi-media systems use multiple media but often only one sensory mode (e.g., all visual).  
-C) ✗ Video and animation are media types but do not define multi-modal systems alone.  
+A) ✗ Video and animation are media types but do not define multi-modal systems alone.  
+B) ✓ Multi-modal systems use multiple sensory modes (e.g., visual and auditory).  
+C) ✓ Multi-media systems use multiple media but often only one sensory mode (e.g., all visual).  
 D) ✗ Multi-modal systems do not rely solely on visual information.  
 
-**Correct:** A, B
+**Correct:** B, C
 
 
 #### 3. Which senses are currently most commonly used in computer interfaces?  
-A) ✗ Smell is rarely used in interfaces.  
-B) ✓ Sight, sound, and sometimes touch are commonly used.  
-C) ✗ Taste and smell are not practical for current computer interfaces.  
-D) ✗ Taste is not used; touch is sometimes used.  
+A) ✓ Sight, sound, and sometimes touch are commonly used.  
+B) ✗ Smell is rarely used in interfaces.  
+C) ✗ Taste is not used; touch is sometimes used.  
+D) ✗ Taste and smell are not practical for current computer interfaces.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 4. Prosody in speech refers to:  
-A) ✗ Phonemes are the smallest sound units, not prosody.  
-B) ✓ Prosody involves rhythm, stress, and intonation adding meaning.  
-C) ✗ Syntax is sentence structure, not prosody.  
-D) ✗ Semantics is meaning, not prosody.  
+A) ✗ Semantics is meaning, not prosody.  
+B) ✗ Syntax is sentence structure, not prosody.  
+C) ✗ Phonemes are the smallest sound units, not prosody.  
+D) ✓ Prosody involves rhythm, stress, and intonation adding meaning.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 5. What is a major challenge in speech recognition systems?  
 A) ✗ Pronunciation varies widely, so consistency is not a given.  
 B) ✓ Background noise interferes with accurate recognition.  
-C) ✗ Vocabulary limitations help recognition; lack of them is a challenge.  
-D) ✗ Syntax varies, making recognition harder, not easier.  
+C) ✗ Syntax varies, making recognition harder, not easier.  
+D) ✗ Vocabulary limitations help recognition; lack of them is a challenge.  
 
 **Correct:** B
 
 
 #### 6. The phonetic typewriter system works best with:  
 A) ✗ Irregular spelling languages reduce effectiveness.  
-B) ✗ Large open vocabulary systems are challenging for it.  
+B) ✗ Performance drops with untrained speakers.  
 C) ✓ Phonetic languages with consistent spelling-to-sound mapping are ideal.  
-D) ✗ Performance drops with untrained speakers.  
+D) ✗ Large open vocabulary systems are challenging for it.  
 
 **Correct:** C
 
 
 #### 7. Which of the following are disadvantages of speech synthesis?  
-A) ✓ Prosody is difficult to replicate naturally.  
+A) ✓ Often requires headphones or creates noise.  
 B) ✓ Speech synthesis can be intrusive in shared spaces.  
-C) ✗ It is harder, not easier, to review and browse spoken information.  
-D) ✓ Often requires headphones or creates noise.  
+C) ✓ Prosody is difficult to replicate naturally.  
+D) ✗ It is harder, not easier, to review and browse spoken information.  
 
-**Correct:** A, B, D
+**Correct:** A, B, C
 
 
 #### 8. Non-speech sounds are particularly useful because they:  
-A) ✓ Are language and culture independent, making them widely understandable.  
-B) ✗ They complement but do not replace speech in all communication.  
+A) ✗ They complement but do not replace speech in all communication.  
+B) ✗ Not always easier to interpret; some sounds require learning.  
 C) ✓ Help reduce typing errors by providing feedback.  
-D) ✗ Not always easier to interpret; some sounds require learning.  
+D) ✓ Are language and culture independent, making them widely understandable.  
 
-**Correct:** A, C
+**Correct:** C, D
 
 
 #### 9. Auditory icons differ from earcons in that auditory icons:  
-A) ✓ Use natural sounds with inherent meaning.  
+A) ✗ Auditory icons are easier to associate due to natural mapping.  
 B) ✗ Earcons are synthetic, not natural sounds.  
-C) ✗ Auditory icons are easier to associate due to natural mapping.  
-D) ✗ Auditory icons can convey positional information using stereo sound.  
+C) ✗ Auditory icons can convey positional information using stereo sound.  
+D) ✓ Use natural sounds with inherent meaning.  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 10. Which of the following statements about earcons is true?  
-A) ✗ Earcons are often harder to understand than auditory icons initially.  
-B) ✓ Earcons can be combined hierarchically to convey complex info.  
+A) ✗ Family earcons group related actions, not unrelated ones.  
+B) ✗ Earcons are often harder to understand than auditory icons initially.  
 C) ✗ Earcons are synthetic and do not rely on natural sound mappings.  
-D) ✗ Family earcons group related actions, not unrelated ones.  
+D) ✓ Earcons can be combined hierarchically to convey complex info.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 11. Haptic feedback includes which of the following?  
-A) ✓ Cutaneous perception like vibrations is part of haptics.  
-B) ✓ Kinesthetic feedback such as force and resistance is included.  
+A) ✓ Kinesthetic feedback such as force and resistance is included.  
+B) ✓ Cutaneous perception like vibrations is part of haptics.  
 C) ✗ Visual cues are not haptic feedback.  
 D) ✗ Auditory alerts are not haptic feedback.  
 
@@ -228,81 +228,81 @@ D) ✗ Auditory alerts are not haptic feedback.
 
 
 #### 12. Handwriting recognition systems face challenges because:  
-A) ✗ Users write letters differently, causing variability.  
-B) ✓ Co-articulation causes letters to blend, complicating recognition.  
-C) ✓ Stroke data can be captured as sequences of dots for processing.  
-D) ✗ Some training is often required for better accuracy.  
+A) ✓ Co-articulation causes letters to blend, complicating recognition.  
+B) ✓ Stroke data can be captured as sequences of dots for processing.  
+C) ✗ Some training is often required for better accuracy.  
+D) ✗ Users write letters differently, causing variability.  
 
-**Correct:** B, C
+**Correct:** A, B
 
 
 #### 13. Gesture recognition technology benefits include:  
-A) ✓ Gestures provide a natural form of interaction.  
+A) ✓ It can enhance communication between signing and non-signing users.  
 B) ✗ User variability remains a challenge in gesture recognition.  
-C) ✓ It can enhance communication between signing and non-signing users.  
+C) ✓ Gestures provide a natural form of interaction.  
 D) ✗ Co-articulation issues affect gesture interpretation.  
 
 **Correct:** A, C
 
 
 #### 14. Which of the following assistive technologies are suitable for users with physical impairments?  
-A) ✓ Speech input/output helps users with limited mobility.  
-B) ✓ Eye gaze tracking allows hands-free control.  
-C) ✗ Screen readers primarily assist visually impaired users.  
-D) ✓ Predictive keyboards reduce physical effort in typing.  
+A) ✓ Eye gaze tracking allows hands-free control.  
+B) ✓ Predictive keyboards reduce physical effort in typing.  
+C) ✓ Speech input/output helps users with limited mobility.  
+D) ✗ Screen readers primarily assist visually impaired users.  
 
-**Correct:** A, B, D
+**Correct:** A, B, C
 
 
 #### 15. Which senses are currently impractical to use in computer interfaces?  
-A) ✗ Sight and sound are widely used.  
-B) ✓ Taste and smell are not practical for current interfaces.  
-C) ✗ Touch and sight are used in many devices.  
-D) ✗ Sound and touch are used in multi-sensory systems.  
+A) ✓ Taste and smell are not practical for current interfaces.  
+B) ✗ Sound and touch are used in multi-sensory systems.  
+C) ✗ Sight and sound are widely used.  
+D) ✗ Touch and sight are used in many devices.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 16. In Universal Design, “Tolerance for error” means:  
 A) ✗ Preventing all mistakes is unrealistic.  
-B) ✓ Minimizing hazards and consequences of errors is the goal.  
-C) ✓ Allowing users to undo actions supports error tolerance.  
-D) ✗ Ignoring errors is not a design principle.  
-
-**Correct:** B, C
-
-
-#### 17. Which of the following best describes co-articulation in speech?  
-A) ✗ Morphemes are smallest meaningful units, not co-articulation.  
-B) ✓ Co-articulation is how surrounding sounds influence phoneme pronunciation.  
-C) ✗ Syntax is sentence structure, unrelated to co-articulation.  
-D) ✗ Semantics is meaning, not co-articulation.  
-
-**Correct:** B
-
-
-#### 18. Multi-media systems:  
-A) ✗ Do not always use multiple sensory modes; often rely on one.  
-B) ✓ Use several types of media but often within a single sensory mode.  
-C) ✗ Are not the same as multi-modal systems.  
-D) ✗ Can include sound as a media type.  
+B) ✓ Allowing users to undo actions supports error tolerance.  
+C) ✗ Ignoring errors is not a design principle.  
+D) ✓ Minimizing hazards and consequences of errors is the goal.  
 
 **Correct:** B, D
 
 
+#### 17. Which of the following best describes co-articulation in speech?  
+A) ✓ Co-articulation is how surrounding sounds influence phoneme pronunciation.  
+B) ✗ Syntax is sentence structure, unrelated to co-articulation.  
+C) ✗ Semantics is meaning, not co-articulation.  
+D) ✗ Morphemes are smallest meaningful units, not co-articulation.  
+
+**Correct:** A
+
+
+#### 18. Multi-media systems:  
+A) ✗ Do not always use multiple sensory modes; often rely on one.  
+B) ✗ Are not the same as multi-modal systems.  
+C) ✗ Can include sound as a media type.  
+D) ✓ Use several types of media but often within a single sensory mode.  
+
+**Correct:** C, D
+
+
 #### 19. Which of the following is NOT a typical use of speech recognition technology?  
 A) ✗ Voice-activated telephone systems with limited vocabulary are common.  
-B) ✓ General user systems with wide vocabulary remain problematic.  
-C) ✗ Dictation software for single users is a typical use.  
-D) ✗ Hands-free control in manufacturing is a common application.  
+B) ✗ Dictation software for single users is a typical use.  
+C) ✗ Hands-free control in manufacturing is a common application.  
+D) ✓ General user systems with wide vocabulary remain problematic.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 20. Cultural differences in interface design can affect:  
 A) ✓ Interpretation of language and symbols varies culturally.  
-B) ✓ Acceptability of gestures and colors depends on culture.  
+B) ✓ User preferences are influenced by nationality, gender, religion, etc.  
 C) ✗ Physical size of input devices is usually a universal ergonomic factor.  
-D) ✓ User preferences are influenced by nationality, gender, religion, etc.  
+D) ✓ Acceptability of gestures and colors depends on culture.  
 
 **Correct:** A, B, D

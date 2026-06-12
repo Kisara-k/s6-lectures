@@ -3,46 +3,46 @@
 ## Questions
 
 #### 1. Which of the following are considered key resources that an engineer-manager must manage?  
-A) Human resources  
-B) Intellectual property rights  
-C) Financial resources  
-D) Time  
+A) Time  
+B) Financial resources  
+C) Human resources  
+D) Intellectual property rights  
 
 #### 2. In the context of government organizations, which bodies issue management guidelines for fully government organizations?  
-A) Ministry of Public Administration  
-B) Ministry of Treasury  
+A) Ministry of Treasury  
+B) Public Enterprise Department  
 C) Board of Directors  
-D) Public Enterprise Department  
+D) Ministry of Public Administration  
 
 #### 3. Which of the following labour laws specifically address employee compensation for work-related injuries?  
-A) Workmen's Compensation Ordinance  
-B) Industrial Disputes Act  
-C) Payment of Gratuity Act  
+A) Industrial Disputes Act  
+B) Payment of Gratuity Act  
+C) Workmen's Compensation Ordinance  
 D) Employees Provident Fund Act  
 
 #### 4. What are the primary functions of management that engineers should understand?  
-A) Planning, Organizing, Leading, Controlling  
-B) Designing, Testing, Implementing, Reviewing  
-C) Recruiting, Training, Evaluating, Promoting  
-D) Budgeting, Marketing, Selling, Reporting  
+A) Designing, Testing, Implementing, Reviewing  
+B) Budgeting, Marketing, Selling, Reporting  
+C) Planning, Organizing, Leading, Controlling  
+D) Recruiting, Training, Evaluating, Promoting  
 
 #### 5. Which of the following are true about semi-government organizations?  
-A) They are managed by the Ministry of Treasury’s Public Enterprise Department  
-B) They follow the Establishment Code strictly like fully government organizations  
-C) They have their own administrative and financial manuals approved by their Board of Directors  
-D) They are fully independent of government regulations  
+A) They have their own administrative and financial manuals approved by their Board of Directors  
+B) They are fully independent of government regulations  
+C) They are managed by the Ministry of Treasury’s Public Enterprise Department  
+D) They follow the Establishment Code strictly like fully government organizations  
 
 #### 6. Which of the following statements about financial management are correct?  
-A) Operational expenditure (Opex) refers to day-to-day running costs  
-B) Capital expenditure (Capex) includes routine maintenance expenses  
-C) Budgeting involves planning how money will be allocated over time  
-D) Financial authority levels determine who can approve spending  
+A) Budgeting involves planning how money will be allocated over time  
+B) Operational expenditure (Opex) refers to day-to-day running costs  
+C) Financial authority levels determine who can approve spending  
+D) Capital expenditure (Capex) includes routine maintenance expenses  
 
 #### 7. When managing human resources, which of the following employee types must an engineer-manager be familiar with?  
-A) Permanent employees  
-B) Fixed-term or contract employees  
+A) Fixed-term or contract employees  
+B) Volunteer employees  
 C) Casual employees  
-D) Volunteer employees  
+D) Permanent employees  
 
 #### 8. Which of the following are included in the Project Management Institute’s knowledge areas?  
 A) Risk Management  
@@ -52,27 +52,27 @@ D) Procurement Management
 
 #### 9. What is the role of the Public Service Commission in fully government organizations?  
 A) Issuing recruitment guidelines  
-B) Approving financial budgets  
-C) Managing employee disciplinary actions  
-D) Setting remuneration packages  
+B) Setting remuneration packages  
+C) Approving financial budgets  
+D) Managing employee disciplinary actions  
 
 #### 10. Which of the following labour laws regulate the termination of employment in Sri Lanka?  
-A) Termination of Employment of Workmen (Special Provisions) Act  
-B) Trade Union Ordinance  
-C) Employees Trust Fund Act  
-D) Industrial Disputes Act  
+A) Trade Union Ordinance  
+B) Employees Trust Fund Act  
+C) Industrial Disputes Act  
+D) Termination of Employment of Workmen (Special Provisions) Act  
 
 #### 11. Which of the following are true about procurement processes?  
-A) Preparation of tender documents is the first step  
-B) Evaluation of bids is done before preparing specifications  
-C) Awarding contracts follows evaluation  
-D) Technical Evaluation Committees play a role in bid assessment  
+A) Awarding contracts follows evaluation  
+B) Preparation of tender documents is the first step  
+C) Technical Evaluation Committees play a role in bid assessment  
+D) Evaluation of bids is done before preparing specifications  
 
 #### 12. Which of the following are essential communication skills for an engineer-manager?  
 A) Conveying instructions clearly  
-B) Listening actively to team members  
-C) Using technical jargon to impress stakeholders  
-D) Providing timely feedback  
+B) Using technical jargon to impress stakeholders  
+C) Providing timely feedback  
+D) Listening actively to team members  
 
 #### 13. Which of the following statements about labour laws and employee benefits are correct?  
 A) The Employees Provident Fund Act mandates retirement savings contributions  
@@ -81,46 +81,46 @@ C) The Payment of Gratuity Act governs end-of-service payments
 D) The National Minimum Wages Act sets wage floors for all workers  
 
 #### 14. What distinguishes fully government organizations from private organizations in terms of management?  
-A) Fully government organizations follow Administrative and Financial Regulations strictly  
-B) Private organizations are managed by a Board of Directors  
+A) Private organizations are managed by a Board of Directors  
+B) Fully government organizations follow Administrative and Financial Regulations strictly  
 C) Fully government organizations have complete freedom from government circulars  
 D) Private organizations do not need to comply with labour laws  
 
 #### 15. Which of the following are considered part of the engineer-manager’s additional knowledge requirements?  
-A) Business strategy and planning  
-B) Legal knowledge related to employment  
-C) Advanced technical design skills only  
+A) Legal knowledge related to employment  
+B) Advanced technical design skills only  
+C) Business strategy and planning  
 D) Sales and marketing awareness  
 
 #### 16. Which of the following best describe the scope of Project Integration Management?  
-A) Coordinating all project elements to work together effectively  
-B) Defining the project budget and controlling costs  
+A) Defining the project budget and controlling costs  
+B) Coordinating all project elements to work together effectively  
 C) Managing project risks and stakeholder expectations  
 D) Scheduling project activities and timelines  
 
 #### 17. Which of the following are true about the Establishment Code in government organizations?  
-A) It governs employee recruitment and promotions  
+A) It includes rules on employee conduct and discipline  
 B) It is also known as Administrative Regulations  
 C) It is optional and only advisory in nature  
-D) It includes rules on employee conduct and discipline  
+D) It governs employee recruitment and promotions  
 
 #### 18. In financial management, which of the following are examples of capital expenditure (Capex)?  
-A) Purchasing new machinery  
-B) Paying monthly electricity bills  
-C) Building a new office facility  
-D) Routine maintenance of equipment  
+A) Routine maintenance of equipment  
+B) Building a new office facility  
+C) Paying monthly electricity bills  
+D) Purchasing new machinery  
 
 #### 19. Which of the following statements about recruitment in fully government organizations are correct?  
-A) Recruitment is done according to Public Service Commission guidelines  
-B) Salaries and benefits are decided by individual departments independently  
-C) The Ministry of Public Administration sets remuneration packages  
-D) Recruitment processes are flexible and vary widely without oversight  
+A) Salaries and benefits are decided by individual departments independently  
+B) The Ministry of Public Administration sets remuneration packages  
+C) Recruitment processes are flexible and vary widely without oversight  
+D) Recruitment is done according to Public Service Commission guidelines  
 
 #### 20. Which of the following are included in the types of employees an engineer-manager must manage?  
 A) Probationary employees  
-B) Fixed-term contract employees  
-C) Casual employees  
-D) Independent contractors
+B) Casual employees  
+C) Independent contractors
+D) Fixed-term contract employees  
 
 
 
@@ -129,66 +129,66 @@ D) Independent contractors
 ## Answers
 
 #### 1. Which of the following are considered key resources that an engineer-manager must manage?  
-A) ✓ Human resources are a primary resource managed by engineers.  
-B) ✗ Intellectual property rights are important but not listed as a key resource here.  
-C) ✓ Financial resources (money) are essential to manage.  
-D) ✓ Time is a critical resource in management.  
+A) ✓ Time is a critical resource in management.  
+B) ✓ Financial resources (money) are essential to manage.  
+C) ✓ Human resources are a primary resource managed by engineers.  
+D) ✗ Intellectual property rights are important but not listed as a key resource here.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 2. In the context of government organizations, which bodies issue management guidelines for fully government organizations?  
-A) ✓ Ministry of Public Administration issues guidelines for fully government organizations.  
-B) ✗ Ministry of Treasury manages semi-government organizations, not fully government ones.  
+A) ✗ Ministry of Treasury manages semi-government organizations, not fully government ones.  
+B) ✗ Public Enterprise Department manages semi-government organizations.  
 C) ✗ Board of Directors manage private organizations, not fully government ones.  
-D) ✗ Public Enterprise Department manages semi-government organizations.  
+D) ✓ Ministry of Public Administration issues guidelines for fully government organizations.  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 3. Which of the following labour laws specifically address employee compensation for work-related injuries?  
-A) ✓ Workmen's Compensation Ordinance covers compensation for injuries.  
-B) ✗ Industrial Disputes Act deals with dispute resolution, not compensation.  
-C) ✗ Payment of Gratuity Act covers end-of-service payments, not injuries.  
+A) ✗ Industrial Disputes Act deals with dispute resolution, not compensation.  
+B) ✗ Payment of Gratuity Act covers end-of-service payments, not injuries.  
+C) ✓ Workmen's Compensation Ordinance covers compensation for injuries.  
 D) ✗ Employees Provident Fund Act relates to retirement savings, not injury compensation.  
 
-**Correct:** A
+**Correct:** C
 
 
 #### 4. What are the primary functions of management that engineers should understand?  
-A) ✓ Planning, Organizing, Leading, Controlling are classic management functions.  
-B) ✗ Designing, Testing, Implementing, Reviewing are technical tasks, not management functions.  
-C) ✗ Recruiting, Training, Evaluating, Promoting are HR activities but not the core management functions.  
-D) ✗ Budgeting, Marketing, Selling, Reporting are business activities but not the fundamental management functions.  
+A) ✗ Designing, Testing, Implementing, Reviewing are technical tasks, not management functions.  
+B) ✗ Budgeting, Marketing, Selling, Reporting are business activities but not the fundamental management functions.  
+C) ✓ Planning, Organizing, Leading, Controlling are classic management functions.  
+D) ✗ Recruiting, Training, Evaluating, Promoting are HR activities but not the core management functions.  
 
-**Correct:** A
+**Correct:** C
 
 
 #### 5. Which of the following are true about semi-government organizations?  
-A) ✓ Managed by Ministry of Treasury’s Public Enterprise Department.  
-B) ✗ They do not strictly follow the Establishment Code like fully government organizations.  
-C) ✓ They have their own administrative and financial manuals approved by their Board of Directors.  
-D) ✗ They are not fully independent; they comply with government circulars and guidelines.  
+A) ✓ They have their own administrative and financial manuals approved by their Board of Directors.  
+B) ✗ They are not fully independent; they comply with government circulars and guidelines.  
+C) ✓ Managed by Ministry of Treasury’s Public Enterprise Department.  
+D) ✗ They do not strictly follow the Establishment Code like fully government organizations.  
 
 **Correct:** A, C
 
 
 #### 6. Which of the following statements about financial management are correct?  
-A) ✓ Opex refers to day-to-day operational costs.  
-B) ✗ Capex refers to long-term investments, not routine maintenance.  
-C) ✓ Budgeting is planning money allocation over time.  
-D) ✓ Financial authority levels define who can approve spending.  
+A) ✓ Budgeting is planning money allocation over time.  
+B) ✓ Opex refers to day-to-day operational costs.  
+C) ✓ Financial authority levels define who can approve spending.  
+D) ✗ Capex refers to long-term investments, not routine maintenance.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 7. When managing human resources, which of the following employee types must an engineer-manager be familiar with?  
-A) ✓ Permanent employees are a key category.  
-B) ✓ Fixed-term or contract employees are common in organizations.  
+A) ✓ Fixed-term or contract employees are common in organizations.  
+B) ✗ Volunteer employees are not typically managed in this context.  
 C) ✓ Casual employees are also a recognized category.  
-D) ✗ Volunteer employees are not typically managed in this context.  
+D) ✓ Permanent employees are a key category.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 8. Which of the following are included in the Project Management Institute’s knowledge areas?  
@@ -202,38 +202,38 @@ D) ✓ Procurement Management is included.
 
 #### 9. What is the role of the Public Service Commission in fully government organizations?  
 A) ✓ It issues recruitment guidelines.  
-B) ✗ It does not approve financial budgets.  
-C) ✗ Disciplinary actions are managed internally, not directly by PSC.  
-D) ✗ Remuneration is decided by the Ministry of Public Administration, not PSC.  
+B) ✗ Remuneration is decided by the Ministry of Public Administration, not PSC.  
+C) ✗ It does not approve financial budgets.  
+D) ✗ Disciplinary actions are managed internally, not directly by PSC.  
 
 **Correct:** A
 
 
 #### 10. Which of the following labour laws regulate the termination of employment in Sri Lanka?  
-A) ✓ Termination of Employment of Workmen (Special Provisions) Act regulates termination.  
-B) ✗ Trade Union Ordinance regulates unions, not termination.  
-C) ✗ Employees Trust Fund Act relates to benefits, not termination.  
-D) ✗ Industrial Disputes Act deals with dispute resolution, not termination specifically.  
+A) ✗ Trade Union Ordinance regulates unions, not termination.  
+B) ✗ Employees Trust Fund Act relates to benefits, not termination.  
+C) ✗ Industrial Disputes Act deals with dispute resolution, not termination specifically.  
+D) ✓ Termination of Employment of Workmen (Special Provisions) Act regulates termination.  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 11. Which of the following are true about procurement processes?  
-A) ✗ Preparation of specifications comes before tender documents, so this is not the first step.  
-B) ✗ Evaluation happens after specifications and tender documents are prepared.  
-C) ✓ Awarding contracts follows evaluation.  
-D) ✓ Technical Evaluation Committees assess bids.  
+A) ✓ Awarding contracts follows evaluation.  
+B) ✗ Preparation of specifications comes before tender documents, so this is not the first step.  
+C) ✓ Technical Evaluation Committees assess bids.  
+D) ✗ Evaluation happens after specifications and tender documents are prepared.  
 
-**Correct:** C, D
+**Correct:** A, C
 
 
 #### 12. Which of the following are essential communication skills for an engineer-manager?  
 A) ✓ Clear instruction is essential.  
-B) ✓ Active listening is important for effective communication.  
-C) ✗ Using technical jargon to impress is not effective communication.  
-D) ✓ Providing timely feedback is necessary.  
+B) ✗ Using technical jargon to impress is not effective communication.  
+C) ✓ Providing timely feedback is necessary.  
+D) ✓ Active listening is important for effective communication.  
 
-**Correct:** A, B, D
+**Correct:** A, C, D
 
 
 #### 13. Which of the following statements about labour laws and employee benefits are correct?  
@@ -246,8 +246,8 @@ D) ✓ National Minimum Wages Act sets wage floors for workers.
 
 
 #### 14. What distinguishes fully government organizations from private organizations in terms of management?  
-A) ✓ Fully government organizations follow strict Administrative and Financial Regulations.  
-B) ✓ Private organizations are managed by a Board of Directors.  
+A) ✓ Private organizations are managed by a Board of Directors.  
+B) ✓ Fully government organizations follow strict Administrative and Financial Regulations.  
 C) ✗ Fully government organizations must comply with government circulars; they do not have complete freedom.  
 D) ✗ Private organizations must comply with labour laws.  
 
@@ -255,54 +255,54 @@ D) ✗ Private organizations must comply with labour laws.
 
 
 #### 15. Which of the following are considered part of the engineer-manager’s additional knowledge requirements?  
-A) ✓ Business strategy and planning are important.  
-B) ✓ Legal knowledge related to employment is necessary.  
-C) ✗ Advanced technical design skills alone are insufficient for management.  
+A) ✓ Legal knowledge related to employment is necessary.  
+B) ✗ Advanced technical design skills alone are insufficient for management.  
+C) ✓ Business strategy and planning are important.  
 D) ✓ Sales and marketing awareness is useful.  
 
-**Correct:** A, B, D
+**Correct:** A, C, D
 
 
 #### 16. Which of the following best describe the scope of Project Integration Management?  
-A) ✓ Coordinating all project elements effectively is the core of integration management.  
-B) ✗ Budget and cost control belong to Cost Management.  
+A) ✗ Budget and cost control belong to Cost Management.  
+B) ✓ Coordinating all project elements effectively is the core of integration management.  
 C) ✗ Risk and stakeholder management are separate knowledge areas.  
 D) ✗ Scheduling is part of Time Management.  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 17. Which of the following are true about the Establishment Code in government organizations?  
-A) ✓ It governs recruitment and promotions.  
+A) ✓ It includes rules on conduct and discipline.  
 B) ✓ It is also called Administrative Regulations.  
 C) ✗ It is mandatory, not optional or advisory.  
-D) ✓ It includes rules on conduct and discipline.  
+D) ✓ It governs recruitment and promotions.  
 
 **Correct:** A, B, D
 
 
 #### 18. In financial management, which of the following are examples of capital expenditure (Capex)?  
-A) ✓ Purchasing new machinery is Capex.  
-B) ✗ Monthly electricity bills are Opex.  
-C) ✓ Building a new office facility is Capex.  
-D) ✗ Routine maintenance is Opex, not Capex.  
+A) ✗ Routine maintenance is Opex, not Capex.  
+B) ✓ Building a new office facility is Capex.  
+C) ✗ Monthly electricity bills are Opex.  
+D) ✓ Purchasing new machinery is Capex.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 19. Which of the following statements about recruitment in fully government organizations are correct?  
-A) ✓ Recruitment follows Public Service Commission guidelines.  
-B) ✗ Salaries and benefits are set by the Ministry of Public Administration, not departments independently.  
-C) ✓ Ministry of Public Administration decides remuneration packages.  
-D) ✗ Recruitment processes are regulated, not flexible without oversight.  
+A) ✗ Salaries and benefits are set by the Ministry of Public Administration, not departments independently.  
+B) ✓ Ministry of Public Administration decides remuneration packages.  
+C) ✗ Recruitment processes are regulated, not flexible without oversight.  
+D) ✓ Recruitment follows Public Service Commission guidelines.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 20. Which of the following are included in the types of employees an engineer-manager must manage?  
 A) ✓ Probationary employees are a recognized category.  
-B) ✓ Fixed-term contract employees are common.  
-C) ✓ Casual employees are included.  
-D) ✗ Independent contractors are not typically managed as employees.  
+B) ✓ Casual employees are included.  
+C) ✗ Independent contractors are not typically managed as employees.  
+D) ✓ Fixed-term contract employees are common.  
 
-**Correct:** A, B, C
+**Correct:** A, B, D

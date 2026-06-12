@@ -3,124 +3,124 @@
 ## Questions
 
 #### 1. Which of the following are primary roles of a windowing system?  
-A) Managing multiple independent user tasks simultaneously  
-B) Directly controlling hardware device drivers without abstraction  
-C) Handling input focus and window arrangement policies  
-D) Enforcing application-specific business logic  
+A) Enforcing application-specific business logic  
+B) Managing multiple independent user tasks simultaneously  
+C) Directly controlling hardware device drivers without abstraction  
+D) Handling input focus and window arrangement policies  
 
 #### 2. Device independence in windowing systems is achieved by:  
-A) Using abstract terminal device drivers  
-B) Binding applications tightly to specific hardware  
+A) Binding applications tightly to specific hardware  
+B) Allowing applications to manage their own synchronization  
 C) Providing image models like PostScript and PHIGS  
-D) Allowing applications to manage their own synchronization  
+D) Using abstract terminal device drivers  
 
 #### 3. Which of the following are true about the client-server architecture in windowing systems?  
-A) The server manages display and input devices  
+A) The window manager is integrated into the kernel  
 B) Applications act as clients communicating with the server  
-C) The window manager is integrated into the kernel  
+C) The server manages display and input devices  
 D) The X protocol defines communication between client and server  
 
 #### 4. In the read-evaluation loop programming model, which of the following are challenges?  
-A) Handling multiple simultaneous inputs can complicate the main loop  
-B) It naturally supports non-modal dialog boxes without extra complexity  
+A) It naturally supports non-modal dialog boxes without extra complexity  
+B) Handling multiple simultaneous inputs can complicate the main loop  
 C) Substantial computation is required per device event  
 D) It is inherently notification-based and event-driven  
 
 #### 5. Notification-based programming differs from the read-evaluation loop because:  
 A) It uses callbacks or handlers for specific events  
-B) It requires explicit polling of events in a loop  
-C) It simplifies implementation of non-modal dialogs  
-D) It cannot handle modal dialogs effectively  
+B) It cannot handle modal dialogs effectively  
+C) It requires explicit polling of events in a loop  
+D) It simplifies implementation of non-modal dialogs  
 
 #### 6. Which statements about modal and non-modal dialog boxes are correct?  
-A) Modal dialogs block interaction with other windows until closed  
-B) Non-modal dialogs are easier to implement with event-loop programming  
-C) Modal dialogs are easier to implement with notification-based programming  
-D) Non-modal dialogs require complex mode flags in notification-based systems  
+A) Modal dialogs are easier to implement with notification-based programming  
+B) Modal dialogs block interaction with other windows until closed  
+C) Non-modal dialogs require complex mode flags in notification-based systems  
+D) Non-modal dialogs are easier to implement with event-loop programming  
 
 #### 7. Interaction toolkits provide which of the following benefits?  
-A) Promote consistency through reusable widgets  
-B) Require programmers to handle low-level device input directly  
-C) Support object-oriented programming paradigms  
-D) Eliminate the need for windowing systems  
+A) Require programmers to handle low-level device input directly  
+B) Promote consistency through reusable widgets  
+C) Eliminate the need for windowing systems  
+D) Support object-oriented programming paradigms  
 
 #### 8. Regarding Java’s AWT and Swing toolkits, which are true?  
 A) AWT 1.0 requires subclassing widgets for event handling  
-B) Swing is built on top of AWT and uses MVC architecture  
+B) Swing does not support higher-level features beyond AWT  
 C) AWT 1.1 introduced callback objects for event handling  
-D) Swing does not support higher-level features beyond AWT  
+D) Swing is built on top of AWT and uses MVC architecture  
 
 #### 9. User Interface Management Systems (UIMS) primarily aim to:  
-A) Combine application semantics and presentation into a single layer  
+A) Provide low-level device driver management  
 B) Separate application logic from presentation for portability and reusability  
-C) Provide low-level device driver management  
-D) Allow multiple interfaces to access the same functionality  
+C) Allow multiple interfaces to access the same functionality  
+D) Combine application semantics and presentation into a single layer  
 
 #### 10. The Seeheim model divides the user interface into which components?  
-A) Presentation, Dialogue Control, Functionality  
-B) Model, View, Controller  
-C) Abstraction, Presentation, Control  
-D) Lexical, Syntactic, Semantic  
+A) Lexical, Syntactic, Semantic  
+B) Abstraction, Presentation, Control  
+C) Model, View, Controller  
+D) Presentation, Dialogue Control, Functionality  
 
 #### 11. In the Seeheim model, the "switch" component is responsible for:  
-A) Translating between lexical, syntactic, and semantic levels  
-B) Managing hardware device drivers  
-C) Rendering graphical output on the screen  
-D) Handling application business logic  
+A) Rendering graphical output on the screen  
+B) Handling application business logic  
+C) Managing hardware device drivers  
+D) Translating between lexical, syntactic, and semantic levels  
 
 #### 12. Which types of feedback correspond to lexical, syntactic, and semantic levels respectively?  
-A) Mouse movement, menu highlights, application state changes  
+A) Menu highlights, application state changes, mouse movement  
 B) Application state changes, mouse movement, menu highlights  
-C) Menu highlights, application state changes, mouse movement  
-D) Mouse clicks, keyboard input, system errors  
+C) Mouse clicks, keyboard input, system errors  
+D) Mouse movement, menu highlights, application state changes  
 
 #### 13. The Arch/Slinky model differs from Seeheim by:  
-A) Adding more layers and distinguishing lexical from physical levels  
-B) Combining presentation and control into a single component  
+A) Combining presentation and control into a single component  
+B) Adding more layers and distinguishing lexical from physical levels  
 C) Removing the dialogue control component entirely  
 D) Being less flexible in layer thickness depending on system needs  
 
 #### 14. Which of the following best describes the MVC architecture?  
-A) Model holds data, View displays data, Controller processes input  
-B) Controller holds data, Model displays data, View processes input  
-C) View holds data, Controller displays data, Model processes input  
-D) Model processes input, Controller displays data, View holds data  
+A) View holds data, Controller displays data, Model processes input  
+B) Model holds data, View displays data, Controller processes input  
+C) Model processes input, Controller displays data, View holds data  
+D) Controller holds data, Model displays data, View processes input  
 
 #### 15. A key limitation of MVC in graphical interfaces is:  
-A) The controller must communicate with the view to interpret user input context  
-B) The model directly handles user input without mediation  
-C) The view updates the model without controller involvement  
-D) MVC does not support multiple views of the same data  
+A) MVC does not support multiple views of the same data  
+B) The view updates the model without controller involvement  
+C) The model directly handles user input without mediation  
+D) The controller must communicate with the view to interpret user input context  
 
 #### 16. The PAC model differs from MVC in that:  
-A) Control mediates between abstraction and presentation and manages hierarchy  
+A) It is less conceptually clean than MVC  
 B) It does not separate presentation from abstraction  
 C) It does not support multiple views or components  
-D) It is less conceptually clean than MVC  
+D) Control mediates between abstraction and presentation and manages hierarchy  
 
 #### 17. Which of the following are common techniques used to implement dialogue control in UIMS?  
 A) Menu networks and state transition diagrams  
-B) Event languages and declarative languages  
-C) Direct hardware manipulation and device polling  
+B) Direct hardware manipulation and device polling  
+C) Event languages and declarative languages  
 D) Constraints and graphical specification  
 
 #### 18. Constraints in UIMS are useful because they:  
-A) Specify what should be true rather than how to achieve it  
+A) Replace the need for event-driven programming  
 B) Are only applicable in single-user interfaces  
 C) Help maintain consistency in groupware environments  
-D) Replace the need for event-driven programming  
+D) Specify what should be true rather than how to achieve it  
 
 #### 19. Graphical specification tools in UIMS typically:  
-A) Allow designers to draw interface components and link actions visually  
-B) Require programmers to write all interface code manually  
-C) Are rarely used in modern UI development environments  
-D) Focus on global system paths rather than local screen elements  
+A) Are rarely used in modern UI development environments  
+B) Allow designers to draw interface components and link actions visually  
+C) Focus on global system paths rather than local screen elements  
+D) Require programmers to write all interface code manually  
 
 #### 20. Which of the following statements about windowing system architectures is correct?  
 A) Having the window manager as a separate application maximizes portability  
 B) Managing all processes within each application improves portability  
-C) Kernel-based window management ties applications to a specific OS  
-D) Device drivers are always integrated into the window manager
+C) Device drivers are always integrated into the window manager
+D) Kernel-based window management ties applications to a specific OS  
 
 
 
@@ -129,180 +129,180 @@ D) Device drivers are always integrated into the window manager
 ## Answers
 
 #### 1. Which of the following are primary roles of a windowing system?  
-A) ✓ Manages multiple independent user tasks simultaneously, core function of windowing systems  
-B) ✗ Windowing systems abstract hardware, do not directly control device drivers  
-C) ✓ Handles input focus and window arrangement policies, essential for user interaction  
-D) ✗ Business logic is application-specific, not a windowing system role  
-
-**Correct:** A, C
-
-
-#### 2. Device independence in windowing systems is achieved by:  
-A) ✓ Abstract terminal device drivers hide hardware specifics  
-B) ✗ Binding apps to hardware contradicts device independence  
-C) ✓ Image models like PostScript provide hardware-independent graphics output  
-D) ✗ Synchronization management by apps reduces portability, not device independence  
-
-**Correct:** A, C
-
-
-#### 3. Which of the following are true about the client-server architecture in windowing systems?  
-A) ✓ Server manages display and input devices  
-B) ✓ Applications act as clients communicating with the server  
-C) ✗ Window manager is a separate client, not integrated into kernel  
-D) ✓ X protocol defines communication between client and server  
-
-**Correct:** A, B, D
-
-
-#### 4. In the read-evaluation loop programming model, which of the following are challenges?  
-A) ✓ Handling multiple inputs complicates the main loop  
-B) ✗ Non-modal dialogs are hard to implement with event-loop, not easy  
-C) ✓ Substantial computation per device event is required  
-D) ✗ Read-evaluation loop is not notification-based; it polls events  
-
-**Correct:** A, C
-
-
-#### 5. Notification-based programming differs from the read-evaluation loop because:  
-A) ✓ Uses callbacks/handlers for events, unlike polling  
-B) ✗ Polling is characteristic of read-evaluation loop, not notification  
-C) ✓ Simplifies non-modal dialog implementation  
-D) ✗ Notification can handle modal dialogs, though with mode flags  
-
-**Correct:** A, C
-
-
-#### 6. Which statements about modal and non-modal dialog boxes are correct?  
-A) ✓ Modal dialogs block other interactions until closed  
-B) ✗ Non-modal dialogs are hard with event-loop, not easy  
-C) ✗ Modal dialogs are easier with event-loop, not notification  
-D) ✗ Non-modal dialogs are easier with notification, not hard  
-
-**Correct:** A
-
-
-#### 7. Interaction toolkits provide which of the following benefits?  
-A) ✓ Promote consistency via reusable widgets  
-B) ✗ Toolkits abstract device input, programmers don’t handle low-level input directly  
-C) ✓ Support object-oriented programming  
-D) ✗ Toolkits rely on windowing systems, do not replace them  
-
-**Correct:** A, C
-
-
-#### 8. Regarding Java’s AWT and Swing toolkits, which are true?  
-A) ✓ AWT 1.0 required subclassing widgets for event handling  
-B) ✓ Swing is built on AWT and uses MVC architecture  
-C) ✓ AWT 1.1 introduced callback objects for event handling  
-D) ✗ Swing adds higher-level features beyond AWT  
-
-**Correct:** A, B, C
-
-
-#### 9. User Interface Management Systems (UIMS) primarily aim to:  
-A) ✗ They separate semantics and presentation, not combine them  
-B) ✓ Separation improves portability and reusability  
-C) ✗ UIMS do not manage low-level device drivers  
-D) ✓ Support multiple interfaces accessing same functionality  
+A) ✗ Business logic is application-specific, not a windowing system role  
+B) ✓ Manages multiple independent user tasks simultaneously, core function of windowing systems  
+C) ✗ Windowing systems abstract hardware, do not directly control device drivers  
+D) ✓ Handles input focus and window arrangement policies, essential for user interaction  
 
 **Correct:** B, D
 
 
-#### 10. The Seeheim model divides the user interface into which components?  
-A) ✓ Presentation, Dialogue Control, Functionality is correct Seeheim division  
-B) ✗ MVC components, not Seeheim  
-C) ✗ PAC components, not Seeheim  
-D) ✗ Lexical/syntactic/semantic are language levels, not components  
+#### 2. Device independence in windowing systems is achieved by:  
+A) ✗ Binding apps to hardware contradicts device independence  
+B) ✗ Synchronization management by apps reduces portability, not device independence  
+C) ✓ Image models like PostScript provide hardware-independent graphics output  
+D) ✓ Abstract terminal device drivers hide hardware specifics  
 
-**Correct:** A
+**Correct:** C, D
+
+
+#### 3. Which of the following are true about the client-server architecture in windowing systems?  
+A) ✗ Window manager is a separate client, not integrated into kernel  
+B) ✓ Applications act as clients communicating with the server  
+C) ✓ Server manages display and input devices  
+D) ✓ X protocol defines communication between client and server  
+
+**Correct:** B, C, D
+
+
+#### 4. In the read-evaluation loop programming model, which of the following are challenges?  
+A) ✗ Non-modal dialogs are hard to implement with event-loop, not easy  
+B) ✓ Handling multiple inputs complicates the main loop  
+C) ✓ Substantial computation per device event is required  
+D) ✗ Read-evaluation loop is not notification-based; it polls events  
+
+**Correct:** B, C
+
+
+#### 5. Notification-based programming differs from the read-evaluation loop because:  
+A) ✓ Uses callbacks/handlers for events, unlike polling  
+B) ✗ Notification can handle modal dialogs, though with mode flags  
+C) ✗ Polling is characteristic of read-evaluation loop, not notification  
+D) ✓ Simplifies non-modal dialog implementation  
+
+**Correct:** A, D
+
+
+#### 6. Which statements about modal and non-modal dialog boxes are correct?  
+A) ✗ Modal dialogs are easier with event-loop, not notification  
+B) ✓ Modal dialogs block other interactions until closed  
+C) ✗ Non-modal dialogs are easier with notification, not hard  
+D) ✗ Non-modal dialogs are hard with event-loop, not easy  
+
+**Correct:** B
+
+
+#### 7. Interaction toolkits provide which of the following benefits?  
+A) ✗ Toolkits abstract device input, programmers don’t handle low-level input directly  
+B) ✓ Promote consistency via reusable widgets  
+C) ✗ Toolkits rely on windowing systems, do not replace them  
+D) ✓ Support object-oriented programming  
+
+**Correct:** B, D
+
+
+#### 8. Regarding Java’s AWT and Swing toolkits, which are true?  
+A) ✓ AWT 1.0 required subclassing widgets for event handling  
+B) ✗ Swing adds higher-level features beyond AWT  
+C) ✓ AWT 1.1 introduced callback objects for event handling  
+D) ✓ Swing is built on AWT and uses MVC architecture  
+
+**Correct:** A, C, D
+
+
+#### 9. User Interface Management Systems (UIMS) primarily aim to:  
+A) ✗ UIMS do not manage low-level device drivers  
+B) ✓ Separation improves portability and reusability  
+C) ✓ Support multiple interfaces accessing same functionality  
+D) ✗ They separate semantics and presentation, not combine them  
+
+**Correct:** B, C
+
+
+#### 10. The Seeheim model divides the user interface into which components?  
+A) ✗ Lexical/syntactic/semantic are language levels, not components  
+B) ✗ PAC components, not Seeheim  
+C) ✗ MVC components, not Seeheim  
+D) ✓ Presentation, Dialogue Control, Functionality is correct Seeheim division  
+
+**Correct:** D
 
 
 #### 11. In the Seeheim model, the "switch" component is responsible for:  
-A) ✓ Translating between lexical, syntactic, and semantic levels  
-B) ✗ Device drivers are outside Seeheim model  
-C) ✗ Rendering is part of Presentation, not switch  
-D) ✗ Application logic is Functionality, not switch  
+A) ✗ Rendering is part of Presentation, not switch  
+B) ✗ Application logic is Functionality, not switch  
+C) ✗ Device drivers are outside Seeheim model  
+D) ✓ Translating between lexical, syntactic, and semantic levels  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 12. Which types of feedback correspond to lexical, syntactic, and semantic levels respectively?  
-A) ✓ Mouse movement (lexical), menu highlights (syntactic), app state changes (semantic)  
+A) ✗ Incorrect order of feedback types  
 B) ✗ Incorrect order of feedback types  
-C) ✗ Incorrect order of feedback types  
-D) ✗ Mouse clicks and keyboard input are lexical, but system errors don’t fit here  
+C) ✗ Mouse clicks and keyboard input are lexical, but system errors don’t fit here  
+D) ✓ Mouse movement (lexical), menu highlights (syntactic), app state changes (semantic)  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 13. The Arch/Slinky model differs from Seeheim by:  
-A) ✓ Adds more layers and distinguishes lexical from physical levels  
-B) ✗ Does not combine presentation and control  
+A) ✗ Does not combine presentation and control  
+B) ✓ Adds more layers and distinguishes lexical from physical levels  
 C) ✗ Dialogue control remains essential  
 D) ✗ Layer thickness varies, so it is flexible, not less so  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 14. Which of the following best describes the MVC architecture?  
-A) ✓ Model holds data, View displays data, Controller processes input  
-B) ✗ Incorrect roles assigned  
+A) ✗ Incorrect roles assigned  
+B) ✓ Model holds data, View displays data, Controller processes input  
 C) ✗ Incorrect roles assigned  
 D) ✗ Incorrect roles assigned  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 15. A key limitation of MVC in graphical interfaces is:  
-A) ✓ Controller must communicate with view to interpret input context  
-B) ✗ Model does not handle input directly  
-C) ✗ View does not update model without controller  
-D) ✗ MVC supports multiple views of same data  
+A) ✗ MVC supports multiple views of same data  
+B) ✗ View does not update model without controller  
+C) ✗ Model does not handle input directly  
+D) ✓ Controller must communicate with view to interpret input context  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 16. The PAC model differs from MVC in that:  
-A) ✓ Control mediates between abstraction and presentation and manages hierarchy  
+A) ✗ PAC is conceptually cleaner than MVC  
 B) ✗ PAC separates presentation and abstraction  
 C) ✗ PAC supports multiple views and components  
-D) ✗ PAC is conceptually cleaner than MVC  
+D) ✓ Control mediates between abstraction and presentation and manages hierarchy  
 
-**Correct:** A
+**Correct:** D
 
 
 #### 17. Which of the following are common techniques used to implement dialogue control in UIMS?  
 A) ✓ Menu networks and state transition diagrams are common  
-B) ✓ Event languages and declarative languages are used  
-C) ✗ Direct hardware manipulation is not typical in UIMS  
+B) ✗ Direct hardware manipulation is not typical in UIMS  
+C) ✓ Event languages and declarative languages are used  
 D) ✓ Constraints and graphical specification are used  
 
-**Correct:** A, B, D
+**Correct:** A, C, D
 
 
 #### 18. Constraints in UIMS are useful because they:  
-A) ✓ Specify what should be true, not how to do it  
+A) ✗ Do not replace event-driven programming, complement it  
 B) ✗ Applicable in both single-user and groupware interfaces  
 C) ✓ Help maintain consistency in groupware environments  
-D) ✗ Do not replace event-driven programming, complement it  
+D) ✓ Specify what should be true, not how to do it  
 
-**Correct:** A, C
+**Correct:** C, D
 
 
 #### 19. Graphical specification tools in UIMS typically:  
-A) ✓ Allow designers to visually draw components and link actions  
-B) ✗ Do not require all manual coding  
-C) ✗ Are widely used in modern UI development  
-D) ✗ Focus on local screen elements, not just global paths  
+A) ✗ Are widely used in modern UI development  
+B) ✓ Allow designers to visually draw components and link actions  
+C) ✗ Focus on local screen elements, not just global paths  
+D) ✗ Do not require all manual coding  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 20. Which of the following statements about windowing system architectures is correct?  
 A) ✓ Separate window manager maximizes portability  
 B) ✗ Managing all processes in each app reduces portability  
-C) ✓ Kernel-based management ties apps to specific OS  
-D) ✗ Device drivers are separate from window manager  
+C) ✗ Device drivers are separate from window manager  
+D) ✓ Kernel-based management ties apps to specific OS  
 
-**Correct:** A, C
+**Correct:** A, D

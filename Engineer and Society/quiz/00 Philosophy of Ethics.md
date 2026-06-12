@@ -3,34 +3,34 @@
 ## Questions
 
 #### 1. What best describes the primary focus of ethics as a philosophical discipline?  
-A) Enforcing laws through authority  
-B) Systematically analyzing right and wrong in human actions  
-C) Defining personal preferences and tastes  
-D) Promoting individual wealth and success  
+A) Defining personal preferences and tastes  
+B) Enforcing laws through authority  
+C) Promoting individual wealth and success  
+D) Systematically analyzing right and wrong in human actions  
 
 #### 2. Which of the following are considered intrinsic values?  
-A) Honesty  
-B) Wealth  
-C) Courage  
-D) Teamwork  
+A) Courage  
+B) Honesty  
+C) Teamwork  
+D) Wealth  
 
 #### 3. How do values differ from ethics?  
 A) Values are stable beliefs about what is important, while ethics is the systematic study of what those values should be.  
-B) Values are external rules imposed by society, ethics are personal feelings.  
+B) Values are legal requirements, ethics are social customs.  
 C) Values change frequently, ethics never change.  
-D) Values are legal requirements, ethics are social customs.  
+D) Values are external rules imposed by society, ethics are personal feelings.  
 
 #### 4. Which statement best captures the relationship between morality and ethics?  
-A) Morality is about personal principles, ethics is about social norms only.  
-B) Morality governs society’s attitude toward right and wrong, ethics attempts to develop means to determine those values.  
-C) Ethics and morality are completely unrelated concepts.  
-D) Ethics is always more important than morality.  
+A) Ethics is always more important than morality.  
+B) Ethics and morality are completely unrelated concepts.  
+C) Morality is about personal principles, ethics is about social norms only.  
+D) Morality governs society’s attitude toward right and wrong, ethics attempts to develop means to determine those values.  
 
 #### 5. Laws are primarily:  
 A) Personal beliefs about right and wrong  
 B) Rules enforced by authorities, often based on moral principles  
-C) The same as ethics  
-D) Always more flexible than ethics  
+C) Always more flexible than ethics  
+D) The same as ethics  
 
 #### 6. The Greek word ‘Ethos’ means:  
 A) Law  
@@ -39,16 +39,16 @@ C) Wealth
 D) Personal opinion  
 
 #### 7. Which of the following statements about ethics and morals is true?  
-A) Ethics are always moral, and morals are always ethical.  
-B) Ethics are practical rules created by groups, morals are personal principles shaped by culture and religion.  
-C) Morals are external rules, ethics are internal feelings.  
-D) Ethics and morals never conflict.  
+A) Ethics and morals never conflict.  
+B) Morals are external rules, ethics are internal feelings.  
+C) Ethics are practical rules created by groups, morals are personal principles shaped by culture and religion.  
+D) Ethics are always moral, and morals are always ethical.  
 
 #### 8. Which example illustrates a situation where ethics and morals might conflict?  
-A) A lawyer maintaining client confidentiality despite believing the client is guilty  
-B) A person choosing to be honest in all situations  
-C) A society passing a law against theft  
-D) An engineer following safety protocols  
+A) An engineer following safety protocols  
+B) A lawyer maintaining client confidentiality despite believing the client is guilty  
+C) A person choosing to be honest in all situations  
+D) A society passing a law against theft  
 
 #### 9. How do Eastern ethics generally differ from Western ethics?  
 A) Eastern ethics emphasize self-direction and personal understanding, Western ethics emphasize universal interconnections.  
@@ -58,45 +58,45 @@ D) Western ethics are imposed from within, Eastern ethics are imposed externally
 
 #### 10. Which of the following is NOT a characteristic of professional ethics?  
 A) Governing behavior in a professional environment  
-B) Always aligning perfectly with personal ethics  
-C) Providing standards to ensure safety and reliability  
-D) Sometimes causing moral conflicts with personal beliefs  
+B) Providing standards to ensure safety and reliability  
+C) Sometimes causing moral conflicts with personal beliefs  
+D) Always aligning perfectly with personal ethics  
 
 #### 11. Why is it important for engineers to study professional ethics?  
-A) To increase ethical sensitivity and judgment  
+A) To improve willpower to act ethically under pressure  
 B) To avoid legal consequences only  
-C) To improve willpower to act ethically under pressure  
+C) To increase ethical sensitivity and judgment  
 D) To ensure products are profitable regardless of safety  
 
 #### 12. Which of the following best describes an ethical dilemma in engineering?  
-A) A situation where there is a clear right and wrong choice  
-B) A conflict between competing values or interests requiring careful judgment  
-C) A decision that only affects the engineer personally  
-D) A problem solved by following company policy without question  
+A) A conflict between competing values or interests requiring careful judgment  
+B) A situation where there is a clear right and wrong choice  
+C) A problem solved by following company policy without question  
+D) A decision that only affects the engineer personally  
 
 #### 13. What is the main difference between personal ethics and professional ethics?  
-A) Personal ethics apply only at work, professional ethics apply at home  
-B) Personal ethics are individual beliefs, professional ethics are rules set by professions  
-C) Personal ethics are always more important than professional ethics  
-D) Professional ethics never conflict with personal ethics  
+A) Personal ethics are always more important than professional ethics  
+B) Personal ethics apply only at work, professional ethics apply at home  
+C) Professional ethics never conflict with personal ethics  
+D) Personal ethics are individual beliefs, professional ethics are rules set by professions  
 
 #### 14. Which of the following statements about values is correct?  
-A) Values are temporary and change daily  
-B) Values are emotional investments that guide life choices  
-C) Values are always legally enforced  
-D) Values have no influence on ethics  
+A) Values have no influence on ethics  
+B) Values are always legally enforced  
+C) Values are emotional investments that guide life choices  
+D) Values are temporary and change daily  
 
 #### 15. Which of the following is an example of extrinsic values?  
-A) Truthfulness  
-B) Wealth  
-C) Courage  
-D) Physical fitness  
+A) Courage  
+B) Physical fitness  
+C) Truthfulness  
+D) Wealth  
 
 #### 16. How can ethics be described in relation to external rules?  
-A) Ethics are fixed and universal, never changing between environments  
-B) Ethics can vary depending on organizations, groups, or cultures  
-C) Ethics are always imposed by law  
-D) Ethics are purely personal and never influenced by society  
+A) Ethics can vary depending on organizations, groups, or cultures  
+B) Ethics are always imposed by law  
+C) Ethics are purely personal and never influenced by society  
+D) Ethics are fixed and universal, never changing between environments  
 
 #### 17. Which of the following best explains why ethics is considered a “systematic study”?  
 A) It relies on random opinions about right and wrong  
@@ -111,16 +111,16 @@ C) Ethics
 D) Values  
 
 #### 19. Which of the following statements about the relationship between ethics and law is true?  
-A) Laws are always ethical  
-B) Ethics always override laws  
-C) Laws are generally based on moral principles but are enforced externally  
-D) Ethics and laws are identical concepts  
+A) Ethics always override laws  
+B) Laws are generally based on moral principles but are enforced externally  
+C) Ethics and laws are identical concepts  
+D) Laws are always ethical  
 
 #### 20. In the context of professional ethics, what is the significance of “ethical willpower”?  
 A) The ability to understand ethical theories  
-B) The ability to act ethically even when it is difficult or inconvenient  
+B) The tendency to follow personal morals over professional codes
 C) The knowledge of legal regulations  
-D) The tendency to follow personal morals over professional codes
+D) The ability to act ethically even when it is difficult or inconvenient  
 
 
 
@@ -129,46 +129,46 @@ D) The tendency to follow personal morals over professional codes
 ## Answers
 
 #### 1. What best describes the primary focus of ethics as a philosophical discipline?  
-A) ✗ Enforcing laws is the role of legal systems, not ethics.  
-B) ✓ Ethics systematically analyzes right and wrong in human actions.  
-C) ✗ Personal preferences are subjective and not the focus of ethics.  
-D) ✗ Promoting wealth is not the primary concern of ethics.  
+A) ✗ Personal preferences are subjective and not the focus of ethics.  
+B) ✗ Enforcing laws is the role of legal systems, not ethics.  
+C) ✗ Promoting wealth is not the primary concern of ethics.  
+D) ✓ Ethics systematically analyzes right and wrong in human actions.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 2. Which of the following are considered intrinsic values?  
-A) ✓ Honesty is an intrinsic value, valued for its own sake.  
-B) ✗ Wealth is an extrinsic value, a means to an end.  
-C) ✓ Courage is an intrinsic value, valued inherently.  
-D) ✗ Teamwork is extrinsic, a means to achieve goals.  
+A) ✓ Courage is an intrinsic value, valued inherently.  
+B) ✓ Honesty is an intrinsic value, valued for its own sake.  
+C) ✗ Teamwork is extrinsic, a means to achieve goals.  
+D) ✗ Wealth is an extrinsic value, a means to an end.  
 
-**Correct:** A, C
+**Correct:** A, B
 
 
 #### 3. How do values differ from ethics?  
 A) ✓ Values are stable beliefs; ethics is the study of what those values should be.  
-B) ✗ Values are not external rules; ethics involves reasoning beyond feelings.  
+B) ✗ Values are not legal requirements; laws are.  
 C) ✗ Values tend to be stable, ethics can evolve with reasoning.  
-D) ✗ Values are not legal requirements; laws are.  
+D) ✗ Values are not external rules; ethics involves reasoning beyond feelings.  
 
 **Correct:** A
 
 
 #### 4. Which statement best captures the relationship between morality and ethics?  
-A) ✗ Morality is social, ethics involves reasoning about those morals.  
-B) ✓ Morality governs societal attitudes; ethics develops means to determine values.  
-C) ✗ Ethics and morality are related, not unrelated.  
-D) ✗ Neither ethics nor morality is inherently more important.  
+A) ✗ Neither ethics nor morality is inherently more important.  
+B) ✗ Ethics and morality are related, not unrelated.  
+C) ✗ Morality is social, ethics involves reasoning about those morals.  
+D) ✓ Morality governs societal attitudes; ethics develops means to determine values.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 5. Laws are primarily:  
 A) ✗ Laws are not personal beliefs but formal rules.  
 B) ✓ Laws are rules enforced by authorities, often based on morals.  
-C) ✗ Laws and ethics are related but not the same.  
-D) ✗ Laws tend to be less flexible than ethics in some cases.  
+C) ✗ Laws tend to be less flexible than ethics in some cases.  
+D) ✗ Laws and ethics are related but not the same.  
 
 **Correct:** B
 
@@ -183,21 +183,21 @@ D) ✗ Ethos is not simply personal opinion.
 
 
 #### 7. Which of the following statements about ethics and morals is true?  
-A) ✗ Ethics and morals can conflict; they are not always aligned.  
-B) ✓ Ethics are practical group rules; morals are personal principles shaped by culture.  
-C) ✗ Morals are internal, ethics are external rules but not feelings.  
-D) ✗ Ethics and morals can and do conflict.  
+A) ✗ Ethics and morals can and do conflict.  
+B) ✗ Morals are internal, ethics are external rules but not feelings.  
+C) ✓ Ethics are practical group rules; morals are personal principles shaped by culture.  
+D) ✗ Ethics and morals can conflict; they are not always aligned.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 8. Which example illustrates a situation where ethics and morals might conflict?  
-A) ✓ Lawyer’s confidentiality vs personal belief about guilt is a classic ethics vs morals conflict.  
-B) ✗ Being honest aligns ethics and morals, no conflict.  
-C) ✗ Laws against theft reflect societal morals, no conflict here.  
-D) ✗ Following safety protocols aligns ethics and morals.  
+A) ✗ Following safety protocols aligns ethics and morals.  
+B) ✓ Lawyer’s confidentiality vs personal belief about guilt is a classic ethics vs morals conflict.  
+C) ✗ Being honest aligns ethics and morals, no conflict.  
+D) ✗ Laws against theft reflect societal morals, no conflict here.  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 9. How do Eastern ethics generally differ from Western ethics?  
@@ -211,65 +211,65 @@ D) ✗ Eastern ethics are internal, Western ethics are more external.
 
 #### 10. Which of the following is NOT a characteristic of professional ethics?  
 A) ✗ Governing professional behavior is a key characteristic.  
-B) ✓ Professional ethics may conflict with personal ethics, so they don’t always align perfectly.  
-C) ✗ Ensuring safety and reliability is a core purpose.  
-D) ✗ Moral conflicts with personal beliefs can occur in professional ethics.  
+B) ✗ Ensuring safety and reliability is a core purpose.  
+C) ✗ Moral conflicts with personal beliefs can occur in professional ethics.  
+D) ✓ Professional ethics may conflict with personal ethics, so they don’t always align perfectly.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 11. Why is it important for engineers to study professional ethics?  
-A) ✓ To increase ethical sensitivity and judgment.  
+A) ✓ To improve willpower to act ethically under pressure.  
 B) ✗ Avoiding legal consequences is not the only or main reason.  
-C) ✓ To improve willpower to act ethically under pressure.  
+C) ✓ To increase ethical sensitivity and judgment.  
 D) ✗ Profit should not override safety in ethics.  
 
 **Correct:** A, C
 
 
 #### 12. Which of the following best describes an ethical dilemma in engineering?  
-A) ✗ Ethical dilemmas involve unclear choices, not clear right/wrong.  
-B) ✓ Ethical dilemmas involve conflicts between competing values requiring judgment.  
-C) ✗ Ethical dilemmas affect more than just the engineer personally.  
-D) ✗ Blindly following policy is not ethical decision-making.  
+A) ✓ Ethical dilemmas involve conflicts between competing values requiring judgment.  
+B) ✗ Ethical dilemmas involve unclear choices, not clear right/wrong.  
+C) ✗ Blindly following policy is not ethical decision-making.  
+D) ✗ Ethical dilemmas affect more than just the engineer personally.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 13. What is the main difference between personal ethics and professional ethics?  
-A) ✗ Personal ethics apply broadly, not just at work.  
-B) ✓ Personal ethics are individual beliefs; professional ethics are formal rules set by professions.  
-C) ✗ Neither is inherently more important.  
-D) ✗ Conflicts can and do occur between the two.  
+A) ✗ Neither is inherently more important.  
+B) ✗ Personal ethics apply broadly, not just at work.  
+C) ✗ Conflicts can and do occur between the two.  
+D) ✓ Personal ethics are individual beliefs; professional ethics are formal rules set by professions.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 14. Which of the following statements about values is correct?  
-A) ✗ Values are generally stable, not temporary.  
-B) ✓ Values are emotional investments guiding life choices.  
-C) ✗ Values are not legally enforced; laws are.  
-D) ✗ Values strongly influence ethics.  
+A) ✗ Values strongly influence ethics.  
+B) ✗ Values are not legally enforced; laws are.  
+C) ✓ Values are emotional investments guiding life choices.  
+D) ✗ Values are generally stable, not temporary.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 15. Which of the following is an example of extrinsic values?  
-A) ✗ Truthfulness is intrinsic.  
-B) ✓ Wealth is extrinsic, a means to an end.  
-C) ✗ Courage is intrinsic.  
-D) ✓ Physical fitness is extrinsic, a means to achieve other goals.  
+A) ✗ Courage is intrinsic.  
+B) ✓ Physical fitness is extrinsic, a means to achieve other goals.  
+C) ✗ Truthfulness is intrinsic.  
+D) ✓ Wealth is extrinsic, a means to an end.  
 
 **Correct:** B, D
 
 
 #### 16. How can ethics be described in relation to external rules?  
-A) ✗ Ethics can vary between environments.  
-B) ✓ Ethics vary depending on organizations, groups, or cultures.  
-C) ✗ Ethics are not always imposed by law.  
-D) ✗ Ethics are influenced by society, not purely personal.  
+A) ✓ Ethics vary depending on organizations, groups, or cultures.  
+B) ✗ Ethics are not always imposed by law.  
+C) ✗ Ethics are influenced by society, not purely personal.  
+D) ✗ Ethics can vary between environments.  
 
-**Correct:** B
+**Correct:** A
 
 
 #### 17. Which of the following best explains why ethics is considered a “systematic study”?  
@@ -291,18 +291,18 @@ D) ✗ Values are broader beliefs, not just hidden actions.
 
 
 #### 19. Which of the following statements about the relationship between ethics and law is true?  
-A) ✗ Laws are not always ethical (some laws may be unjust).  
-B) ✗ Ethics do not always override laws.  
-C) ✓ Laws are generally based on moral principles but enforced externally.  
-D) ✗ Ethics and laws are related but not identical.  
+A) ✗ Ethics do not always override laws.  
+B) ✓ Laws are generally based on moral principles but enforced externally.  
+C) ✗ Ethics and laws are related but not identical.  
+D) ✗ Laws are not always ethical (some laws may be unjust).  
 
-**Correct:** C
+**Correct:** B
 
 
 #### 20. In the context of professional ethics, what is the significance of “ethical willpower”?  
 A) ✗ Understanding theories is knowledge, not willpower.  
-B) ✓ Ethical willpower is the ability to act ethically even when difficult.  
+B) ✗ Following personal morals over professional codes may cause conflict, not willpower.  
 C) ✗ Knowledge of laws is different from willpower.  
-D) ✗ Following personal morals over professional codes may cause conflict, not willpower.  
+D) ✓ Ethical willpower is the ability to act ethically even when difficult.  
 
-**Correct:** B
+**Correct:** D

@@ -3,52 +3,52 @@
 ## Questions
 
 #### 1. Which of the following are considered marks in visual encoding?  
-A) Points  
-B) Color hue  
-C) Lines  
-D) Size  
+A) Lines  
+B) Size  
+C) Color hue  
+D) Points  
 
 #### 2. Channels in visualization primarily serve to:  
-A) Represent data items as geometric shapes  
+A) Encode data by changing mark properties like color or size  
 B) Control the appearance of marks based on data attributes  
-C) Encode data by changing mark properties like color or size  
-D) Define the spatial layout of the visualization  
+C) Define the spatial layout of the visualization  
+D) Represent data items as geometric shapes  
 
 #### 3. Which of the following statements about marks and their constraints is true?  
 A) Points have no fixed size constraints and can encode multiple attributes with size and shape  
-B) Lines have two fixed dimensions and cannot encode additional attributes with size  
-C) Areas have fixed length and width, limiting their ability to encode more attributes with size or shape  
-D) Interlocking areas can encode multiple attributes simultaneously without constraints  
+B) Areas have fixed length and width, limiting their ability to encode more attributes with size or shape  
+C) Interlocking areas can encode multiple attributes simultaneously without constraints  
+D) Lines have two fixed dimensions and cannot encode additional attributes with size  
 
 #### 4. Redundant encoding refers to:  
-A) Using multiple marks to represent the same data item  
-B) Encoding the same data attribute using multiple channels simultaneously  
-C) Encoding different data attributes using the same channel  
-D) Using color and size to encode unrelated data attributes  
+A) Encoding different data attributes using the same channel  
+B) Using color and size to encode unrelated data attributes  
+C) Using multiple marks to represent the same data item  
+D) Encoding the same data attribute using multiple channels simultaneously  
 
 #### 5. Which of the following channels are generally more effective for encoding quantitative data?  
-A) Position along a common scale  
-B) Color hue  
+A) Color hue  
+B) Position along a common scale  
 C) Length  
 D) Shape  
 
 #### 6. When encoding categorical data, which channels are most appropriate?  
 A) Color hue  
 B) Position along a continuous scale  
-C) Shape  
-D) Size (area)  
+C) Size (area)  
+D) Shape  
 
 #### 7. Which factors improve the accuracy of visual judgments in a visualization?  
-A) Alignment of marks on a common scale  
-B) Presence of many distractors  
-C) Using relative rather than absolute judgments  
-D) Large spatial distance between marks  
+A) Presence of many distractors  
+B) Using relative rather than absolute judgments  
+C) Large spatial distance between marks  
+D) Alignment of marks on a common scale  
 
 #### 8. Which of the following statements about channel effectiveness is correct?  
 A) Length is one of the most accurate channels for perceiving differences  
-B) Color saturation allows for very precise quantitative judgments  
-C) Discriminability refers to how many distinct levels can be perceived in a channel  
-D) Separability means that one channel’s perception is unaffected by others  
+B) Discriminability refers to how many distinct levels can be perceived in a channel  
+C) Separability means that one channel’s perception is unaffected by others  
+D) Color saturation allows for very precise quantitative judgments  
 
 #### 9. Popout effects occur when:  
 A) An item differs from distractors on a single visual channel and is detected quickly  
@@ -57,28 +57,28 @@ C) The visual system processes many items serially, increasing search time
 D) Differences in color hue cause items to blend in with distractors  
 
 #### 10. Which of the following are true about relative versus absolute perceptual judgments?  
-A) The human visual system is better at relative judgments than absolute ones  
-B) Weber’s Law states that the absolute difference needed to detect change is constant  
-C) Judgments improve when marks share a common frame or scale  
-D) Absolute luminance is perceived independently of surrounding context  
+A) Judgments improve when marks share a common frame or scale  
+B) Absolute luminance is perceived independently of surrounding context  
+C) Weber’s Law states that the absolute difference needed to detect change is constant  
+D) The human visual system is better at relative judgments than absolute ones  
 
 #### 11. Which of the following are examples of visual channels?  
-A) Orientation  
-B) Volume  
-C) Texture  
+A) Texture  
+B) Orientation  
+C) Volume  
 D) Position  
 
 #### 12. Which of the following statements about interlocking areas is true?  
-A) They can be nested to show containment relationships  
-B) They allow encoding of multiple quantitative attributes using size and shape simultaneously  
-C) They impose constraints on encoding because both length and width are fixed  
-D) They are rarely used because they cannot encode categorical data  
+A) They are rarely used because they cannot encode categorical data  
+B) They can be nested to show containment relationships  
+C) They allow encoding of multiple quantitative attributes using size and shape simultaneously  
+D) They impose constraints on encoding because both length and width are fixed  
 
 #### 13. Which of the following best describes the concept of separability in visual channels?  
-A) The ability to distinguish one channel’s encoding without interference from another  
-B) The number of unique steps perceivable in a channel  
-C) The speed at which an item pops out from distractors  
-D) The accuracy of length judgments compared to color judgments  
+A) The speed at which an item pops out from distractors  
+B) The ability to distinguish one channel’s encoding without interference from another  
+C) The accuracy of length judgments compared to color judgments  
+D) The number of unique steps perceivable in a channel  
 
 #### 14. Why is position along a common aligned scale more effective than position along an unaligned scale?  
 A) Because it allows for absolute judgments rather than relative ones  
@@ -87,34 +87,34 @@ C) Because it increases the number of discriminable steps in color hue
 D) Because it improves popout effects for categorical data  
 
 #### 15. Which of the following are limitations of using color hue as a channel?  
-A) It is less precise for quantitative data than length or position  
-B) It can be affected by color constancy and illumination changes  
-C) It allows for unlimited discriminable levels  
-D) It is highly separable from other channels like size and shape  
+A) It is highly separable from other channels like size and shape  
+B) It allows for unlimited discriminable levels  
+C) It can be affected by color constancy and illumination changes  
+D) It is less precise for quantitative data than length or position  
 
 #### 16. Which of the following statements about marks and channels is false?  
-A) Marks are geometric primitives that represent data items or links  
-B) Channels control the appearance of marks and can encode data attributes  
-C) Marks can encode data independently of channels  
-D) The choice of mark type constrains which channels can be used  
+A) Channels control the appearance of marks and can encode data attributes  
+B) Marks can encode data independently of channels  
+C) The choice of mark type constrains which channels can be used  
+D) Marks are geometric primitives that represent data items or links  
 
 #### 17. Which of the following are true about the concept of popout in visual search?  
 A) Popout occurs due to parallel processing of individual visual channels  
-B) Popout speed is independent of the number of distractors for certain channels  
-C) Popout is equally strong for all combinations of visual channels  
+B) Popout is equally strong for all combinations of visual channels  
+C) Popout speed is independent of the number of distractors for certain channels  
 D) Serial search is required when multiple channels are combined in complex ways  
 
 #### 18. Which of the following best explains why filled rectangles differing in length by 1:9 are harder to judge than white rectangles differing by 1:2?  
-A) Because the visual system relies on relative luminance judgments affected by background contrast  
-B) Because absolute length differences are easier to perceive than relative differences  
-C) Because color hue interferes with length perception in filled rectangles  
-D) Because alignment of scales is irrelevant to length judgment accuracy  
+A) Because absolute length differences are easier to perceive than relative differences  
+B) Because alignment of scales is irrelevant to length judgment accuracy  
+C) Because the visual system relies on relative luminance judgments affected by background contrast  
+D) Because color hue interferes with length perception in filled rectangles  
 
 #### 19. Which of the following are examples of grouping channels in visualization?  
-A) Containment using interlocking areas  
-B) Connection using lines or links  
+A) Connection using lines or links  
+B) Size encoding of quantitative data  
 C) Similarity using color or shape  
-D) Size encoding of quantitative data  
+D) Containment using interlocking areas  
 
 #### 20. Which of the following statements about the scope of analysis in marks and channels is true?  
 A) Simplifying assumptions often consider one mark per item and a single view  
@@ -129,75 +129,75 @@ D) Marks always represent individual data items without exception
 ## Answers
 
 #### 1. Which of the following are considered marks in visual encoding?  
-A) ✓ Points are basic geometric elements representing data items.  
-B) ✗ Color hue is a channel, not a mark.  
-C) ✓ Lines are geometric elements representing links or relationships.  
-D) ✗ Size is a channel that modifies marks, not a mark itself.  
+A) ✓ Lines are geometric elements representing links or relationships.  
+B) ✗ Size is a channel that modifies marks, not a mark itself.  
+C) ✗ Color hue is a channel, not a mark.  
+D) ✓ Points are basic geometric elements representing data items.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 2. Channels in visualization primarily serve to:  
-A) ✗ Representing data items as shapes is the role of marks, not channels.  
+A) ✓ Channels encode data by changing mark properties like color or size.  
 B) ✓ Channels control how marks appear based on data attributes.  
-C) ✓ Channels encode data by changing mark properties like color or size.  
-D) ✗ Spatial layout is not controlled by channels but by positioning rules or marks.  
+C) ✗ Spatial layout is not controlled by channels but by positioning rules or marks.  
+D) ✗ Representing data items as shapes is the role of marks, not channels.  
 
-**Correct:** B, C
+**Correct:** A, B
 
 
 #### 3. Which of the following statements about marks and their constraints is true?  
 A) ✓ Points have no fixed size constraints and can encode multiple attributes with size and shape.  
-B) ✗ Lines have one fixed dimension (length), not two, and can encode other attributes with width or color.  
-C) ✓ Areas have fixed length and width, limiting encoding with size or shape.  
-D) ✗ Interlocking areas impose constraints and cannot encode multiple quantitative attributes freely.  
+B) ✓ Areas have fixed length and width, limiting encoding with size or shape.  
+C) ✗ Interlocking areas impose constraints and cannot encode multiple quantitative attributes freely.  
+D) ✗ Lines have one fixed dimension (length), not two, and can encode other attributes with width or color.  
 
-**Correct:** A, C
+**Correct:** A, B
 
 
 #### 4. Redundant encoding refers to:  
-A) ✗ Using multiple marks for the same item is not redundant encoding.  
-B) ✓ Encoding the same attribute using multiple channels strengthens the message.  
-C) ✗ Encoding different attributes with the same channel is not redundant encoding.  
-D) ✗ Using color and size for unrelated attributes is not redundancy but multiplexing.  
+A) ✗ Encoding different attributes with the same channel is not redundant encoding.  
+B) ✗ Using color and size for unrelated attributes is not redundancy but multiplexing.  
+C) ✗ Using multiple marks for the same item is not redundant encoding.  
+D) ✓ Encoding the same attribute using multiple channels strengthens the message.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 5. Which of the following channels are generally more effective for encoding quantitative data?  
-A) ✓ Position along a common scale is highly accurate for quantitative data.  
-B) ✗ Color hue is better for categorical data, less precise for quantitative.  
+A) ✗ Color hue is better for categorical data, less precise for quantitative.  
+B) ✓ Position along a common scale is highly accurate for quantitative data.  
 C) ✓ Length is accurate and effective for quantitative data.  
 D) ✗ Shape is better for categorical distinctions, not precise quantitative encoding.  
 
-**Correct:** A, C
+**Correct:** B, C
 
 
 #### 6. When encoding categorical data, which channels are most appropriate?  
 A) ✓ Color hue effectively distinguishes categories.  
 B) ✗ Position along a continuous scale is better for quantitative data.  
-C) ✓ Shape can differentiate categories well.  
-D) ✗ Size (area) is less effective for categorical data and better for quantitative.  
+C) ✗ Size (area) is less effective for categorical data and better for quantitative.  
+D) ✓ Shape can differentiate categories well.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 7. Which factors improve the accuracy of visual judgments in a visualization?  
-A) ✓ Alignment on a common scale improves accuracy.  
-B) ✗ Many distractors reduce accuracy.  
-C) ✓ Relative judgments are easier and more accurate than absolute ones.  
-D) ✗ Large spatial distance can reduce comparison accuracy.  
+A) ✗ Many distractors reduce accuracy.  
+B) ✓ Relative judgments are easier and more accurate than absolute ones.  
+C) ✗ Large spatial distance can reduce comparison accuracy.  
+D) ✓ Alignment on a common scale improves accuracy.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 8. Which of the following statements about channel effectiveness is correct?  
 A) ✓ Length is one of the most accurate channels for perceiving differences.  
-B) ✗ Color saturation is less precise for quantitative judgments than length or position.  
-C) ✓ Discriminability is about how many distinct levels can be perceived.  
-D) ✓ Separability means perception of one channel is unaffected by others.  
+B) ✓ Discriminability is about how many distinct levels can be perceived.  
+C) ✓ Separability means perception of one channel is unaffected by others.  
+D) ✗ Color saturation is less precise for quantitative judgments than length or position.  
 
-**Correct:** A, C, D
+**Correct:** A, B, C
 
 
 #### 9. Popout effects occur when:  
@@ -210,39 +210,39 @@ D) ✗ Color differences usually cause popout, not blending in.
 
 
 #### 10. Which of the following are true about relative versus absolute perceptual judgments?  
-A) ✓ The visual system is better at relative than absolute judgments.  
-B) ✗ Weber’s Law states the ratio (relative difference) is constant, not absolute difference.  
-C) ✓ Judgments improve with common frame or scale.  
-D) ✗ Absolute luminance is perceived relative to context, not independently.  
+A) ✓ Judgments improve with common frame or scale.  
+B) ✗ Absolute luminance is perceived relative to context, not independently.  
+C) ✗ Weber’s Law states the ratio (relative difference) is constant, not absolute difference.  
+D) ✓ The visual system is better at relative than absolute judgments.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 11. Which of the following are examples of visual channels?  
-A) ✓ Orientation is a visual channel.  
-B) ✗ Volume is a mark type, not a channel.  
-C) ✓ Texture is a visual channel.  
+A) ✓ Texture is a visual channel.  
+B) ✓ Orientation is a visual channel.  
+C) ✗ Volume is a mark type, not a channel.  
 D) ✓ Position is a visual channel.  
 
-**Correct:** A, C, D
+**Correct:** A, B, D
 
 
 #### 12. Which of the following statements about interlocking areas is true?  
-A) ✓ They can be nested to show containment.  
-B) ✗ They cannot encode multiple quantitative attributes simultaneously with size and shape.  
-C) ✓ They impose constraints because length and width are fixed.  
-D) ✗ They can encode categorical data, so this is false.  
+A) ✗ They can encode categorical data, so this is false.  
+B) ✓ They can be nested to show containment.  
+C) ✗ They cannot encode multiple quantitative attributes simultaneously with size and shape.  
+D) ✓ They impose constraints because length and width are fixed.  
 
-**Correct:** A, C
+**Correct:** B, D
 
 
 #### 13. Which of the following best describes the concept of separability in visual channels?  
-A) ✓ Separability is the ability to perceive one channel independently of others.  
-B) ✗ Number of unique steps is discriminability, not separability.  
-C) ✗ Popout speed relates to popout, not separability.  
-D) ✗ Accuracy comparison is unrelated to separability.  
+A) ✗ Popout speed relates to popout, not separability.  
+B) ✓ Separability is the ability to perceive one channel independently of others.  
+C) ✗ Accuracy comparison is unrelated to separability.  
+D) ✗ Number of unique steps is discriminability, not separability.  
 
-**Correct:** A
+**Correct:** B
 
 
 #### 14. Why is position along a common aligned scale more effective than position along an unaligned scale?  
@@ -255,48 +255,48 @@ D) ✗ Popout effects are unrelated to scale alignment.
 
 
 #### 15. Which of the following are limitations of using color hue as a channel?  
-A) ✓ Less precise for quantitative data than length or position.  
-B) ✓ Affected by color constancy and illumination changes.  
-C) ✗ It does not allow unlimited discriminable levels; human perception is limited.  
-D) ✗ Color hue can interfere with other channels, so it is not always highly separable.  
+A) ✗ Color hue can interfere with other channels, so it is not always highly separable.  
+B) ✗ It does not allow unlimited discriminable levels; human perception is limited.  
+C) ✓ Affected by color constancy and illumination changes.  
+D) ✓ Less precise for quantitative data than length or position.  
 
-**Correct:** A, B
+**Correct:** C, D
 
 
 #### 16. Which of the following statements about marks and channels is false?  
-A) ✓ Marks are geometric primitives representing data.  
-B) ✓ Channels control appearance and encode attributes.  
-C) ✗ Marks cannot encode data independently of channels; channels modify marks to encode data.  
-D) ✓ Mark type constrains which channels can be used.  
+A) ✓ Channels control appearance and encode attributes.  
+B) ✗ Marks cannot encode data independently of channels; channels modify marks to encode data.  
+C) ✓ Mark type constrains which channels can be used.  
+D) ✓ Marks are geometric primitives representing data.  
 
-**Correct:** C
+**Correct:** B
 
 
 #### 17. Which of the following are true about the concept of popout in visual search?  
 A) ✓ Popout occurs due to parallel processing of individual channels.  
-B) ✓ Popout speed is independent of distractor count for certain channels.  
-C) ✗ Popout is not equally strong for all channel combinations; some combinations require serial search.  
+B) ✗ Popout is not equally strong for all channel combinations; some combinations require serial search.  
+C) ✓ Popout speed is independent of distractor count for certain channels.  
 D) ✓ Serial search is required when multiple channels are combined in complex ways.  
 
-**Correct:** A, B, D
+**Correct:** A, C, D
 
 
 #### 18. Which of the following best explains why filled rectangles differing in length by 1:9 are harder to judge than white rectangles differing by 1:2?  
-A) ✓ Visual system relies on relative luminance judgments affected by background contrast.  
-B) ✗ Absolute length differences are harder, not easier, to perceive than relative differences.  
-C) ✗ Color hue does not interfere here; luminance and contrast do.  
-D) ✗ Alignment is relevant but not the main reason in this example.  
+A) ✗ Absolute length differences are harder, not easier, to perceive than relative differences.  
+B) ✗ Alignment is relevant but not the main reason in this example.  
+C) ✓ Visual system relies on relative luminance judgments affected by background contrast.  
+D) ✗ Color hue does not interfere here; luminance and contrast do.  
 
-**Correct:** A
+**Correct:** C
 
 
 #### 19. Which of the following are examples of grouping channels in visualization?  
-A) ✓ Containment using interlocking areas groups items visually.  
-B) ✓ Connection using lines or links groups related items.  
+A) ✓ Connection using lines or links groups related items.  
+B) ✗ Size encodes quantitative data, not grouping per se.  
 C) ✓ Similarity using color or shape groups categories.  
-D) ✗ Size encodes quantitative data, not grouping per se.  
+D) ✓ Containment using interlocking areas groups items visually.  
 
-**Correct:** A, B, C
+**Correct:** A, C, D
 
 
 #### 20. Which of the following statements about the scope of analysis in marks and channels is true?  

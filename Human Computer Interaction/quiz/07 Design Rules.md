@@ -4,123 +4,123 @@
 
 #### 1. Which of the following best describe the characteristics of design **principles**?  
 A) High authority and low generality  
-B) Abstract and broadly applicable  
+B) Specific and strictly enforced  
 C) Low authority and high generality  
-D) Specific and strictly enforced  
+D) Abstract and broadly applicable  
 
 #### 2. What distinguishes **standards** from guidelines in design rules?  
-A) Standards have higher authority and are more specific  
+A) Standards apply broadly across all design contexts  
 B) Guidelines are legally binding, standards are not  
-C) Guidelines are more general and flexible  
-D) Standards apply broadly across all design contexts  
+C) Standards have higher authority and are more specific  
+D) Guidelines are more general and flexible  
 
 #### 3. Which of the following are components of **learnability** in usability?  
 A) Predictability  
-B) Multithreading  
-C) Familiarity  
-D) Recoverability  
+B) Recoverability  
+C) Multithreading  
+D) Familiarity  
 
 #### 4. How does **predictability** support learnability?  
-A) By allowing users to undo errors easily  
-B) By enabling users to anticipate the effect of future actions based on past interactions  
-C) By providing multiple ways to input data  
-D) By ensuring the system supports concurrent tasks  
+A) By providing multiple ways to input data  
+B) By ensuring the system supports concurrent tasks  
+C) By enabling users to anticipate the effect of future actions based on past interactions  
+D) By allowing users to undo errors easily  
 
 #### 5. Which of these are examples of **flexibility** principles?  
-A) Dialogue initiative  
-B) Observability  
-C) Task migratability  
-D) Responsiveness  
+A) Observability  
+B) Responsiveness  
+C) Dialogue initiative  
+D) Task migratability  
 
 #### 6. What does **task migratability** mean in the context of flexibility?  
-A) The system can switch between different users automatically  
-B) Responsibility for task execution can be passed between user and system  
-C) Users can perform multiple tasks simultaneously  
-D) The system adapts its interface based on user preferences  
+A) The system adapts its interface based on user preferences  
+B) Users can perform multiple tasks simultaneously  
+C) Responsibility for task execution can be passed between user and system  
+D) The system can switch between different users automatically  
 
 #### 7. Which of the following are aspects of **robustness** in usability?  
-A) Recoverability  
-B) Synthesizability  
+A) Synthesizability  
+B) Recoverability  
 C) Observability  
 D) Customizability  
 
 #### 8. What is the role of **observability** in robustness?  
-A) It allows users to evaluate the system’s internal state through perceivable feedback  
-B) It prevents users from making errors  
+A) It supports multiple input methods  
+B) It allows users to evaluate the system’s internal state through perceivable feedback  
 C) It enables users to customize the interface  
-D) It supports multiple input methods  
+D) It prevents users from making errors  
 
 #### 9. Which statements about **ISO 9241** are true?  
-A) It defines usability as effectiveness, efficiency, and satisfaction  
-B) It is a guideline with low authority  
-C) It is a standard that requires compliance by designers  
-D) It primarily focuses on hardware usability  
+A) It is a standard that requires compliance by designers  
+B) It primarily focuses on hardware usability  
+C) It defines usability as effectiveness, efficiency, and satisfaction  
+D) It is a guideline with low authority  
 
 #### 10. How do **guidelines** differ from **principles**?  
 A) Guidelines are more detailed and specific  
-B) Principles are more flexible and less authoritative  
+B) Principles apply only to hardware design  
 C) Guidelines are always legally enforced  
-D) Principles apply only to hardware design  
+D) Principles are more flexible and less authoritative  
 
 #### 11. Which of the following are true about **Shneiderman’s 8 Golden Rules**?  
-A) They include “Reduce short-term memory load”  
-B) They emphasize system control over user control  
-C) They promote consistency in design  
-D) They discourage error prevention  
+A) They promote consistency in design  
+B) They discourage error prevention  
+C) They emphasize system control over user control  
+D) They include “Reduce short-term memory load”  
 
 #### 12. Norman’s principle “Use both knowledge in the world and knowledge in the head” means:  
 A) Rely solely on user memory for task completion  
-B) Provide external cues to support user memory  
+B) Design tasks to be as complex as possible  
 C) Avoid using visible controls to reduce clutter  
-D) Design tasks to be as complex as possible  
+D) Provide external cues to support user memory  
 
 #### 13. What is a key characteristic of **design patterns** in HCI?  
 A) They are theoretical models without practical examples  
-B) They provide invariant solutions to recurring problems  
-C) They exist independently and are not linked to other patterns  
-D) They only apply to visual design elements  
+B) They only apply to visual design elements  
+C) They provide invariant solutions to recurring problems  
+D) They exist independently and are not linked to other patterns  
 
 #### 14. Which of the following statements about **multithreading** in flexibility are correct?  
 A) It allows users to interact with the system on multiple tasks at once  
 B) It refers to the system’s ability to recover from errors  
-C) It supports concurrent or interleaved task execution  
-D) It limits user input to one task at a time  
+C) It limits user input to one task at a time  
+D) It supports concurrent or interleaved task execution  
 
 #### 15. How does **customizability** enhance usability?  
 A) By allowing users or the system to modify the interface to suit preferences  
-B) By enforcing strict standards on interface layout  
-C) By preventing users from changing system behavior  
-D) By reducing the number of available input methods  
+B) By preventing users from changing system behavior  
+C) By reducing the number of available input methods  
+D) By enforcing strict standards on interface layout  
 
 #### 16. Which of the following are examples of **recoverability** features?  
-A) Undo and redo functions  
+A) Predicting user actions before they occur  
 B) Forward and backward navigation  
-C) Predicting user actions before they occur  
-D) Providing informative feedback after errors  
+C) Providing informative feedback after errors  
+D) Undo and redo functions  
 
 #### 17. What does **consistency** in usability principles imply?  
-A) Different tasks should have completely different input/output behaviors  
+A) Users should memorize unique commands for each task  
 B) Similar situations or tasks should behave similarly to reduce user confusion  
 C) The system should change behavior frequently to keep users alert  
-D) Users should memorize unique commands for each task  
+D) Different tasks should have completely different input/output behaviors  
 
 #### 18. Which of the following statements about **dialogue initiative** are true?  
-A) It refers to the system controlling all user inputs  
+A) It supports user-driven interaction rather than system pre-emptiveness  
 B) It allows users freedom from system-imposed constraints on input  
-C) It supports user-driven interaction rather than system pre-emptiveness  
+C) It refers to the system controlling all user inputs  
 D) It limits users to predefined dialogue paths  
 
 #### 19. How do **golden rules and heuristics** differ from standards and guidelines?  
 A) They are broad, practical checklists rather than strict rules  
-B) They are legally enforced design requirements  
+B) They are less useful than having no design rules at all  
 C) They provide detailed, specific instructions for implementation  
-D) They are less useful than having no design rules at all  
+D) They are legally enforced design requirements  
 
 #### 20. Which of the following best describe the relationship between **authority** and **generality** in design rules?  
-A) As authority increases, generality always increases  
-B) Principles have high generality but low authority  
+A) Principles have high generality but low authority  
+B) Guidelines have the highest authority and generality
 C) Standards have high authority but low generality  
-D) Guidelines have the highest authority and generality
+D) As authority increases, generality always increases  
 
 
 
@@ -130,179 +130,179 @@ D) Guidelines have the highest authority and generality
 
 #### 1. Which of the following best describe the characteristics of design **principles**?  
 A) ✗ Principles have low authority, not high.  
-B) ✓ Principles are abstract and broadly applicable across contexts.  
+B) ✗ Principles are not specific or strictly enforced.  
 C) ✓ Principles have low authority but high generality, meaning they apply widely.  
-D) ✗ Principles are not specific or strictly enforced.  
+D) ✓ Principles are abstract and broadly applicable across contexts.  
 
-**Correct:** B, C
+**Correct:** C, D
 
 
 #### 2. What distinguishes **standards** from guidelines in design rules?  
-A) ✓ Standards have higher authority and are more specific than guidelines.  
+A) ✗ Standards do not apply broadly across all contexts; they are more limited.  
 B) ✗ Guidelines are not legally binding; standards may be mandatory.  
-C) ✓ Guidelines are more general and flexible than standards.  
-D) ✗ Standards do not apply broadly across all contexts; they are more limited.  
+C) ✓ Standards have higher authority and are more specific than guidelines.  
+D) ✓ Guidelines are more general and flexible than standards.  
 
-**Correct:** A, C
+**Correct:** C, D
 
 
 #### 3. Which of the following are components of **learnability** in usability?  
 A) ✓ Predictability is key to learnability.  
-B) ✗ Multithreading relates to flexibility, not learnability.  
-C) ✓ Familiarity helps users learn new systems.  
-D) ✗ Recoverability is part of robustness, not learnability.  
+B) ✗ Recoverability is part of robustness, not learnability.  
+C) ✗ Multithreading relates to flexibility, not learnability.  
+D) ✓ Familiarity helps users learn new systems.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 4. How does **predictability** support learnability?  
-A) ✗ Undoing errors relates to recoverability, not predictability.  
-B) ✓ Predictability means users can anticipate future effects based on past actions.  
-C) ✗ Multiple input methods relate to flexibility, not predictability.  
-D) ✗ Supporting concurrent tasks is flexibility, not predictability.  
+A) ✗ Multiple input methods relate to flexibility, not predictability.  
+B) ✗ Supporting concurrent tasks is flexibility, not predictability.  
+C) ✓ Predictability means users can anticipate future effects based on past actions.  
+D) ✗ Undoing errors relates to recoverability, not predictability.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 5. Which of these are examples of **flexibility** principles?  
-A) ✓ Dialogue initiative is a flexibility principle.  
-B) ✗ Observability is part of robustness, not flexibility.  
-C) ✓ Task migratability is a flexibility principle.  
-D) ✗ Responsiveness relates to robustness, not flexibility.  
+A) ✗ Observability is part of robustness, not flexibility.  
+B) ✗ Responsiveness relates to robustness, not flexibility.  
+C) ✓ Dialogue initiative is a flexibility principle.  
+D) ✓ Task migratability is a flexibility principle.  
 
-**Correct:** A, C
+**Correct:** C, D
 
 
 #### 6. What does **task migratability** mean in the context of flexibility?  
-A) ✗ It is not about switching users automatically.  
-B) ✓ It means passing responsibility for task execution between user and system.  
-C) ✗ Multitasking is multithreading, not task migratability.  
-D) ✗ Customizability relates to interface modification, not task migratability.  
+A) ✗ Customizability relates to interface modification, not task migratability.  
+B) ✗ Multitasking is multithreading, not task migratability.  
+C) ✓ It means passing responsibility for task execution between user and system.  
+D) ✗ It is not about switching users automatically.  
+
+**Correct:** C
+
+
+#### 7. Which of the following are aspects of **robustness** in usability?  
+A) ✗ Synthesizability relates to learnability, not robustness.  
+B) ✓ Recoverability is a robustness principle.  
+C) ✓ Observability is part of robustness.  
+D) ✗ Customizability is a flexibility principle, not robustness.  
+
+**Correct:** B, C
+
+
+#### 8. What is the role of **observability** in robustness?  
+A) ✗ Supporting multiple input methods relates to flexibility, not observability.  
+B) ✓ It allows users to evaluate the system’s internal state via feedback.  
+C) ✗ Customizability is unrelated to observability.  
+D) ✗ It does not prevent errors but helps users understand system state.  
 
 **Correct:** B
 
 
-#### 7. Which of the following are aspects of **robustness** in usability?  
-A) ✓ Recoverability is a robustness principle.  
-B) ✗ Synthesizability relates to learnability, not robustness.  
-C) ✓ Observability is part of robustness.  
-D) ✗ Customizability is a flexibility principle, not robustness.  
-
-**Correct:** A, C
-
-
-#### 8. What is the role of **observability** in robustness?  
-A) ✓ It allows users to evaluate the system’s internal state via feedback.  
-B) ✗ It does not prevent errors but helps users understand system state.  
-C) ✗ Customizability is unrelated to observability.  
-D) ✗ Supporting multiple input methods relates to flexibility, not observability.  
-
-**Correct:** A
-
-
 #### 9. Which statements about **ISO 9241** are true?  
-A) ✓ It defines usability as effectiveness, efficiency, and satisfaction.  
-B) ✗ It is a standard, not a low-authority guideline.  
-C) ✓ It is a standard requiring compliance by designers.  
-D) ✗ It covers both hardware and software usability, not just hardware.  
+A) ✓ It is a standard requiring compliance by designers.  
+B) ✗ It covers both hardware and software usability, not just hardware.  
+C) ✓ It defines usability as effectiveness, efficiency, and satisfaction.  
+D) ✗ It is a standard, not a low-authority guideline.  
 
 **Correct:** A, C
 
 
 #### 10. How do **guidelines** differ from **principles**?  
 A) ✓ Guidelines are more detailed and specific than principles.  
-B) ✓ Principles are more flexible and less authoritative than guidelines.  
+B) ✗ Principles apply to all design, not only hardware.  
 C) ✗ Guidelines are not legally enforced.  
-D) ✗ Principles apply to all design, not only hardware.  
+D) ✓ Principles are more flexible and less authoritative than guidelines.  
 
-**Correct:** A, B
+**Correct:** A, D
 
 
 #### 11. Which of the following are true about **Shneiderman’s 8 Golden Rules**?  
-A) ✓ “Reduce short-term memory load” is one of the rules.  
-B) ✗ They promote user control, not system control.  
-C) ✓ Consistency is emphasized in the rules.  
-D) ✗ They encourage error prevention, not discourage it.  
+A) ✓ Consistency is emphasized in the rules.  
+B) ✗ They encourage error prevention, not discourage it.  
+C) ✗ They promote user control, not system control.  
+D) ✓ “Reduce short-term memory load” is one of the rules.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 12. Norman’s principle “Use both knowledge in the world and knowledge in the head” means:  
 A) ✗ It does not rely solely on user memory.  
-B) ✓ It means providing external cues to support user memory.  
+B) ✗ It aims to simplify tasks, not make them complex.  
 C) ✗ It encourages visible controls, not avoiding them.  
-D) ✗ It aims to simplify tasks, not make them complex.  
+D) ✓ It means providing external cues to support user memory.  
 
-**Correct:** B
+**Correct:** D
 
 
 #### 13. What is a key characteristic of **design patterns** in HCI?  
 A) ✗ They capture practical design knowledge, not just theory.  
-B) ✓ They provide invariant solutions to recurring problems.  
-C) ✗ Patterns are linked to other patterns in a language.  
-D) ✗ They apply to many design aspects, not only visual elements.  
+B) ✗ They apply to many design aspects, not only visual elements.  
+C) ✓ They provide invariant solutions to recurring problems.  
+D) ✗ Patterns are linked to other patterns in a language.  
 
-**Correct:** B
+**Correct:** C
 
 
 #### 14. Which of the following statements about **multithreading** in flexibility are correct?  
 A) ✓ It allows users to interact on multiple tasks simultaneously.  
 B) ✗ It is unrelated to error recovery.  
-C) ✓ It supports concurrent or interleaved task execution.  
-D) ✗ It does not limit users to one task at a time.  
+C) ✗ It does not limit users to one task at a time.  
+D) ✓ It supports concurrent or interleaved task execution.  
 
-**Correct:** A, C
+**Correct:** A, D
 
 
 #### 15. How does **customizability** enhance usability?  
 A) ✓ By allowing users or the system to modify the interface to suit preferences.  
-B) ✗ It does not enforce strict layout standards.  
-C) ✗ It encourages user modification, not prevention.  
-D) ✗ It does not reduce input methods but may increase options.  
+B) ✗ It encourages user modification, not prevention.  
+C) ✗ It does not reduce input methods but may increase options.  
+D) ✗ It does not enforce strict layout standards.  
 
 **Correct:** A
 
 
 #### 16. Which of the following are examples of **recoverability** features?  
-A) ✓ Undo and redo functions support recoverability.  
+A) ✗ Predicting user actions is related to predictability, not recoverability.  
 B) ✓ Forward and backward navigation help users recover from errors.  
-C) ✗ Predicting user actions is related to predictability, not recoverability.  
-D) ✓ Informative feedback after errors aids recovery.  
+C) ✓ Informative feedback after errors aids recovery.  
+D) ✓ Undo and redo functions support recoverability.  
 
-**Correct:** A, B, D
+**Correct:** B, C, D
 
 
 #### 17. What does **consistency** in usability principles imply?  
-A) ✗ Different tasks should behave similarly when appropriate.  
+A) ✗ Users should not memorize unique commands unnecessarily.  
 B) ✓ Similar situations or tasks should behave similarly to reduce confusion.  
 C) ✗ Frequent behavior changes confuse users.  
-D) ✗ Users should not memorize unique commands unnecessarily.  
+D) ✗ Different tasks should behave similarly when appropriate.  
 
 **Correct:** B
 
 
 #### 18. Which of the following statements about **dialogue initiative** are true?  
-A) ✗ It does not mean system controls all input.  
+A) ✓ It supports user-driven interaction rather than system pre-emptiveness.  
 B) ✓ It allows users freedom from system-imposed input constraints.  
-C) ✓ It supports user-driven interaction rather than system pre-emptiveness.  
+C) ✗ It does not mean system controls all input.  
 D) ✗ It does not limit users to predefined dialogue paths.  
 
-**Correct:** B, C
+**Correct:** A, B
 
 
 #### 19. How do **golden rules and heuristics** differ from standards and guidelines?  
 A) ✓ They are broad, practical checklists rather than strict rules.  
-B) ✗ They are not legally enforced requirements.  
+B) ✗ They are more useful than having no design rules at all.  
 C) ✗ They do not provide detailed instructions but general advice.  
-D) ✗ They are more useful than having no design rules at all.  
+D) ✗ They are not legally enforced requirements.  
 
-**Correct:** A, D
+**Correct:** A, B
 
 
 #### 20. Which of the following best describe the relationship between **authority** and **generality** in design rules?  
-A) ✗ Authority and generality do not always increase together.  
-B) ✓ Principles have high generality but low authority.  
+A) ✓ Principles have high generality but low authority.  
+B) ✗ Guidelines have medium authority and generality, not the highest.  
 C) ✓ Standards have high authority but low generality.  
-D) ✗ Guidelines have medium authority and generality, not the highest.  
+D) ✗ Authority and generality do not always increase together.  
 
-**Correct:** B, C
+**Correct:** A, C
