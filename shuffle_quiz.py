@@ -1,3 +1,14 @@
+"""
+Shuffles the answer options of every quiz file (quiz*/*.md) under the current directory.
+
+Each file must have a ## Questions section and a ## Answers section. Questions list
+options as plain "A) ..." lines; answers repeat those options prefixed with ✓/✗ and end
+each block with a "**Correct:** ..." line. Both sections are reshuffled in sync and the
+Correct line is updated to match the new letter assignments.
+
+Order is determined by SEED: same seed always produces the same arrangement. Change SEED
+to reshuffle all files to a new deterministic order.
+"""
 import hashlib
 import re
 from pathlib import Path
